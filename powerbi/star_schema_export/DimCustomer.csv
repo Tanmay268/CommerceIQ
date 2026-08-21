@@ -1,0 +1,2001 @@
+customer_id,customer_name,gender,age,city,state,signup_date,membership_tier,rfm_segment,risk_tier,age_band
+C10001,Advik Maharaj,Male,37,Chennai,Tamil Nadu,2026-02-07,Premium,New Customers,Watch,35-44
+C10002,Isaac Dewan,Male,41,Delhi,Delhi,2025-10-08,Regular,Champions,Watch,35-44
+C10003,Caleb Sami,Male,43,Thiruvananthapuram,Kerala,2025-05-27,Premium,New Customers,Watch,35-44
+C10004,Alexander Chander,Male,20,Bhopal,Madhya Pradesh,2025-03-27,Regular,Lost Customers,At Risk,18-24
+C10005,Jackson Tiwari,Male,35,Mumbai,Maharashtra,2026-03-15,Regular,At Risk,Lost,35-44
+C10006,Hardik Saini,Male,33,Chandigarh,Chandigarh,2026-04-22,Regular,Loyal Customers,Active,25-34
+C10007,Vanya Mall,Female,25,Delhi,Delhi,2025-11-12,Regular,New Customers,Active,25-34
+C10008,Gauri Sami,Female,41,Chennai,Tamil Nadu,2025-08-30,Premium,Loyal Customers,Watch,35-44
+C10009,Liam Dugal,Male,34,Patna,Bihar,2025-09-17,Regular,Lost Customers,Watch,25-34
+C10010,Pahal Chaudry,Female,38,Unknown,Maharashtra,2026-05-13,Regular,No Orders,Never Purchased,35-44
+C10011,Sachi Chatterjee,Female,25,Pune,Maharashtra,2025-03-26,Regular,No Orders,Never Purchased,25-34
+C10012,Orinder Lalla,Male,24,Kolkata,West Bengal,2025-12-12,Premium,New Customers,Watch,18-24
+C10013,Veda Yadav,Female,42,Coimbatore,Tamil Nadu,2025-07-08,Premium,Champions,Active,35-44
+C10014,Ranbir Brar,Male,32,Ahmedabad,Gujarat,2026-01-25,Regular,New Customers,Watch,25-34
+C10015,Radhika Handa,Female,27,Unknown,Kerala,2025-03-12,Regular,Lost Customers,Watch,25-34
+C10016,Aradhana Kari,Female,32,Bhopal,Madhya Pradesh,2026-08-05,Regular,At Risk,Lost,25-34
+C10017,Balveer Kaul,Male,29,Coimbatore,Tamil Nadu,2026-04-08,Regular,At Risk,At Risk,25-34
+C10018,Sachi Mall,Female,39,Mumbai,Maharashtra,2025-05-23,Premium,Loyal Customers,Active,35-44
+C10019,Qabil Gaba,Male,37,Ahmedabad,Gujarat,2025-12-08,Regular,At Risk,At Risk,35-44
+C10020,Raagini Kadakia,Female,38,Bangalore,Karnataka,2025-04-30,Regular,New Customers,Active,35-44
+C10021,Balendra Garg,Male,55,Thiruvananthapuram,Kerala,2025-08-28,Regular,Lost Customers,Watch,55+
+C10022,Finn Shere,Male,28,Indore,Madhya Pradesh,2026-08-03,Regular,Potential Loyalists,Active,25-34
+C10023,Krishna Kanda,Male,25,Bangalore,Karnataka,2025-03-17,Regular,Lost Customers,Watch,25-34
+C10024,Baghyawati Karnik,Female,45,Kochi,Kerala,2025-10-25,Regular,Can't Lose Them,Lost,45-54
+C10025,Nakul Rattan,Male,32,Thiruvananthapuram,Kerala,2026-02-25,Regular,At Risk,At Risk,25-34
+C10026,Bachittar Kakar,Male,25,Delhi,Delhi,2025-10-29,Premium,Lost Customers,Lost,25-34
+C10027,Jagvi Tata,Female,40,Ahmedabad,Gujarat,2026-07-19,Regular,No Orders,Never Purchased,35-44
+C10028,Veer Dhar,Male,39,Bhopal,Madhya Pradesh,2025-10-07,Premium,Potential Loyalists,At Risk,35-44
+C10029,Ekiya Koshy,Female,27,Mysuru,Karnataka,2025-10-06,Regular,Champions,Watch,25-34
+C10030,Upadhriti Rastogi,Female,33,Kochi,Kerala,2026-05-03,Regular,At Risk,Watch,25-34
+C10031,Januja Devi,Female,36,Nagpur,Maharashtra,2025-06-17,Regular,Potential Loyalists,Active,35-44
+C10032,Chandani Batta,Female,36,Guwahati,Assam,2026-02-23,Regular,Potential Loyalists,Active,35-44
+C10033,Ganga Dutta,Female,40,Kolkata,West Bengal,2026-05-03,Regular,Lost Customers,Watch,35-44
+C10034,Azad Rajan,Male,36,Kanpur,Uttar Pradesh,2025-02-06,Regular,Loyal Customers,Watch,35-44
+C10035,Vivaan Wadhwa,Male,40,Pune,Maharashtra,2025-10-26,Regular,New Customers,Watch,35-44
+C10036,Abdul Contractor,Male,30,Thiruvananthapuram,Kerala,2026-03-08,Regular,Potential Loyalists,Active,25-34
+C10037,Onkar Choudhury,Male,29,Ahmedabad,Gujarat,2025-11-15,Regular,At Risk,At Risk,25-34
+C10038,Urishilla Dugar,Female,31,Kanpur,Uttar Pradesh,2025-12-20,Regular,Loyal Customers,Active,25-34
+C10039,Aarav Lall,Male,48,Thiruvananthapuram,Kerala,2025-10-08,Premium,Potential Loyalists,Watch,45-54
+C10040,Yashica Cherian,Female,43,Unknown,Kerala,2026-02-15,Regular,Lost Customers,Watch,35-44
+C10041,Yashica Issac,Female,18,Surat,Gujarat,2025-03-18,Regular,Can't Lose Them,At Risk,18-24
+C10042,Rachit Edwin,Male,35,Guwahati,Assam,2026-04-10,Premium,New Customers,Watch,35-44
+C10043,Ojasvi Suresh,Female,39,Kanpur,Uttar Pradesh,2025-03-25,Premium,Champions,Active,35-44
+C10044,Daksh Patil,Male,41,Kochi,Kerala,2025-12-15,Regular,New Customers,Active,35-44
+C10045,Jagdish Bhardwaj,Male,30,Nagpur,Maharashtra,2025-08-17,Regular,New Customers,Watch,25-34
+C10046,Balveer Chada,Male,42,Chandigarh,Chandigarh,2025-10-07,VIP,At Risk,Lost,35-44
+C10047,Bakhshi Walia,Male,32,Indore,Madhya Pradesh,2026-08-17,Regular,At Risk,Lost,25-34
+C10048,Devansh Soman,Male,22,Pune,Maharashtra,2026-05-31,Premium,Champions,Active,18-24
+C10049,Libni Wable,Female,24,Delhi,Delhi,2026-06-01,Regular,New Customers,Active,18-24
+C10050,Hitesh Zacharia,Male,35,Mumbai,Maharashtra,2025-07-11,Premium,Lost Customers,Watch,35-44
+C10051,Nachiket Rastogi,Male,40,Chandigarh,Chandigarh,2025-04-14,Premium,Lost Customers,Watch,35-44
+C10052,Theodore Varughese,Male,35,Thiruvananthapuram,Kerala,2025-12-14,Regular,New Customers,Watch,35-44
+C10053,Darpan Kota,Male,40,Gurugram,Haryana,2025-09-21,Regular,Potential Loyalists,Watch,35-44
+C10054,Bhavika Nigam,Female,38,Mysuru,Karnataka,2025-09-20,Premium,At Risk,Lost,35-44
+C10055,Ishwar Kannan,Male,27,Patna,Bihar,2025-08-10,Regular,At Risk,Watch,25-34
+C10056,Bimala Bhargava,Female,30,Jaipur,Rajasthan,2025-02-14,Premium,Lost Customers,Lost,25-34
+C10057,Bhavna Balay,Female,33,Pune,Maharashtra,2026-03-03,Regular,Loyal Customers,Watch,25-34
+C10058,Balendra Varkey,Male,29,Hyderabad,Telangana,2025-10-21,Regular,At Risk,At Risk,25-34
+C10059,Liam Sunder,Male,34,Bhopal,Madhya Pradesh,2026-07-17,Regular,At Risk,At Risk,25-34
+C10060,Dominic Solanki,Male,38,Patna,Bihar,2025-04-29,Regular,Lost Customers,At Risk,35-44
+C10061,Warjas Ray,Male,40,Mumbai,Maharashtra,2025-05-07,Premium,Lost Customers,Watch,35-44
+C10062,Charvi Chatterjee,Female,29,Mumbai,Maharashtra,2025-09-05,Regular,New Customers,Watch,25-34
+C10063,Raagini Sampath,Female,33,Thiruvananthapuram,Kerala,2026-01-11,Regular,At Risk,Watch,25-34
+C10064,Vivaan Bhagat,Male,19,Guwahati,Assam,2025-08-25,Premium,Potential Loyalists,At Risk,18-24
+C10065,Bhavani Rau,Female,20,Delhi,Delhi,2025-08-12,Premium,At Risk,At Risk,18-24
+C10066,Darika Kothari,Female,33,Mysuru,Karnataka,2026-07-31,Regular,Potential Loyalists,Watch,25-34
+C10067,Ikshita Yadav,Female,24,Kolkata,West Bengal,2025-10-18,Regular,At Risk,At Risk,18-24
+C10068,Ekiya Sami,Female,46,Guwahati,Assam,2025-07-02,Regular,New Customers,Watch,45-54
+C10069,Liam Shere,Male,30,Coimbatore,Tamil Nadu,2025-06-29,Regular,No Orders,Never Purchased,25-34
+C10070,Bishakha Savant,Female,24,Pune,Maharashtra,2026-03-14,Regular,Lost Customers,Watch,18-24
+C10071,Aryan Zachariah,Male,31,Chandigarh,Chandigarh,2025-03-18,Regular,At Risk,Watch,25-34
+C10072,Charita Khalsa,Female,30,Bangalore,Karnataka,2025-03-28,Regular,No Orders,Never Purchased,25-34
+C10073,Samar Sunder,Male,42,Mumbai,Maharashtra,2026-03-07,Regular,No Orders,Never Purchased,35-44
+C10074,Hredhaan Rattan,Male,38,Coimbatore,Tamil Nadu,2025-05-27,Regular,Lost Customers,Watch,35-44
+C10075,Fitan Raghavan,Male,36,Mumbai,Maharashtra,2025-12-08,Premium,At Risk,Lost,35-44
+C10076,Robert Lanka,Male,19,Bangalore,Karnataka,2025-05-13,Regular,No Orders,Never Purchased,18-24
+C10077,Mekhala Sampath,Female,34,Mysuru,Karnataka,2025-11-07,Premium,Lost Customers,Lost,25-34
+C10078,Faras Gupta,Male,36,Bangalore,Karnataka,2026-03-16,Regular,New Customers,Watch,35-44
+C10079,Janani Bhardwaj,Female,34,Gurugram,Haryana,2025-04-22,Premium,Lost Customers,Lost,25-34
+C10080,Nirja Bhandari,Female,31,Faridabad,Haryana,2025-12-29,Regular,Lost Customers,Lost,25-34
+C10081,Waida Thakkar,Female,23,Nagpur,Maharashtra,2026-04-06,Regular,Potential Loyalists,Active,18-24
+C10082,Ayush Trivedi,Male,36,Coimbatore,Tamil Nadu,2025-09-25,Regular,No Orders,Never Purchased,35-44
+C10083,Girik Biswas,Male,47,Guwahati,Assam,2025-05-19,Regular,New Customers,Active,45-54
+C10084,Jacob Raval,Male,37,Bhopal,Madhya Pradesh,2025-08-07,Regular,At Risk,Watch,35-44
+C10085,Jatin Baral,Male,48,Unknown,Tamil Nadu,2025-05-12,VIP,At Risk,Watch,45-54
+C10086,Shaurya Virk,Male,27,Bangalore,Karnataka,2025-12-31,Regular,Potential Loyalists,Watch,25-34
+C10087,Kalpit Jayaraman,Male,24,Thiruvananthapuram,Kerala,2026-08-16,Premium,Champions,Active,18-24
+C10088,Kashvi Lanka,Female,20,Pune,Maharashtra,2025-12-27,VIP,Loyal Customers,Watch,18-24
+C10089,Dominic Mital,Male,40,Bhopal,Madhya Pradesh,2025-07-18,Regular,New Customers,Watch,35-44
+C10090,Nakul Bora,Male,19,Surat,Gujarat,2025-02-14,Regular,Loyal Customers,Watch,18-24
+C10091,Vasudha Chaudhry,Female,23,Gurugram,Haryana,2025-10-24,Regular,Lost Customers,Lost,18-24
+C10092,Jalsa Toor,Female,42,Delhi,Delhi,2026-04-21,Regular,At Risk,Watch,35-44
+C10093,Dominic Palla,Male,53,Thiruvananthapuram,Kerala,2026-02-16,Regular,Lost Customers,Lost,45-54
+C10094,Krisha Pingle,Female,38,Hyderabad,Telangana,2025-11-06,Premium,At Risk,Watch,35-44
+C10095,Farhan Sarma,Male,24,Chennai,Tamil Nadu,2025-12-05,Regular,At Risk,Lost,18-24
+C10096,Aayush Mistry,Male,36,Mumbai,Maharashtra,2025-10-27,Regular,Lost Customers,Watch,35-44
+C10097,Ekani Lalla,Female,25,Nagpur,Maharashtra,2025-12-07,Premium,Potential Loyalists,Watch,25-34
+C10098,Chatresh Dugal,Male,27,Delhi,Delhi,2025-11-23,Regular,Loyal Customers,Watch,25-34
+C10099,Lohit Kade,Male,32,Jaipur,Rajasthan,2025-08-26,Premium,Lost Customers,Watch,25-34
+C10100,Ishani Lalla,Female,33,Indore,Madhya Pradesh,2026-05-15,VIP,Lost Customers,Active,25-34
+C10101,Jeremiah Behl,Male,32,Thiruvananthapuram,Kerala,2025-07-23,Premium,No Orders,Never Purchased,25-34
+C10102,Udyati Malhotra,Female,18,Thiruvananthapuram,Kerala,2025-12-12,Regular,Potential Loyalists,Watch,18-24
+C10103,Aarav Nath,Male,29,Gurugram,Haryana,2025-04-10,Regular,New Customers,Watch,25-34
+C10104,Karan Edwin,Male,36,Guwahati,Assam,2025-07-11,Regular,New Customers,Watch,35-44
+C10105,Unni Andra,Female,51,Faridabad,Haryana,2026-07-18,Regular,Lost Customers,Watch,45-54
+C10106,Bishakha Dixit,Female,43,Mysuru,Karnataka,2026-04-13,Regular,At Risk,At Risk,35-44
+C10107,Reva Divan,Female,29,Kanpur,Uttar Pradesh,2026-08-07,Regular,New Customers,Active,25-34
+C10108,Devansh Barman,Male,24,Mumbai,Maharashtra,2025-06-12,Regular,At Risk,Lost,18-24
+C10109,Rajata Baral,Female,26,Coimbatore,Tamil Nadu,2025-12-08,Regular,Champions,Watch,25-34
+C10110,Henry Krish,Male,25,Kochi,Kerala,2025-08-30,VIP,New Customers,Watch,25-34
+C10111,Peter Ray,Male,42,Guwahati,Assam,2026-08-01,Regular,Potential Loyalists,Watch,35-44
+C10112,Kashish Gaba,Female,43,Chandigarh,Chandigarh,2025-07-31,Regular,Champions,Watch,35-44
+C10113,Samuel Bakshi,Male,37,Patna,Bihar,2026-01-19,Premium,Lost Customers,Watch,35-44
+C10114,Ojas Sabharwal,Male,33,Kolkata,West Bengal,2025-11-20,Regular,Champions,Active,25-34
+C10115,Kiaan Dutta,Male,27,Surat,Gujarat,2025-05-15,Regular,At Risk,Lost,25-34
+C10116,Sai Barad,Female,29,Kolkata,West Bengal,2025-05-06,Premium,Lost Customers,Watch,25-34
+C10117,Indrajit Iyengar,Male,21,Kolkata,West Bengal,2026-08-04,Regular,At Risk,At Risk,18-24
+C10118,Parth Mody,Male,35,Thiruvananthapuram,Kerala,2026-08-17,Regular,Potential Loyalists,Watch,35-44
+C10119,Jasmit Bajwa,Female,49,Indore,Madhya Pradesh,2026-05-26,Premium,At Risk,Watch,45-54
+C10120,Ryan Narasimhan,Male,32,Bangalore,Karnataka,2026-06-21,VIP,Champions,Watch,25-34
+C10121,Bakhshi Mallick,Male,36,Surat,Gujarat,2025-10-25,Regular,Lost Customers,Watch,35-44
+C10122,Yashoda Ratta,Female,36,Surat,Gujarat,2025-07-30,Premium,Lost Customers,Active,35-44
+C10123,Akshay D’Alia,Male,29,Gurugram,Haryana,2025-09-22,Regular,Champions,Watch,25-34
+C10124,Gaurav Lanka,Male,38,Ahmedabad,Gujarat,2025-09-01,Premium,Lost Customers,Watch,35-44
+C10125,Darika Saraf,Female,49,Delhi,Delhi,2025-09-05,Regular,Can't Lose Them,At Risk,45-54
+C10126,Nirja Sarin,Female,21,Kolkata,West Bengal,2025-06-30,Regular,At Risk,Lost,18-24
+C10127,Reyansh Gupta,Male,20,Delhi,Delhi,2025-02-20,Regular,Lost Customers,Lost,18-24
+C10128,Anthony Sarin,Male,51,Ahmedabad,Gujarat,2025-04-12,Regular,Potential Loyalists,Watch,45-54
+C10129,Guneet Patla,Male,33,Gurugram,Haryana,2026-03-31,Regular,No Orders,Never Purchased,25-34
+C10130,Bhavya Narayanan,Female,48,Thiruvananthapuram,Kerala,2025-05-14,VIP,At Risk,At Risk,45-54
+C10131,Diya Mital,Female,22,Chennai,Tamil Nadu,2025-07-10,Regular,Potential Loyalists,Watch,18-24
+C10132,Tara Narain,Female,40,Bangalore,Karnataka,2025-07-27,Regular,No Orders,Never Purchased,35-44
+C10133,Neelima Datta,Female,30,Coimbatore,Tamil Nadu,2025-11-11,Regular,Loyal Customers,At Risk,25-34
+C10134,Ucchal Raghavan,Female,32,Kolkata,West Bengal,2025-11-12,Premium,At Risk,Watch,25-34
+C10135,Nidhi Ravi,Female,37,Unknown,Gujarat,2025-05-11,Regular,Champions,Watch,35-44
+C10136,Max Mangat,Male,34,Ahmedabad,Gujarat,2025-06-11,Premium,Champions,Active,25-34
+C10137,Tanveer Nagy,Male,40,Gurugram,Haryana,2026-08-04,Regular,No Orders,Never Purchased,35-44
+C10138,Vaishnavi Sathe,Female,33,Chennai,Tamil Nadu,2025-04-11,Regular,Loyal Customers,Watch,25-34
+C10139,Warjas Gara,Male,25,Kolkata,West Bengal,2026-04-11,Regular,Lost Customers,Lost,25-34
+C10140,Meghana Varma,Female,25,Indore,Madhya Pradesh,2025-12-27,Regular,Loyal Customers,Active,25-34
+C10141,Chakradhar Keer,Male,30,Guwahati,Assam,2025-02-16,Premium,New Customers,Watch,25-34
+C10142,Jeevika Issac,Female,20,Thiruvananthapuram,Kerala,2026-03-13,Regular,New Customers,Active,18-24
+C10143,Amaira Batra,Female,34,Patna,Bihar,2025-10-05,Regular,Potential Loyalists,Active,25-34
+C10144,Wazir Bora,Male,38,Mysuru,Karnataka,2025-04-13,Regular,No Orders,Never Purchased,35-44
+C10145,Triya Hayer,Female,29,Thiruvananthapuram,Kerala,2026-08-06,Premium,New Customers,Active,25-34
+C10146,Yug Ratta,Male,44,Indore,Madhya Pradesh,2025-07-22,Regular,Champions,Watch,35-44
+C10147,Falak Ahluwalia,Female,39,Chandigarh,Chandigarh,2025-07-29,Premium,Lost Customers,Watch,35-44
+C10148,Unnati Kanda,Female,32,Faridabad,Haryana,2026-07-27,Regular,No Orders,Never Purchased,25-34
+C10149,Yochana Shetty,Female,27,Jaipur,Rajasthan,2025-11-11,Regular,At Risk,At Risk,25-34
+C10150,Jeet Dara,Male,36,Kanpur,Uttar Pradesh,2025-02-16,Regular,Champions,Active,35-44
+C10151,Ekalinga Shetty,Male,35,Thiruvananthapuram,Kerala,2026-05-23,Regular,At Risk,Lost,35-44
+C10152,Vaishnavi Thaman,Female,34,Mumbai,Maharashtra,2025-04-02,Premium,Lost Customers,Lost,25-34
+C10153,Udant Dutt,Male,36,Thiruvananthapuram,Kerala,2025-02-05,Regular,New Customers,Watch,35-44
+C10154,Umang Lad,Male,52,Nagpur,Maharashtra,2026-08-02,Regular,Loyal Customers,At Risk,45-54
+C10155,Lakshit Verma,Male,25,Lucknow,Uttar Pradesh,2026-03-26,Regular,Lost Customers,Lost,25-34
+C10156,Jagdish Maharaj,Male,19,Jaipur,Rajasthan,2026-05-03,Regular,New Customers,Watch,18-24
+C10157,Balvan Mangal,Male,28,Patna,Bihar,2026-05-27,Regular,Champions,Active,25-34
+C10158,Madhavi Nayak,Female,46,Ahmedabad,Gujarat,2025-02-12,Regular,New Customers,Watch,45-54
+C10159,Banjeet Devi,Male,26,Pune,Maharashtra,2025-06-23,Premium,At Risk,Lost,25-34
+C10160,Jack Rajagopal,Male,18,Bangalore,Karnataka,2026-04-28,Premium,No Orders,Never Purchased,18-24
+C10161,Jalsa Bhatt,Female,32,Coimbatore,Tamil Nadu,2026-04-11,Regular,Lost Customers,Lost,25-34
+C10162,Samar Narayanan,Male,28,Jaipur,Rajasthan,2026-01-11,Regular,Loyal Customers,At Risk,25-34
+C10163,Triya Bhatia,Female,25,Thiruvananthapuram,Kerala,2025-04-07,Regular,Lost Customers,Watch,25-34
+C10164,Ucchal Ramachandran,Female,18,Jaipur,Rajasthan,2026-02-05,Regular,No Orders,Never Purchased,18-24
+C10165,Sachi Sood,Female,19,Chandigarh,Chandigarh,2025-11-29,Regular,Lost Customers,Watch,18-24
+C10166,Patrick Misra,Male,21,Guwahati,Assam,2025-06-22,Premium,No Orders,Never Purchased,18-24
+C10167,Ubika Yohannan,Female,23,Gurugram,Haryana,2026-05-23,Premium,Champions,Active,18-24
+C10168,Widisha Kanda,Female,63,Kanpur,Uttar Pradesh,2026-05-10,Regular,Lost Customers,Lost,55+
+C10169,Tejas Sunder,Male,22,Gurugram,Haryana,2025-10-29,Regular,Champions,Active,18-24
+C10170,Saumya Nayar,Female,37,Delhi,Delhi,2026-01-04,Regular,Loyal Customers,At Risk,35-44
+C10171,Gayathri Sibal,Female,51,Chandigarh,Chandigarh,2025-08-01,Regular,Loyal Customers,Watch,45-54
+C10172,Agastya Ramesh,Male,31,Delhi,Delhi,2025-07-27,Regular,Lost Customers,Watch,25-34
+C10173,Benjamin Sangha,Male,41,Patna,Bihar,2026-01-06,Regular,At Risk,Lost,35-44
+C10174,Vedhika Gopal,Female,30,Surat,Gujarat,2025-05-06,Regular,At Risk,Watch,25-34
+C10175,Leena Raghavan,Female,32,Surat,Gujarat,2025-10-17,Regular,Loyal Customers,Watch,25-34
+C10176,Jagvi Sha,Female,31,Ahmedabad,Gujarat,2025-04-08,Premium,New Customers,Active,25-34
+C10177,Om Raghavan,Male,31,Bhopal,Madhya Pradesh,2025-05-23,Regular,Potential Loyalists,Watch,25-34
+C10178,Shivansh Krishnan,Male,28,Kolkata,West Bengal,2025-05-11,Regular,Lost Customers,Lost,25-34
+C10179,Vrinda Bahl,Female,38,Surat,Gujarat,2025-11-21,Regular,Lost Customers,Watch,35-44
+C10180,Parth Kapur,Male,35,Lucknow,Uttar Pradesh,2026-02-22,Regular,At Risk,Watch,35-44
+C10181,Anusha Balasubramanian,Female,37,Lucknow,Uttar Pradesh,2026-08-13,Regular,Loyal Customers,Active,35-44
+C10182,Irya Bahri,Female,34,Thiruvananthapuram,Kerala,2025-11-14,Regular,No Orders,Never Purchased,25-34
+C10183,Kashvi Date,Female,26,Guwahati,Assam,2025-12-02,Regular,Lost Customers,Lost,25-34
+C10184,Deepa Kamdar,Female,33,Nagpur,Maharashtra,2025-02-26,VIP,At Risk,At Risk,25-34
+C10185,Kabir Pillay,Male,54,Ahmedabad,Gujarat,2026-01-31,Regular,Lost Customers,Watch,45-54
+C10186,Dakshesh Gade,Male,37,Mumbai,Maharashtra,2025-12-22,Regular,Potential Loyalists,At Risk,35-44
+C10187,Chatura Bal,Male,26,Jaipur,Rajasthan,2025-02-06,Regular,Lost Customers,Watch,25-34
+C10188,Riya Ranganathan,Female,36,Ahmedabad,Gujarat,2025-09-01,Regular,Lost Customers,Lost,35-44
+C10189,Bishakha Kibe,Female,22,Hyderabad,Telangana,2025-03-26,Regular,Loyal Customers,Active,18-24
+C10190,Nidhi Dara,Female,36,Gurugram,Haryana,2026-05-19,Premium,Lost Customers,Watch,35-44
+C10191,Prisha Walia,Female,38,Gurugram,Haryana,2026-02-27,Premium,Loyal Customers,Watch,35-44
+C10192,Reva Biswas,Female,43,Chennai,Tamil Nadu,2025-03-30,Premium,At Risk,Lost,35-44
+C10193,Abeer Salvi,Male,38,Kolkata,West Bengal,2025-06-17,Regular,Loyal Customers,Watch,35-44
+C10194,Chatresh Sant,Male,29,Kochi,Kerala,2026-08-10,Regular,Lost Customers,Active,25-34
+C10195,Victor Dua,Male,36,Delhi,Delhi,2026-01-23,Regular,At Risk,Lost,35-44
+C10196,Gaurang Vig,Male,31,Indore,Madhya Pradesh,2026-01-31,Regular,At Risk,Lost,25-34
+C10197,Wyatt Shroff,Male,32,Lucknow,Uttar Pradesh,2026-05-15,Regular,Lost Customers,At Risk,25-34
+C10198,Krish Naidu,Male,35,Jaipur,Rajasthan,2025-12-02,Regular,Champions,Active,35-44
+C10199,Chameli Mallick,Female,48,Bangalore,Karnataka,2026-05-19,Regular,Lost Customers,Lost,45-54
+C10200,Jairaj Shetty,Male,31,Bangalore,Karnataka,2025-10-21,VIP,No Orders,Never Purchased,25-34
+C10201,Om Balakrishnan,Male,35,Bhopal,Madhya Pradesh,2025-06-23,Regular,Lost Customers,Watch,35-44
+C10202,Omaja Gopal,Female,30,Bhopal,Madhya Pradesh,2025-07-02,Regular,No Orders,Never Purchased,25-34
+C10203,Jagvi Pant,Female,18,Ahmedabad,Gujarat,2025-05-06,VIP,Lost Customers,Lost,18-24
+C10204,Onkar Mammen,Male,51,Mumbai,Maharashtra,2025-09-25,Regular,Lost Customers,Watch,45-54
+C10205,Abdul Varughese,Male,18,Pune,Maharashtra,2025-11-14,Regular,New Customers,Watch,18-24
+C10206,Chaman Khurana,Female,30,Thiruvananthapuram,Kerala,2025-08-28,Regular,Champions,Active,25-34
+C10207,Yash Khosla,Male,33,Bhopal,Madhya Pradesh,2025-05-16,Premium,Lost Customers,Lost,25-34
+C10208,Xalak Sem,Female,30,Chandigarh,Chandigarh,2026-02-25,Regular,At Risk,Lost,25-34
+C10209,Charita Menon,Female,47,Mumbai,Maharashtra,2026-02-16,Regular,No Orders,Never Purchased,45-54
+C10210,Tanmayi Kohli,Female,51,Chennai,Tamil Nadu,2026-07-05,Premium,No Orders,Never Purchased,45-54
+C10211,Raksha Solanki,Female,45,Pune,Maharashtra,2025-10-20,Regular,Loyal Customers,At Risk,45-54
+C10212,Unnati Narayanan,Female,51,Kochi,Kerala,2025-12-02,Premium,Lost Customers,Watch,45-54
+C10213,Vasana Madan,Female,38,Unknown,Bihar,2025-05-27,Regular,Champions,Watch,35-44
+C10214,Jeremiah Kashyap,Male,31,Guwahati,Assam,2026-05-03,Regular,New Customers,Watch,25-34
+C10215,Inaya Mutti,Female,34,Indore,Madhya Pradesh,2025-03-15,Premium,Loyal Customers,Active,25-34
+C10216,Hiral Handa,Female,43,Jaipur,Rajasthan,2025-07-15,Regular,Lost Customers,Watch,35-44
+C10217,Warhi Malhotra,Female,22,Hyderabad,Telangana,2026-01-06,Premium,Lost Customers,Watch,18-24
+C10218,Chandresh Hari,Male,32,Gurugram,Haryana,2026-03-02,Premium,Loyal Customers,Active,25-34
+C10219,Ishaan Patel,Male,45,Jaipur,Rajasthan,2026-01-28,Regular,Potential Loyalists,Watch,45-54
+C10220,Nidhi Atwal,Female,52,Hyderabad,Telangana,2025-03-27,Regular,Champions,Watch,45-54
+C10221,Mahika Bath,Female,41,Bangalore,Karnataka,2025-11-25,Regular,Lost Customers,Watch,35-44
+C10222,Mugdha Date,Female,33,Gurugram,Haryana,2026-07-16,Regular,Lost Customers,Active,25-34
+C10223,Dalaja Arora,Female,22,Chandigarh,Chandigarh,2025-05-08,Regular,Lost Customers,Active,18-24
+C10224,Wahab Srinivas,Male,49,Mumbai,Maharashtra,2026-05-01,Regular,No Orders,Never Purchased,45-54
+C10225,Panini Gour,Female,40,Lucknow,Uttar Pradesh,2026-08-20,Regular,Lost Customers,Watch,35-44
+C10226,Jonathan Sridhar,Male,23,Patna,Bihar,2026-04-28,Regular,Champions,Watch,18-24
+C10227,Bhavini Rattan,Female,34,Jaipur,Rajasthan,2026-03-17,Premium,At Risk,Lost,25-34
+C10228,Balhaar Bera,Male,27,Faridabad,Haryana,2026-01-01,Regular,Loyal Customers,Watch,25-34
+C10229,Falan Modi,Male,37,Faridabad,Haryana,2025-04-16,Regular,At Risk,Lost,35-44
+C10230,Kritika Dani,Female,40,Lucknow,Uttar Pradesh,2025-12-18,Regular,Lost Customers,Watch,35-44
+C10231,Jeevika Virk,Female,18,Surat,Gujarat,2026-02-21,VIP,Loyal Customers,At Risk,18-24
+C10232,Varenya Savant,Female,34,Kolkata,West Bengal,2025-11-24,Premium,New Customers,Watch,25-34
+C10233,Upadhriti Mody,Female,38,Faridabad,Haryana,2025-11-22,Regular,Lost Customers,Watch,35-44
+C10234,Chandran Johal,Male,18,Guwahati,Assam,2025-11-07,Regular,Lost Customers,Lost,18-24
+C10235,Kevin Bumb,Male,28,Guwahati,Assam,2026-05-26,Regular,Champions,Active,25-34
+C10236,Jagdish Ghose,Male,18,Mysuru,Karnataka,2025-04-10,Regular,Lost Customers,Lost,18-24
+C10237,Gaurangi Agate,Female,48,Gurugram,Haryana,2025-11-05,Premium,No Orders,Never Purchased,45-54
+C10238,Varenya Singhal,Female,42,Pune,Maharashtra,2026-02-09,Premium,Lost Customers,Lost,35-44
+C10239,Anamika Kata,Female,28,Delhi,Delhi,2025-05-30,Regular,Lost Customers,Watch,25-34
+C10240,Megha Setty,Female,44,Chennai,Tamil Nadu,2026-02-16,Premium,Loyal Customers,At Risk,35-44
+C10241,Jackson Lalla,Male,36,Gurugram,Haryana,2026-05-10,Regular,Champions,Active,35-44
+C10242,Simon Contractor,Male,36,Chandigarh,Chandigarh,2026-04-09,Regular,Loyal Customers,At Risk,35-44
+C10243,Falan Lata,Male,25,Kochi,Kerala,2025-11-30,Premium,Champions,Watch,25-34
+C10244,Bimala Bhasin,Female,32,Pune,Maharashtra,2025-07-29,Premium,Champions,Watch,25-34
+C10245,Nikita Mani,Female,37,Lucknow,Uttar Pradesh,2025-03-22,Regular,New Customers,Watch,35-44
+C10246,Diya Sidhu,Female,23,Bangalore,Karnataka,2026-07-16,VIP,No Orders,Never Purchased,18-24
+C10247,Tamanna Magar,Female,32,Unknown,Uttar Pradesh,2025-04-15,Regular,At Risk,Lost,25-34
+C10248,Theodore Buch,Male,26,Ahmedabad,Gujarat,2026-03-22,Regular,Lost Customers,Watch,25-34
+C10249,Tarak Naidu,Male,25,Nagpur,Maharashtra,2025-08-25,Regular,Potential Loyalists,Watch,25-34
+C10250,Amara Chand,Female,42,Mumbai,Maharashtra,2026-04-19,VIP,At Risk,Lost,35-44
+C10251,Advaith Luthra,Male,34,Chandigarh,Chandigarh,2026-02-05,Premium,Potential Loyalists,Watch,25-34
+C10252,Gagan Singhal,Male,42,Kanpur,Uttar Pradesh,2026-08-14,Regular,Lost Customers,Watch,35-44
+C10253,Maya Golla,Female,42,Faridabad,Haryana,2025-09-29,Premium,Loyal Customers,Watch,35-44
+C10254,Xalak Chand,Female,57,Faridabad,Haryana,2025-04-10,Regular,Lost Customers,Watch,55+
+C10255,Owen Rege,Male,33,Indore,Madhya Pradesh,2025-04-12,VIP,New Customers,Watch,25-34
+C10256,Naveen Cheema,Male,50,Mysuru,Karnataka,2025-04-12,Regular,New Customers,Watch,45-54
+C10257,Omya Sabharwal,Female,29,Thiruvananthapuram,Kerala,2025-12-07,Regular,Potential Loyalists,Watch,25-34
+C10258,Maanas Rattan,Male,47,Bangalore,Karnataka,2025-02-08,Regular,Potential Loyalists,Watch,45-54
+C10259,Utkarsh Chakrabarti,Male,18,Chennai,Tamil Nadu,2025-10-04,Regular,Can't Lose Them,At Risk,18-24
+C10260,Lajita Naik,Female,18,Faridabad,Haryana,2025-07-19,Regular,Can't Lose Them,Lost,18-24
+C10261,Tamanna Varkey,Female,26,Patna,Bihar,2025-02-08,Regular,New Customers,Active,25-34
+C10262,Vedhika Sachdev,Female,39,Mumbai,Maharashtra,2025-07-22,Regular,Loyal Customers,At Risk,35-44
+C10263,Ijaya Vasa,Female,36,Kochi,Kerala,2025-12-07,Regular,Lost Customers,Lost,35-44
+C10264,Zaid Sathe,Male,18,Surat,Gujarat,2025-04-05,Regular,New Customers,Watch,18-24
+C10265,Harsh Loke,Male,34,Kochi,Kerala,2026-02-24,Regular,Lost Customers,Watch,25-34
+C10266,Mitali Sarma,Female,38,Nagpur,Maharashtra,2025-07-12,Regular,Loyal Customers,Watch,35-44
+C10267,Darsh Balakrishnan,Male,41,Faridabad,Haryana,2026-02-13,Regular,At Risk,Lost,35-44
+C10268,Gauri Mukhopadhyay,Female,27,Jaipur,Rajasthan,2026-08-21,Regular,Potential Loyalists,At Risk,25-34
+C10269,Tanvi Chander,Female,35,Patna,Bihar,2026-01-20,Regular,Lost Customers,Watch,35-44
+C10270,Deepa Shenoy,Female,36,Kanpur,Uttar Pradesh,2025-03-25,Regular,Lost Customers,Watch,35-44
+C10271,Ganga Tara,Female,39,Mumbai,Maharashtra,2025-06-21,Regular,At Risk,Watch,35-44
+C10272,Yashoda Mahajan,Female,32,Guwahati,Assam,2025-06-18,Regular,At Risk,Lost,25-34
+C10273,Warhi Sodhi,Female,35,Chennai,Tamil Nadu,2026-05-05,Regular,New Customers,Active,35-44
+C10274,Vedant Dhillon,Male,30,Thiruvananthapuram,Kerala,2025-05-25,Premium,At Risk,Lost,25-34
+C10275,Girish Trivedi,Male,39,Bangalore,Karnataka,2026-07-01,Regular,Lost Customers,Lost,35-44
+C10276,Bhavya Majumdar,Female,33,Gurugram,Haryana,2025-02-22,Regular,New Customers,Active,25-34
+C10277,Panini Tripathi,Female,42,Kochi,Kerala,2026-05-12,Premium,No Orders,Never Purchased,35-44
+C10278,Aarav Mandal,Male,21,Lucknow,Uttar Pradesh,2026-01-10,Regular,At Risk,Watch,18-24
+C10279,Wishi Dixit,Female,19,Hyderabad,Telangana,2025-07-14,Regular,Champions,Watch,18-24
+C10280,Wyatt Pai,Male,27,Hyderabad,Telangana,2026-05-28,Regular,At Risk,Lost,25-34
+C10281,Saanvi Shah,Female,41,Faridabad,Haryana,2026-08-03,Regular,New Customers,Watch,35-44
+C10282,Ijaya Khare,Female,35,Chandigarh,Chandigarh,2026-07-12,Regular,At Risk,At Risk,35-44
+C10283,Jackson Roy,Male,44,Hyderabad,Telangana,2026-05-12,Regular,New Customers,Watch,35-44
+C10284,Nathan Solanki,Male,33,Ahmedabad,Gujarat,2026-05-22,Premium,No Orders,Never Purchased,25-34
+C10285,Reyansh Doshi,Male,47,Thiruvananthapuram,Kerala,2025-12-09,Premium,At Risk,Watch,45-54
+C10286,Anita Date,Female,25,Surat,Gujarat,2026-01-24,Regular,At Risk,Lost,25-34
+C10287,Daksha Sarraf,Female,28,Indore,Madhya Pradesh,2026-05-08,Premium,Lost Customers,Lost,25-34
+C10288,Zansi Shan,Female,25,Coimbatore,Tamil Nadu,2026-03-24,Regular,Potential Loyalists,Watch,25-34
+C10289,Ekbal Rout,Male,30,Faridabad,Haryana,2025-03-30,Regular,Lost Customers,Watch,25-34
+C10290,Bishakha Singh,Female,51,Pune,Maharashtra,2026-03-10,Regular,Champions,Watch,45-54
+C10291,Omkaar Rao,Male,20,Patna,Bihar,2025-11-17,Regular,At Risk,At Risk,18-24
+C10292,Nitesh Walla,Male,23,Chandigarh,Chandigarh,2025-03-04,Regular,At Risk,Watch,18-24
+C10293,Nathan Sura,Male,38,Pune,Maharashtra,2025-06-06,Regular,New Customers,Watch,35-44
+C10294,Bakhshi Keer,Male,18,Kochi,Kerala,2026-06-17,Premium,Champions,Watch,18-24
+C10295,Jhalak Chana,Female,43,Patna,Bihar,2025-08-31,Regular,At Risk,Lost,35-44
+C10296,Chavvi Chaudhry,Female,28,Surat,Gujarat,2025-03-25,Premium,New Customers,Active,25-34
+C10297,Geetika Mistry,Female,23,Delhi,Delhi,2026-01-03,Regular,New Customers,Watch,18-24
+C10298,Arin Nair,Male,38,Ahmedabad,Gujarat,2025-10-19,Regular,New Customers,Watch,35-44
+C10299,Manan Parmer,Male,32,Mumbai,Maharashtra,2026-06-10,Regular,Potential Loyalists,Watch,25-34
+C10300,Upasna Dhingra,Female,37,Hyderabad,Telangana,2025-12-22,Premium,Lost Customers,Lost,35-44
+C10301,Zilmil Sabharwal,Female,47,Chennai,Tamil Nadu,2025-12-05,Regular,Lost Customers,Watch,45-54
+C10302,Harinakshi Gill,Female,19,Bhopal,Madhya Pradesh,2025-07-22,Regular,Can't Lose Them,Lost,18-24
+C10303,Sai Khosla,Female,44,Nagpur,Maharashtra,2025-06-27,Regular,Loyal Customers,At Risk,35-44
+C10304,Eshana Kata,Female,45,Kolkata,West Bengal,2026-02-04,Regular,At Risk,Watch,45-54
+C10305,Lakshmi Sharaf,Female,37,Jaipur,Rajasthan,2025-10-21,Premium,Potential Loyalists,Active,35-44
+C10306,Aayush Shroff,Male,33,Patna,Bihar,2025-11-16,Regular,New Customers,Watch,25-34
+C10307,Gaurangi Borah,Female,53,Delhi,Delhi,2025-04-16,Premium,Lost Customers,Watch,45-54
+C10308,Pooja Mistry,Female,34,Coimbatore,Tamil Nadu,2025-04-10,Regular,Lost Customers,Active,25-34
+C10309,Ladli Shan,Female,35,Patna,Bihar,2025-03-26,Premium,At Risk,Lost,35-44
+C10310,Ira Rajagopalan,Female,25,Ahmedabad,Gujarat,2025-07-24,VIP,No Orders,Never Purchased,25-34
+C10311,Chatresh Khalsa,Male,37,Lucknow,Uttar Pradesh,2025-09-16,VIP,Lost Customers,Watch,35-44
+C10312,Praneel Merchant,Male,37,Kanpur,Uttar Pradesh,2026-01-27,VIP,Lost Customers,Lost,35-44
+C10313,Alka Randhawa,Female,25,Pune,Maharashtra,2026-05-23,Premium,Lost Customers,Lost,25-34
+C10314,Aarna Bawa,Female,18,Pune,Maharashtra,2025-06-05,Regular,Lost Customers,Lost,18-24
+C10315,Mekhala Karpe,Female,22,Chennai,Tamil Nadu,2026-07-07,Premium,Potential Loyalists,Watch,18-24
+C10316,Januja Gupta,Female,31,Kochi,Kerala,2025-02-22,VIP,Lost Customers,Lost,25-34
+C10317,Ekapad Chatterjee,Male,53,Lucknow,Uttar Pradesh,2025-04-26,Premium,Lost Customers,Lost,45-54
+C10318,Nilima Sastry,Female,24,Hyderabad,Telangana,2025-06-09,Regular,No Orders,Never Purchased,18-24
+C10319,Rajata Deep,Female,37,Kochi,Kerala,2026-01-01,Regular,At Risk,Lost,35-44
+C10320,Neelima Narain,Female,31,Thiruvananthapuram,Kerala,2026-03-06,Premium,At Risk,Lost,25-34
+C10321,Harita Iyer,Female,35,Hyderabad,Telangana,2026-01-17,Regular,Potential Loyalists,Active,35-44
+C10322,Rajeshri Wali,Female,30,Chandigarh,Chandigarh,2025-07-30,Regular,Lost Customers,Lost,25-34
+C10323,Fitan Kurian,Male,44,Delhi,Delhi,2025-05-24,Regular,Potential Loyalists,Watch,35-44
+C10324,Neelima Nigam,Female,34,Delhi,Delhi,2025-10-04,Premium,Lost Customers,Watch,25-34
+C10325,Vinaya Borra,Female,59,Pune,Maharashtra,2026-07-31,Premium,Champions,Watch,55+
+C10326,Isaiah Ranganathan,Male,48,Jaipur,Rajasthan,2025-11-19,Regular,At Risk,Lost,45-54
+C10327,Chandani Rana,Female,34,Chennai,Tamil Nadu,2025-04-15,Regular,At Risk,At Risk,25-34
+C10328,Kevin Yadav,Male,33,Faridabad,Haryana,2026-07-08,Regular,Champions,Active,25-34
+C10329,Vasana Pillay,Female,32,Nagpur,Maharashtra,2025-07-04,Regular,Lost Customers,Watch,25-34
+C10330,Sai Prabhu,Female,38,Bhopal,Madhya Pradesh,2026-04-30,Regular,Potential Loyalists,At Risk,35-44
+C10331,Jackson Sinha,Male,25,Bangalore,Karnataka,2025-09-07,Regular,Loyal Customers,At Risk,25-34
+C10332,Omisha Kant,Female,40,Indore,Madhya Pradesh,2025-11-08,Regular,Champions,Watch,35-44
+C10333,Vedika Mittal,Female,40,Bhopal,Madhya Pradesh,2026-06-08,Regular,Lost Customers,Watch,35-44
+C10334,Devika Dey,Female,37,Kochi,Kerala,2026-05-24,Regular,At Risk,At Risk,35-44
+C10335,Anjali Modi,Female,31,Thiruvananthapuram,Kerala,2025-12-18,Regular,Potential Loyalists,Active,25-34
+C10336,Devika Chatterjee,Female,30,Faridabad,Haryana,2025-08-10,Regular,Lost Customers,Lost,25-34
+C10337,Ekansh Rama,Male,43,Mumbai,Maharashtra,2025-03-11,Regular,Champions,Watch,35-44
+C10338,Reva Zachariah,Female,30,Bhopal,Madhya Pradesh,2026-03-29,Regular,At Risk,Lost,25-34
+C10339,Garima Sachdeva,Female,18,Patna,Bihar,2026-03-08,Regular,New Customers,Watch,18-24
+C10340,Wishi Reddy,Female,47,Mysuru,Karnataka,2026-06-01,VIP,At Risk,Lost,45-54
+C10341,Anamika Prabhakar,Female,42,Pune,Maharashtra,2025-06-17,Regular,Potential Loyalists,Watch,35-44
+C10342,Vamakshi Saxena,Female,18,Bhopal,Madhya Pradesh,2026-01-08,Regular,Potential Loyalists,Active,18-24
+C10343,Radhika Chaudhary,Female,18,Chennai,Tamil Nadu,2025-11-12,VIP,Potential Loyalists,Watch,18-24
+C10344,Rachita Bhat,Female,58,Gurugram,Haryana,2026-07-29,Regular,At Risk,Watch,55+
+C10345,Lakshit Gupta,Male,38,Indore,Madhya Pradesh,2025-09-30,Premium,At Risk,Lost,35-44
+C10346,Vasana Chand,Female,38,Delhi,Delhi,2025-07-28,Regular,No Orders,Never Purchased,35-44
+C10347,Aishani Bedi,Female,18,Delhi,Delhi,2026-04-04,Regular,No Orders,Never Purchased,18-24
+C10348,Keya Dass,Female,34,Thiruvananthapuram,Kerala,2025-09-09,Premium,Champions,Watch,25-34
+C10349,Bakhshi Johal,Male,33,Kochi,Kerala,2026-02-19,Regular,Lost Customers,Watch,25-34
+C10350,Jackson Narasimhan,Male,37,Faridabad,Haryana,2025-05-31,Premium,Lost Customers,Lost,35-44
+C10351,Aarav Malhotra,Male,40,Bhopal,Madhya Pradesh,2026-03-11,Regular,Loyal Customers,At Risk,35-44
+C10352,Dhruv Zachariah,Male,42,Mumbai,Maharashtra,2025-05-06,Premium,Potential Loyalists,At Risk,35-44
+C10353,Harita Choudhary,Female,50,Guwahati,Assam,2026-07-29,Regular,Lost Customers,Lost,45-54
+C10354,Dominic Aurora,Male,33,Nagpur,Maharashtra,2025-12-13,Premium,Champions,Active,25-34
+C10355,Kashish Naik,Female,47,Kanpur,Uttar Pradesh,2026-02-05,Regular,Lost Customers,Lost,45-54
+C10356,Harita Lanka,Female,48,Bangalore,Karnataka,2025-04-23,Regular,New Customers,Watch,45-54
+C10357,Edhitha Sama,Female,29,Faridabad,Haryana,2025-08-06,Premium,At Risk,Lost,25-34
+C10358,Bhavika Soni,Female,35,Pune,Maharashtra,2025-03-19,Regular,Lost Customers,Watch,35-44
+C10359,Pratyush Varghese,Male,36,Nagpur,Maharashtra,2025-10-31,Premium,New Customers,Watch,35-44
+C10360,Upkaar Thakur,Male,30,Thiruvananthapuram,Kerala,2025-10-25,Premium,New Customers,Active,25-34
+C10361,Anya Verma,Female,24,Chandigarh,Chandigarh,2025-06-20,Regular,Potential Loyalists,Watch,18-24
+C10362,Vasudha Balasubramanian,Female,38,Chennai,Tamil Nadu,2026-06-30,Regular,No Orders,Never Purchased,35-44
+C10363,Wriddhish Ratti,Male,18,Jaipur,Rajasthan,2025-05-21,Regular,Loyal Customers,Watch,18-24
+C10364,Darika Swaminathan,Female,28,Bhopal,Madhya Pradesh,2025-07-17,Regular,New Customers,Watch,25-34
+C10365,Bina Buch,Female,45,Pune,Maharashtra,2026-03-18,Regular,Potential Loyalists,Watch,45-54
+C10366,Falak Bhatti,Female,26,Chennai,Tamil Nadu,2025-11-08,Regular,Lost Customers,Lost,25-34
+C10367,Mahika Nair,Female,18,Indore,Madhya Pradesh,2026-05-23,Regular,Champions,Watch,18-24
+C10368,Manan Setty,Male,36,Kochi,Kerala,2026-05-25,Premium,New Customers,Watch,35-44
+C10369,Chavvi Contractor,Female,32,Kochi,Kerala,2025-09-20,Regular,New Customers,Watch,25-34
+C10370,Tanveer Seth,Male,32,Coimbatore,Tamil Nadu,2026-02-16,VIP,Champions,Active,25-34
+C10371,Triveni Nori,Female,36,Lucknow,Uttar Pradesh,2026-03-19,Regular,Champions,Active,35-44
+C10372,Ryan Sagar,Male,41,Chandigarh,Chandigarh,2025-08-28,Regular,No Orders,Never Purchased,35-44
+C10373,Nirja Sane,Female,40,Kolkata,West Bengal,2026-07-14,Regular,At Risk,Lost,35-44
+C10374,Lakshmi Prasad,Female,39,Bhopal,Madhya Pradesh,2026-05-25,Premium,At Risk,Lost,35-44
+C10375,Warjas Bhavsar,Male,33,Surat,Gujarat,2026-02-27,Regular,Champions,Active,25-34
+C10376,Chaman Chander,Female,33,Indore,Madhya Pradesh,2026-05-30,Regular,Lost Customers,Watch,25-34
+C10377,Chasmum Pradhan,Female,30,Coimbatore,Tamil Nadu,2025-07-24,Regular,Loyal Customers,Active,25-34
+C10378,Ayushman Narayan,Male,23,Jaipur,Rajasthan,2025-12-31,Regular,New Customers,Active,18-24
+C10379,Samesh Pandya,Male,21,Kolkata,West Bengal,2025-12-28,Regular,Champions,Watch,18-24
+C10380,Ati Mani,Female,28,Chandigarh,Chandigarh,2025-11-11,Premium,New Customers,Watch,25-34
+C10381,Qushi Chawla,Female,25,Coimbatore,Tamil Nadu,2025-02-14,Regular,Can't Lose Them,Lost,25-34
+C10382,Faras Subramaniam,Male,37,Unknown,Maharashtra,2025-09-15,VIP,Champions,Watch,35-44
+C10383,Darika Palla,Female,34,Mumbai,Maharashtra,2025-09-11,Regular,Loyal Customers,Watch,25-34
+C10384,Dakshesh Mallick,Male,43,Coimbatore,Tamil Nadu,2025-05-13,Premium,Lost Customers,Watch,35-44
+C10385,Tanish Bal,Male,41,Nagpur,Maharashtra,2025-06-28,Premium,Champions,Active,35-44
+C10386,Akshay Gole,Male,27,Mumbai,Maharashtra,2025-02-16,Premium,Potential Loyalists,Active,25-34
+C10387,Mohammed Nori,Male,39,Bhopal,Madhya Pradesh,2025-09-27,Regular,Potential Loyalists,Watch,35-44
+C10388,Aarush Golla,Male,19,Hyderabad,Telangana,2025-07-26,Premium,Champions,Watch,18-24
+C10389,Sai Boase,Male,33,Gurugram,Haryana,2025-09-25,Premium,Loyal Customers,At Risk,25-34
+C10390,Alexander Chand,Male,25,Nagpur,Maharashtra,2025-07-09,Regular,Champions,Active,25-34
+C10391,Raghav Saini,Male,35,Pune,Maharashtra,2026-03-12,Regular,Lost Customers,Watch,35-44
+C10392,Onkar Dugar,Male,47,Nagpur,Maharashtra,2026-08-11,Regular,New Customers,Watch,45-54
+C10393,Nachiket Nair,Male,46,Bhopal,Madhya Pradesh,2026-08-13,Regular,At Risk,At Risk,45-54
+C10394,Atharv Dugal,Male,37,Gurugram,Haryana,2026-04-08,Regular,At Risk,Watch,35-44
+C10395,Arya Bumb,Female,18,Kanpur,Uttar Pradesh,2025-07-13,Regular,Potential Loyalists,At Risk,18-24
+C10396,Timothy Samra,Male,31,Lucknow,Uttar Pradesh,2026-08-01,Regular,New Customers,Watch,25-34
+C10397,Vaishnavi Sachdeva,Female,23,Kanpur,Uttar Pradesh,2025-03-15,Regular,Loyal Customers,Watch,18-24
+C10398,Janaki Vala,Female,53,Kanpur,Uttar Pradesh,2025-04-07,Regular,Lost Customers,Lost,45-54
+C10399,Orinder Sani,Male,22,Guwahati,Assam,2026-02-04,Premium,Lost Customers,Lost,18-24
+C10400,Meghana Sur,Female,36,Jaipur,Rajasthan,2025-12-12,Regular,Loyal Customers,Active,35-44
+C10401,Arin Kannan,Male,50,Coimbatore,Tamil Nadu,2025-04-03,VIP,Lost Customers,Lost,45-54
+C10402,Baghyawati Amble,Female,36,Surat,Gujarat,2026-08-13,Regular,No Orders,Never Purchased,35-44
+C10403,Nidhi Kakar,Female,52,Patna,Bihar,2026-08-05,Premium,At Risk,At Risk,45-54
+C10404,Joshua Mann,Male,29,Unknown,Maharashtra,2026-04-02,Regular,Lost Customers,Watch,25-34
+C10405,Darpan Amble,Male,18,Mumbai,Maharashtra,2025-07-20,Regular,At Risk,Lost,18-24
+C10406,Upasna Gill,Female,29,Ahmedabad,Gujarat,2025-02-25,VIP,Potential Loyalists,Watch,25-34
+C10407,Sachi Walia,Female,28,Jaipur,Rajasthan,2026-06-12,Regular,No Orders,Never Purchased,25-34
+C10408,Yamini Pandya,Female,36,Pune,Maharashtra,2026-08-13,Premium,Potential Loyalists,Watch,35-44
+C10409,Rushil Basak,Male,18,Kochi,Kerala,2025-06-18,Regular,Champions,Active,18-24
+C10410,Aditya Sharaf,Male,28,Surat,Gujarat,2025-09-22,Regular,Potential Loyalists,At Risk,25-34
+C10411,Naksh Sanghvi,Male,46,Surat,Gujarat,2025-06-07,Regular,Lost Customers,Lost,45-54
+C10412,Turvi Mann,Female,27,Ahmedabad,Gujarat,2025-12-13,Regular,New Customers,Watch,25-34
+C10413,Samaksh Bail,Male,39,Hyderabad,Telangana,2025-10-11,Regular,No Orders,Never Purchased,35-44
+C10414,Harinakshi Sharma,Female,38,Kolkata,West Bengal,2026-05-13,VIP,Lost Customers,Lost,35-44
+C10415,Chanchal Sarkar,Female,18,Mumbai,Maharashtra,2026-07-26,Regular,New Customers,Active,18-24
+C10416,Jairaj Sarin,Male,23,Mumbai,Maharashtra,2025-03-01,Regular,Potential Loyalists,Watch,18-24
+C10417,Zaitra Brar,Female,36,Nagpur,Maharashtra,2026-04-09,Regular,At Risk,Lost,35-44
+C10418,Nilima Nori,Female,38,Thiruvananthapuram,Kerala,2026-03-12,Regular,Lost Customers,Watch,35-44
+C10419,Osha Ganguly,Female,25,Thiruvananthapuram,Kerala,2026-03-27,VIP,Potential Loyalists,At Risk,25-34
+C10420,Yashodhara Comar,Female,41,Guwahati,Assam,2026-03-27,Regular,Lost Customers,Lost,35-44
+C10421,Priya Panchal,Female,36,Indore,Madhya Pradesh,2026-06-30,Regular,Lost Customers,Watch,35-44
+C10422,Jacob Chauhan,Male,48,Bhopal,Madhya Pradesh,2025-06-14,Regular,Champions,Watch,45-54
+C10423,Kabir Hora,Male,29,Thiruvananthapuram,Kerala,2025-10-11,Regular,New Customers,Watch,25-34
+C10424,Faraj Borra,Male,36,Kolkata,West Bengal,2025-02-04,Premium,Lost Customers,Lost,35-44
+C10425,Xiti Shetty,Female,27,Pune,Maharashtra,2025-11-29,Premium,Lost Customers,Watch,25-34
+C10426,Neel Mutti,Male,28,Surat,Gujarat,2025-02-18,Premium,Potential Loyalists,Watch,25-34
+C10427,Thomas Bir,Male,29,Indore,Madhya Pradesh,2026-01-13,Premium,At Risk,Lost,25-34
+C10428,Vaishnavi Mitter,Female,23,Chennai,Tamil Nadu,2026-02-17,Regular,Potential Loyalists,Watch,18-24
+C10429,Baghyawati Pandey,Female,18,Hyderabad,Telangana,2025-11-25,Regular,Champions,Active,18-24
+C10430,Mohammed Shenoy,Male,59,Nagpur,Maharashtra,2025-08-17,Regular,At Risk,At Risk,55+
+C10431,Anjali Bhandari,Female,29,Mumbai,Maharashtra,2026-03-10,Regular,Potential Loyalists,At Risk,25-34
+C10432,Luke Bose,Male,30,Mumbai,Maharashtra,2026-01-02,Premium,Loyal Customers,At Risk,25-34
+C10433,Zehaan Rajagopalan,Male,31,Ahmedabad,Gujarat,2025-12-10,Regular,New Customers,Watch,25-34
+C10434,Anvi Sengupta,Female,22,Bangalore,Karnataka,2026-06-18,Regular,Lost Customers,Lost,18-24
+C10435,Oeshi Soni,Female,39,Bhopal,Madhya Pradesh,2026-02-19,Regular,Lost Customers,Watch,35-44
+C10436,Azaan Seshadri,Male,19,Nagpur,Maharashtra,2025-08-14,Regular,Loyal Customers,Active,18-24
+C10437,Onveer Chad,Male,40,Thiruvananthapuram,Kerala,2025-12-01,Regular,Lost Customers,Watch,35-44
+C10438,Anusha Kota,Female,35,Thiruvananthapuram,Kerala,2026-08-21,Regular,Champions,Active,35-44
+C10439,Urvashi Viswanathan,Female,30,Surat,Gujarat,2025-12-01,Regular,No Orders,Never Purchased,25-34
+C10440,Qabil Pradhan,Male,40,Kolkata,West Bengal,2025-04-20,Regular,Potential Loyalists,At Risk,35-44
+C10441,Sara Rege,Female,18,Thiruvananthapuram,Kerala,2025-03-08,Regular,Loyal Customers,At Risk,18-24
+C10442,Ati Natt,Female,30,Kanpur,Uttar Pradesh,2025-09-12,Regular,At Risk,Lost,25-34
+C10443,Nitesh Chandra,Male,52,Delhi,Delhi,2025-08-15,Regular,Lost Customers,Watch,45-54
+C10444,Lucky Krishnan,Male,50,Chennai,Tamil Nadu,2025-04-19,Regular,Potential Loyalists,At Risk,45-54
+C10445,Ojas Bumb,Male,22,Nagpur,Maharashtra,2025-08-19,Premium,New Customers,Active,18-24
+C10446,Pushti Mukherjee,Female,37,Hyderabad,Telangana,2025-05-27,Regular,Loyal Customers,Watch,35-44
+C10447,Eiravati Chad,Female,25,Guwahati,Assam,2026-08-01,Regular,New Customers,Watch,25-34
+C10448,Raghav Narasimhan,Male,46,Ahmedabad,Gujarat,2026-01-27,Regular,No Orders,Never Purchased,45-54
+C10449,Chakradhar Sampath,Male,30,Unknown,Uttar Pradesh,2026-06-19,Regular,Loyal Customers,Active,25-34
+C10450,Adya Patil,Female,33,Mumbai,Maharashtra,2026-07-29,Regular,At Risk,Lost,25-34
+C10451,Gautam Kala,Male,33,Surat,Gujarat,2026-08-10,Regular,Potential Loyalists,Watch,25-34
+C10452,Xavier Handa,Male,33,Hyderabad,Telangana,2025-07-13,Regular,Champions,Active,25-34
+C10453,Ekantika Dubey,Female,18,Unknown,Bihar,2025-12-16,Regular,Lost Customers,Lost,18-24
+C10454,Neelima Chaudhuri,Female,38,Pune,Maharashtra,2025-08-05,Regular,No Orders,Never Purchased,35-44
+C10455,Pahal Deep,Female,28,Bangalore,Karnataka,2026-08-12,Premium,At Risk,Lost,25-34
+C10456,Ganga Gaba,Female,41,Patna,Bihar,2026-03-29,Premium,New Customers,Active,35-44
+C10457,Fitan Sarma,Male,36,Surat,Gujarat,2025-02-16,Premium,No Orders,Never Purchased,35-44
+C10458,Samesh Patla,Male,20,Surat,Gujarat,2025-07-21,Regular,No Orders,Never Purchased,18-24
+C10459,Tristan Mane,Male,42,Ahmedabad,Gujarat,2025-05-13,Premium,Loyal Customers,Active,35-44
+C10460,Kamala Walla,Female,57,Delhi,Delhi,2025-04-30,Regular,Potential Loyalists,Active,55+
+C10461,Mohammed Singh,Male,38,Mumbai,Maharashtra,2025-06-23,Regular,No Orders,Never Purchased,35-44
+C10462,Qarin Sastry,Male,32,Kanpur,Uttar Pradesh,2026-04-26,Regular,New Customers,Active,25-34
+C10463,Megha Raja,Female,42,Kolkata,West Bengal,2026-06-04,Premium,Potential Loyalists,Watch,35-44
+C10464,Faris Iyengar,Male,46,Delhi,Delhi,2025-10-29,Regular,Lost Customers,Watch,45-54
+C10465,Ladli Ben,Female,28,Mysuru,Karnataka,2025-06-26,Regular,At Risk,Watch,25-34
+C10466,Quincy Chauhan,Male,28,Kochi,Kerala,2026-05-09,Regular,At Risk,Watch,25-34
+C10467,Meghana Chacko,Female,29,Jaipur,Rajasthan,2025-10-26,Premium,Potential Loyalists,Watch,25-34
+C10468,Madhavi Sengupta,Female,41,Thiruvananthapuram,Kerala,2025-05-17,Premium,Lost Customers,Lost,35-44
+C10469,Urmi Chand,Female,48,Kochi,Kerala,2025-10-01,Regular,At Risk,At Risk,45-54
+C10470,Varenya Palla,Female,29,Mumbai,Maharashtra,2026-02-06,Regular,Loyal Customers,At Risk,25-34
+C10471,Triya Bera,Female,37,Gurugram,Haryana,2026-07-16,Regular,No Orders,Never Purchased,35-44
+C10472,Yashasvi Prakash,Female,43,Kanpur,Uttar Pradesh,2025-10-05,Regular,Lost Customers,Watch,35-44
+C10473,Sanya Bumb,Female,18,Jaipur,Rajasthan,2026-03-27,Regular,At Risk,Watch,18-24
+C10474,Jasmit Bala,Female,26,Faridabad,Haryana,2025-04-01,Regular,New Customers,Watch,25-34
+C10475,Chandran Nayak,Male,18,Indore,Madhya Pradesh,2025-12-22,Regular,Champions,Watch,18-24
+C10476,Ekantika Barad,Female,24,Jaipur,Rajasthan,2025-03-11,Regular,At Risk,Watch,18-24
+C10477,Warinder Dewan,Male,31,Jaipur,Rajasthan,2026-04-25,Premium,New Customers,Watch,25-34
+C10478,Udarsh Ahluwalia,Male,31,Hyderabad,Telangana,2025-07-28,Regular,No Orders,Never Purchased,25-34
+C10479,Aditya Kunda,Male,23,Coimbatore,Tamil Nadu,2026-01-27,Regular,Champions,Active,18-24
+C10480,Falguni Wable,Female,44,Patna,Bihar,2025-09-07,Regular,No Orders,Never Purchased,35-44
+C10481,Christopher Mani,Male,24,Coimbatore,Tamil Nadu,2025-10-14,Regular,New Customers,Watch,18-24
+C10482,Nidhi Dara,Female,39,Jaipur,Rajasthan,2025-05-30,Regular,At Risk,Lost,35-44
+C10483,Jagdish Saini,Male,31,Kolkata,West Bengal,2025-06-12,Regular,Lost Customers,Lost,25-34
+C10484,Bhavika Choudhry,Female,33,Ahmedabad,Gujarat,2025-09-25,Regular,Champions,Watch,25-34
+C10485,Adweta Varma,Female,41,Thiruvananthapuram,Kerala,2025-09-24,Regular,Loyal Customers,Active,35-44
+C10486,Eshana Manne,Female,33,Mumbai,Maharashtra,2026-06-05,Regular,Champions,Active,25-34
+C10487,Aachal Pandit,Female,31,Faridabad,Haryana,2025-07-07,Regular,Lost Customers,Lost,25-34
+C10488,Sathvik Grover,Male,18,Hyderabad,Telangana,2025-11-06,Regular,At Risk,Lost,18-24
+C10489,Pranit Bir,Male,40,Kolkata,West Bengal,2025-12-10,Regular,Lost Customers,Lost,35-44
+C10490,Saumya Singhal,Female,23,Nagpur,Maharashtra,2026-04-19,Regular,No Orders,Never Purchased,18-24
+C10491,Rishi Prakash,Male,33,Faridabad,Haryana,2025-06-11,Regular,Lost Customers,Lost,25-34
+C10492,Adweta Parikh,Female,18,Nagpur,Maharashtra,2025-08-03,Regular,Loyal Customers,Watch,18-24
+C10493,Orinder Khosla,Male,19,Kochi,Kerala,2026-06-05,Regular,Loyal Customers,At Risk,18-24
+C10494,Osha Deol,Female,48,Chennai,Tamil Nadu,2026-02-23,Regular,New Customers,Active,45-54
+C10495,Patrick Nigam,Male,36,Mysuru,Karnataka,2025-06-21,Regular,No Orders,Never Purchased,35-44
+C10496,Vedika Srinivas,Female,22,Mysuru,Karnataka,2026-07-13,Regular,Lost Customers,Lost,18-24
+C10497,Ekansh Bhatnagar,Male,22,Nagpur,Maharashtra,2026-06-06,Regular,No Orders,Never Purchased,18-24
+C10498,Andrew Memon,Male,34,Kanpur,Uttar Pradesh,2026-03-11,Premium,New Customers,Active,25-34
+C10499,Anthony Iyengar,Male,39,Thiruvananthapuram,Kerala,2025-08-01,Regular,No Orders,Never Purchased,35-44
+C10500,Nakul Mukherjee,Male,36,Indore,Madhya Pradesh,2025-04-21,Regular,Can't Lose Them,Lost,35-44
+C10501,Warjas Kulkarni,Male,35,Bangalore,Karnataka,2026-07-15,Premium,At Risk,Watch,35-44
+C10502,Girish Mangal,Male,42,Guwahati,Assam,2025-05-19,Regular,No Orders,Never Purchased,35-44
+C10503,Arunima Narula,Female,18,Kolkata,West Bengal,2026-03-08,Regular,Loyal Customers,At Risk,18-24
+C10504,David Pillai,Male,44,Jaipur,Rajasthan,2026-01-19,Regular,New Customers,Active,35-44
+C10505,Sudiksha Sarraf,Female,45,Delhi,Delhi,2025-06-12,Regular,Can't Lose Them,Lost,45-54
+C10506,Pallavi Grover,Female,18,Lucknow,Uttar Pradesh,2026-01-02,Premium,Potential Loyalists,Watch,18-24
+C10507,Yuvraj Pillai,Male,34,Kolkata,West Bengal,2025-07-10,Regular,Can't Lose Them,Lost,25-34
+C10508,Chakrika Samra,Female,51,Jaipur,Rajasthan,2026-05-31,Premium,Champions,Active,45-54
+C10509,Upasna Gole,Female,39,Kanpur,Uttar Pradesh,2026-06-24,Regular,No Orders,Never Purchased,35-44
+C10510,Naveen Chauhan,Male,25,Mysuru,Karnataka,2026-04-15,Premium,Loyal Customers,At Risk,25-34
+C10511,Nihal Merchant,Male,34,Gurugram,Haryana,2025-06-22,Regular,Champions,Active,25-34
+C10512,Vansha Sandhu,Female,23,Kolkata,West Bengal,2026-07-07,Regular,No Orders,Never Purchased,18-24
+C10513,Tristan Panchal,Male,54,Patna,Bihar,2026-07-01,Premium,New Customers,Active,45-54
+C10514,Ansh Pandit,Male,45,Faridabad,Haryana,2026-08-13,Regular,Loyal Customers,Watch,45-54
+C10515,Laksh Bhandari,Male,24,Gurugram,Haryana,2025-04-27,Regular,At Risk,Lost,18-24
+C10516,Samaksh Patla,Male,40,Surat,Gujarat,2025-08-01,Regular,No Orders,Never Purchased,35-44
+C10517,Alexander Dhar,Male,38,Jaipur,Rajasthan,2025-07-19,Premium,New Customers,Watch,35-44
+C10518,Anay Date,Male,40,Surat,Gujarat,2025-06-04,Regular,At Risk,At Risk,35-44
+C10519,Kamya Peri,Female,41,Delhi,Delhi,2026-05-13,Regular,Lost Customers,Lost,35-44
+C10520,Rehaan Bali,Male,37,Kolkata,West Bengal,2025-03-18,Regular,Loyal Customers,Active,35-44
+C10521,Varenya Prabhakar,Female,18,Pune,Maharashtra,2025-09-06,Premium,No Orders,Never Purchased,18-24
+C10522,Vamakshi Bose,Female,28,Nagpur,Maharashtra,2025-02-12,Regular,Lost Customers,Lost,25-34
+C10523,Zilmil Peri,Female,21,Lucknow,Uttar Pradesh,2026-05-26,Regular,Loyal Customers,Watch,18-24
+C10524,Naksh Mallick,Male,51,Patna,Bihar,2026-03-09,Regular,At Risk,Lost,45-54
+C10525,Dakshesh Bal,Male,47,Mumbai,Maharashtra,2025-04-13,Regular,Can't Lose Them,Lost,45-54
+C10526,Zaid Vasa,Male,47,Nagpur,Maharashtra,2026-06-20,Regular,Lost Customers,Watch,45-54
+C10527,Dhriti Lala,Female,34,Pune,Maharashtra,2026-04-17,Premium,At Risk,Watch,25-34
+C10528,Udant Kala,Male,23,Faridabad,Haryana,2025-04-24,Regular,At Risk,At Risk,18-24
+C10529,Yatan Iyengar,Male,37,Surat,Gujarat,2026-04-27,Regular,Loyal Customers,At Risk,35-44
+C10530,Ekanta Borah,Female,20,Mumbai,Maharashtra,2025-11-16,Regular,Champions,Watch,18-24
+C10531,Harini Saxena,Female,33,Indore,Madhya Pradesh,2026-07-10,Regular,Champions,Watch,25-34
+C10532,Nathaniel Palan,Male,51,Patna,Bihar,2025-02-11,Regular,Lost Customers,Lost,45-54
+C10533,Mohini Mital,Female,42,Chennai,Tamil Nadu,2025-09-09,Regular,Champions,Watch,35-44
+C10534,Gagan Pathak,Male,36,Bhopal,Madhya Pradesh,2025-04-14,Regular,Loyal Customers,Watch,35-44
+C10535,Darsh Iyer,Male,34,Kanpur,Uttar Pradesh,2025-09-24,VIP,Lost Customers,Watch,25-34
+C10536,Jagat Tak,Male,23,Kanpur,Uttar Pradesh,2025-12-02,Regular,Lost Customers,Lost,18-24
+C10537,Pranit Pillay,Male,32,Ahmedabad,Gujarat,2026-03-17,Premium,Lost Customers,Lost,25-34
+C10538,Dhruv Chadha,Male,21,Kochi,Kerala,2025-03-02,Regular,Lost Customers,Lost,18-24
+C10539,Nilima Rao,Female,39,Gurugram,Haryana,2025-08-15,Premium,Loyal Customers,Active,35-44
+C10540,Zansi Roy,Female,18,Mumbai,Maharashtra,2026-02-12,Regular,Lost Customers,Lost,18-24
+C10541,Balhaar Dass,Male,32,Bhopal,Madhya Pradesh,2025-03-03,Premium,Lost Customers,Lost,25-34
+C10542,Bina Sengupta,Female,44,Nagpur,Maharashtra,2026-01-05,Regular,Lost Customers,Lost,35-44
+C10543,Yauvani Padmanabhan,Female,44,Kochi,Kerala,2026-05-22,Regular,Loyal Customers,Watch,35-44
+C10544,Hemani Dayal,Female,25,Patna,Bihar,2025-06-25,Regular,Can't Lose Them,Lost,25-34
+C10545,Zayan Bhakta,Male,23,Nagpur,Maharashtra,2025-11-26,Regular,At Risk,At Risk,18-24
+C10546,Yochana Dua,Female,37,Coimbatore,Tamil Nadu,2025-09-14,Regular,Potential Loyalists,Watch,35-44
+C10547,Fitan Edwin,Male,46,Mysuru,Karnataka,2026-04-09,Premium,At Risk,Lost,45-54
+C10548,Jeevika Pal,Female,32,Faridabad,Haryana,2025-12-19,Regular,Potential Loyalists,Watch,25-34
+C10549,Chaaya Krishna,Female,21,Gurugram,Haryana,2025-04-27,Regular,No Orders,Never Purchased,18-24
+C10550,Laksh Dass,Male,36,Faridabad,Haryana,2025-09-27,Regular,New Customers,Watch,35-44
+C10551,Chakradhar Thakkar,Male,31,Kochi,Kerala,2025-02-21,Regular,Lost Customers,Watch,25-34
+C10552,Faraj Garg,Male,36,Kolkata,West Bengal,2026-04-28,Regular,Can't Lose Them,Lost,35-44
+C10553,Anvi Balakrishnan,Female,28,Guwahati,Assam,2026-07-18,Regular,New Customers,Watch,25-34
+C10554,Aradhana Lanka,Female,37,Hyderabad,Telangana,2025-03-27,VIP,Lost Customers,Lost,35-44
+C10555,Turvi Balasubramanian,Female,29,Patna,Bihar,2025-05-03,Regular,New Customers,Watch,25-34
+C10556,Mohini Mittal,Female,36,Mumbai,Maharashtra,2026-02-23,Premium,Lost Customers,Watch,35-44
+C10557,Jason Ravi,Male,22,Surat,Gujarat,2025-07-02,Regular,Lost Customers,Lost,18-24
+C10558,Utkarsh Bora,Male,48,Chandigarh,Chandigarh,2025-05-13,Regular,No Orders,Never Purchased,45-54
+C10559,Farhan Sarraf,Male,22,Mumbai,Maharashtra,2025-08-14,Regular,Loyal Customers,At Risk,18-24
+C10560,Warhi Shetty,Female,18,Faridabad,Haryana,2025-10-25,Regular,Lost Customers,Lost,18-24
+C10561,Panini Dhawan,Female,34,Bangalore,Karnataka,2026-02-02,Regular,Champions,Active,25-34
+C10562,Odika Pai,Female,32,Jaipur,Rajasthan,2025-09-04,Regular,New Customers,Watch,25-34
+C10563,Eiravati Prabhakar,Female,46,Indore,Madhya Pradesh,2026-02-06,VIP,No Orders,Never Purchased,45-54
+C10564,Odika Khurana,Female,37,Kochi,Kerala,2026-03-22,VIP,Loyal Customers,At Risk,35-44
+C10565,Darsh Loke,Male,49,Mumbai,Maharashtra,2025-10-11,Regular,Lost Customers,Lost,45-54
+C10566,Krishna Dhaliwal,Female,30,Kolkata,West Bengal,2025-04-02,Regular,Champions,Watch,25-34
+C10567,Aryan Mannan,Male,26,Chennai,Tamil Nadu,2026-06-04,Regular,New Customers,Watch,25-34
+C10568,Ubika Kothari,Female,30,Coimbatore,Tamil Nadu,2026-04-29,Regular,Loyal Customers,Watch,25-34
+C10569,Nihal Munshi,Male,48,Kochi,Kerala,2025-10-03,Regular,Potential Loyalists,Watch,45-54
+C10570,Gauri Tara,Female,30,Bhopal,Madhya Pradesh,2026-03-29,Regular,New Customers,Watch,25-34
+C10571,Zaid Morar,Male,53,Thiruvananthapuram,Kerala,2026-08-15,Regular,Loyal Customers,Active,45-54
+C10572,Alka Chana,Female,51,Kolkata,West Bengal,2025-09-03,Regular,At Risk,Lost,45-54
+C10573,Zayyan Shankar,Male,33,Bhopal,Madhya Pradesh,2026-01-23,Regular,Can't Lose Them,Lost,25-34
+C10574,Janaki Pandit,Female,37,Ahmedabad,Gujarat,2025-09-13,Regular,Lost Customers,Lost,35-44
+C10575,Arya Manda,Female,65,Delhi,Delhi,2025-12-22,VIP,At Risk,Lost,55+
+C10576,Wahab Mangal,Male,26,Guwahati,Assam,2025-12-27,Regular,New Customers,Watch,25-34
+C10577,Darika Sankar,Female,43,Chandigarh,Chandigarh,2025-12-24,Regular,Lost Customers,Lost,35-44
+C10578,Libni Pau,Female,29,Patna,Bihar,2026-07-16,Regular,Can't Lose Them,Lost,25-34
+C10579,Rajeshri Bath,Female,43,Patna,Bihar,2025-08-12,Premium,Loyal Customers,At Risk,35-44
+C10580,Ati Hayer,Female,36,Mysuru,Karnataka,2025-09-03,Regular,No Orders,Never Purchased,35-44
+C10581,Maanas Borah,Male,34,Jaipur,Rajasthan,2025-08-09,Regular,Lost Customers,Watch,25-34
+C10582,Yashawini Seshadri,Female,38,Mumbai,Maharashtra,2025-05-05,Premium,Lost Customers,Lost,35-44
+C10583,Dhriti Dave,Female,18,Thiruvananthapuram,Kerala,2025-02-15,Regular,Loyal Customers,Watch,18-24
+C10584,Ronith Prakash,Male,24,Chandigarh,Chandigarh,2026-07-27,Regular,Champions,Watch,18-24
+C10585,Rajeshri Dhawan,Female,33,Bangalore,Karnataka,2025-10-27,Premium,Lost Customers,Watch,25-34
+C10586,Sai Tella,Male,34,Kolkata,West Bengal,2026-04-04,Regular,New Customers,Active,25-34
+C10587,Arin Barad,Male,27,Mysuru,Karnataka,2025-10-30,Premium,At Risk,Watch,25-34
+C10588,Ojas Som,Male,20,Lucknow,Uttar Pradesh,2025-05-27,Regular,New Customers,Active,18-24
+C10589,Falguni Varma,Female,29,Jaipur,Rajasthan,2025-03-06,Premium,Lost Customers,Lost,25-34
+C10590,Nihal Nagar,Male,33,Indore,Madhya Pradesh,2025-10-25,Premium,Loyal Customers,Active,25-34
+C10591,Ronith Mistry,Male,36,Faridabad,Haryana,2025-02-06,Regular,Lost Customers,Lost,35-44
+C10592,Yashica Upadhyay,Female,41,Kanpur,Uttar Pradesh,2025-11-01,Regular,Lost Customers,Lost,35-44
+C10593,Netra Soman,Female,34,Bhopal,Madhya Pradesh,2026-02-18,Regular,Lost Customers,Watch,25-34
+C10594,Raksha Narula,Female,18,Kochi,Kerala,2025-11-09,Regular,Champions,Active,18-24
+C10595,Turvi Morar,Female,33,Thiruvananthapuram,Kerala,2025-04-19,Regular,Lost Customers,Watch,25-34
+C10596,Warjas Lanka,Male,32,Chandigarh,Chandigarh,2025-07-18,Regular,Can't Lose Them,At Risk,25-34
+C10597,Atharv Srinivasan,Male,33,Nagpur,Maharashtra,2026-04-15,Regular,At Risk,Lost,25-34
+C10598,Ranveer Divan,Male,43,Pune,Maharashtra,2026-06-27,Regular,Lost Customers,Lost,35-44
+C10599,Anamika Choudhary,Female,22,Bangalore,Karnataka,2025-08-21,Regular,No Orders,Never Purchased,18-24
+C10600,Aditya Sastry,Male,23,Kolkata,West Bengal,2026-07-26,VIP,No Orders,Never Purchased,18-24
+C10601,Ubika Doshi,Female,36,Mumbai,Maharashtra,2026-07-19,Regular,New Customers,Watch,35-44
+C10602,Ishani Roy,Female,29,Nagpur,Maharashtra,2025-07-24,Regular,Potential Loyalists,Watch,25-34
+C10603,Azaan Devi,Male,18,Kanpur,Uttar Pradesh,2026-05-10,Regular,At Risk,Lost,18-24
+C10604,Nicholas Sridhar,Male,25,Bangalore,Karnataka,2026-05-26,Regular,Loyal Customers,At Risk,25-34
+C10605,Nirja Ghose,Female,28,Unknown,Madhya Pradesh,2025-11-23,Regular,Champions,Watch,25-34
+C10606,Onveer Pandya,Male,34,Mumbai,Maharashtra,2025-05-06,Regular,Champions,Watch,25-34
+C10607,Warhi Handa,Female,30,Kochi,Kerala,2025-04-03,Regular,At Risk,Lost,25-34
+C10608,Maya Misra,Female,27,Indore,Madhya Pradesh,2026-05-30,Regular,Lost Customers,Lost,25-34
+C10609,Neha Mani,Female,25,Kochi,Kerala,2026-03-27,Regular,New Customers,Active,25-34
+C10610,Wishi Nadig,Female,18,Lucknow,Uttar Pradesh,2025-07-19,Regular,No Orders,Never Purchased,18-24
+C10611,Priya Mahal,Female,37,Faridabad,Haryana,2025-04-05,Regular,At Risk,Lost,35-44
+C10612,Darsh Raghavan,Male,32,Bangalore,Karnataka,2026-04-08,Regular,At Risk,At Risk,25-34
+C10613,Pooja Dhingra,Female,49,Jaipur,Rajasthan,2026-01-09,Regular,Loyal Customers,Watch,45-54
+C10614,Ansh Mani,Male,54,Hyderabad,Telangana,2026-07-19,Premium,At Risk,At Risk,45-54
+C10615,Prisha Sathe,Female,31,Guwahati,Assam,2026-03-20,VIP,Loyal Customers,Watch,25-34
+C10616,Wakeeta Kala,Female,34,Ahmedabad,Gujarat,2025-03-30,Regular,Champions,Active,25-34
+C10617,Lopa Magar,Female,23,Kanpur,Uttar Pradesh,2026-01-17,Regular,Lost Customers,Watch,18-24
+C10618,Darika Khatri,Female,37,Delhi,Delhi,2025-05-14,Regular,Lost Customers,Lost,35-44
+C10619,Arya Wali,Female,39,Jaipur,Rajasthan,2025-05-17,Regular,Loyal Customers,Active,35-44
+C10620,Jackson Ben,Male,43,Coimbatore,Tamil Nadu,2025-06-20,Regular,Lost Customers,Watch,35-44
+C10621,Triveni Narayanan,Female,45,Indore,Madhya Pradesh,2025-12-24,Regular,Champions,Watch,45-54
+C10622,Chandresh Devan,Male,24,Hyderabad,Telangana,2026-06-12,Premium,Loyal Customers,At Risk,18-24
+C10623,Gaurangi Ray,Female,39,Mysuru,Karnataka,2026-03-16,Premium,Champions,Watch,35-44
+C10624,Waida Iyengar,Female,18,Kanpur,Uttar Pradesh,2025-06-22,Regular,Loyal Customers,Watch,18-24
+C10625,Oeshi Mangal,Female,30,Lucknow,Uttar Pradesh,2025-02-22,Regular,Loyal Customers,At Risk,25-34
+C10626,Chanchal Kata,Female,35,Kanpur,Uttar Pradesh,2026-07-19,Regular,New Customers,Watch,35-44
+C10627,Gagan Sahni,Male,28,Mysuru,Karnataka,2025-08-06,Regular,New Customers,Active,25-34
+C10628,Andrew Ranganathan,Male,52,Coimbatore,Tamil Nadu,2025-11-21,Regular,At Risk,Lost,45-54
+C10629,Idika Mann,Female,33,Faridabad,Haryana,2025-09-12,Regular,At Risk,Watch,25-34
+C10630,Aayush Misra,Male,31,Surat,Gujarat,2025-12-02,Regular,New Customers,Watch,25-34
+C10631,Oviya Mane,Female,34,Guwahati,Assam,2025-08-24,Regular,New Customers,Watch,25-34
+C10632,Zaitra Tak,Female,38,Kolkata,West Bengal,2025-04-14,Regular,New Customers,Active,35-44
+C10633,Zayyan Sidhu,Male,45,Bhopal,Madhya Pradesh,2026-05-20,Regular,No Orders,Never Purchased,45-54
+C10634,Inaya Chowdhury,Female,37,Chandigarh,Chandigarh,2026-07-26,Regular,Champions,Active,35-44
+C10635,Gautami Shanker,Female,39,Kanpur,Uttar Pradesh,2026-07-30,Regular,New Customers,Active,35-44
+C10636,Idika Atwal,Female,33,Indore,Madhya Pradesh,2025-05-30,Regular,Lost Customers,Watch,25-34
+C10637,Manbir Hans,Male,43,Nagpur,Maharashtra,2025-09-05,VIP,Lost Customers,Lost,35-44
+C10638,Tanmayi Sane,Female,36,Kolkata,West Bengal,2025-04-10,Premium,At Risk,Lost,35-44
+C10639,Chameli Rattan,Female,42,Chandigarh,Chandigarh,2026-07-05,Premium,Lost Customers,Lost,35-44
+C10640,George Dey,Male,46,Mysuru,Karnataka,2026-01-12,Regular,At Risk,Lost,45-54
+C10641,Ojasvi Kothari,Female,36,Kanpur,Uttar Pradesh,2025-11-28,Regular,Loyal Customers,Active,35-44
+C10642,Kalpit Rajagopal,Male,37,Nagpur,Maharashtra,2025-11-30,Premium,Champions,Active,35-44
+C10643,Vansha Loke,Female,18,Kanpur,Uttar Pradesh,2025-04-23,Regular,Champions,Active,18-24
+C10644,Matthew Apte,Male,18,Hyderabad,Telangana,2026-05-11,Premium,Champions,Active,18-24
+C10645,Radha Keer,Female,18,Bangalore,Karnataka,2026-05-22,Regular,Champions,Active,18-24
+C10646,Dhriti Shroff,Female,38,Bhopal,Madhya Pradesh,2025-04-29,Regular,Loyal Customers,At Risk,35-44
+C10647,Gauri Ravi,Female,22,Patna,Bihar,2025-12-15,Regular,New Customers,Watch,18-24
+C10648,Dhriti Merchant,Female,47,Chennai,Tamil Nadu,2025-03-02,Regular,No Orders,Never Purchased,45-54
+C10649,Indrajit Kanda,Male,29,Surat,Gujarat,2026-02-09,Regular,New Customers,Active,25-34
+C10650,William Dua,Male,33,Indore,Madhya Pradesh,2026-01-20,Regular,New Customers,Watch,25-34
+C10651,Rachit Sagar,Male,38,Guwahati,Assam,2026-05-16,Regular,New Customers,Watch,35-44
+C10652,Janani Kota,Female,35,Bangalore,Karnataka,2025-06-01,Regular,Champions,Active,35-44
+C10653,Zansi Sekhon,Female,23,Nagpur,Maharashtra,2025-07-14,Premium,Lost Customers,Watch,18-24
+C10654,Balvan Choudhury,Male,33,Coimbatore,Tamil Nadu,2026-01-29,Regular,At Risk,At Risk,25-34
+C10655,Zayyan Jain,Male,20,Mysuru,Karnataka,2025-07-10,Regular,Lost Customers,Lost,18-24
+C10656,Gayathri Narang,Female,26,Surat,Gujarat,2025-07-10,Regular,No Orders,Never Purchased,25-34
+C10657,Dalbir Jha,Male,43,Surat,Gujarat,2026-04-29,Regular,New Customers,Watch,35-44
+C10658,Chandani Uppal,Female,31,Guwahati,Assam,2025-04-16,Premium,New Customers,Watch,25-34
+C10659,Ayaan Setty,Male,32,Kanpur,Uttar Pradesh,2025-11-10,Regular,Loyal Customers,Watch,25-34
+C10660,Yashvi Sagar,Female,40,Thiruvananthapuram,Kerala,2025-09-12,Regular,No Orders,Never Purchased,35-44
+C10661,Barkha Shere,Female,24,Hyderabad,Telangana,2025-09-24,VIP,Lost Customers,Lost,18-24
+C10662,Alka Randhawa,Female,45,Chandigarh,Chandigarh,2026-03-20,Regular,Champions,Active,45-54
+C10663,Aadhya Kamdar,Female,29,Thiruvananthapuram,Kerala,2026-02-09,Premium,Lost Customers,Lost,25-34
+C10664,Aradhana Sampath,Female,38,Indore,Madhya Pradesh,2026-01-07,Regular,Lost Customers,Lost,35-44
+C10665,Azad Bhasin,Male,38,Gurugram,Haryana,2025-11-26,Regular,New Customers,Watch,35-44
+C10666,Warinder Balay,Male,36,Faridabad,Haryana,2025-08-14,Premium,Lost Customers,Watch,35-44
+C10667,Samarth Gole,Male,41,Patna,Bihar,2026-08-14,Premium,Champions,Watch,35-44
+C10668,Ucchal Prasad,Female,40,Lucknow,Uttar Pradesh,2026-05-26,Regular,Champions,Watch,35-44
+C10669,Vanya Purohit,Female,19,Faridabad,Haryana,2025-07-15,Regular,Champions,Active,18-24
+C10670,Chaitaly Zacharia,Female,30,Ahmedabad,Gujarat,2026-06-22,Premium,Can't Lose Them,At Risk,25-34
+C10671,Owen Dani,Male,29,Faridabad,Haryana,2025-05-10,Regular,At Risk,At Risk,25-34
+C10672,Ronith Wadhwa,Male,48,Kolkata,West Bengal,2025-07-23,Premium,New Customers,Active,45-54
+C10673,Jasmit Aggarwal,Female,51,Guwahati,Assam,2026-03-24,Regular,Can't Lose Them,At Risk,45-54
+C10674,Manthan Sheth,Male,32,Chandigarh,Chandigarh,2026-03-26,Regular,Loyal Customers,Active,25-34
+C10675,Zinal Raghavan,Female,33,Nagpur,Maharashtra,2025-04-27,Regular,Can't Lose Them,At Risk,25-34
+C10676,Jatin Sharma,Male,35,Delhi,Delhi,2026-03-16,Regular,At Risk,Watch,35-44
+C10677,Faras Majumdar,Male,35,Kochi,Kerala,2025-08-08,Regular,Loyal Customers,At Risk,35-44
+C10678,Daksh Balay,Male,33,Surat,Gujarat,2025-09-27,Regular,No Orders,Never Purchased,25-34
+C10679,Adweta Khosla,Female,26,Pune,Maharashtra,2026-03-03,Regular,Can't Lose Them,Lost,25-34
+C10680,Bahadurjit Chaudhuri,Male,40,Chennai,Tamil Nadu,2025-09-21,VIP,New Customers,Active,35-44
+C10681,Udant Bava,Male,34,Surat,Gujarat,2026-05-16,Regular,At Risk,Watch,25-34
+C10682,Anya Ratti,Female,40,Lucknow,Uttar Pradesh,2025-03-25,Regular,Lost Customers,Watch,35-44
+C10683,Kamala Zacharia,Female,30,Hyderabad,Telangana,2026-03-23,Regular,Lost Customers,Watch,25-34
+C10684,Ayaan Dey,Male,37,Mumbai,Maharashtra,2026-02-12,Regular,At Risk,Watch,35-44
+C10685,Jackson Nagar,Male,21,Chandigarh,Chandigarh,2026-05-03,Premium,Lost Customers,Watch,18-24
+C10686,Jagat Mittal,Male,28,Bangalore,Karnataka,2025-05-24,Regular,New Customers,Active,25-34
+C10687,Indrajit Sachdev,Male,18,Coimbatore,Tamil Nadu,2026-04-03,VIP,Lost Customers,Lost,18-24
+C10688,Mahika Bhat,Female,23,Lucknow,Uttar Pradesh,2025-06-21,Regular,Can't Lose Them,At Risk,18-24
+C10689,Unni Tandon,Female,34,Coimbatore,Tamil Nadu,2026-06-10,Regular,Lost Customers,Lost,25-34
+C10690,Orinder Raj,Male,30,Hyderabad,Telangana,2025-07-07,Regular,Lost Customers,Watch,25-34
+C10691,Turvi Rege,Female,40,Nagpur,Maharashtra,2025-07-11,Premium,Loyal Customers,Watch,35-44
+C10692,Netra Puri,Female,37,Gurugram,Haryana,2026-02-18,Regular,Champions,Watch,35-44
+C10693,Warjas Khosla,Male,38,Hyderabad,Telangana,2026-07-30,Regular,No Orders,Never Purchased,35-44
+C10694,Netra Dhawan,Female,18,Kochi,Kerala,2025-12-05,Regular,Loyal Customers,Watch,18-24
+C10695,Ayush Sachar,Male,30,Chennai,Tamil Nadu,2025-12-28,Premium,No Orders,Never Purchased,25-34
+C10696,Zilmil Desai,Female,34,Bhopal,Madhya Pradesh,2026-01-13,Regular,Lost Customers,Lost,25-34
+C10697,Jairaj Kumer,Male,33,Bangalore,Karnataka,2025-03-10,Regular,At Risk,Lost,25-34
+C10698,Oni Brar,Female,45,Surat,Gujarat,2025-08-02,Regular,At Risk,Lost,45-54
+C10699,Qasim Chanda,Male,36,Ahmedabad,Gujarat,2025-10-09,Regular,Lost Customers,Lost,35-44
+C10700,Atharv Loyal,Male,38,Nagpur,Maharashtra,2026-02-24,Regular,Champions,Watch,35-44
+C10701,Anmol Bora,Male,28,Chennai,Tamil Nadu,2026-03-05,Regular,Loyal Customers,At Risk,25-34
+C10702,Ikbal Srinivas,Male,43,Jaipur,Rajasthan,2026-06-12,Premium,New Customers,Watch,35-44
+C10703,Osha Mitter,Female,28,Faridabad,Haryana,2025-05-12,Regular,At Risk,Lost,25-34
+C10704,Hitesh Gupta,Male,40,Gurugram,Haryana,2026-07-16,Regular,Can't Lose Them,At Risk,35-44
+C10705,Wriddhish Kibe,Male,24,Coimbatore,Tamil Nadu,2026-06-01,Regular,New Customers,Watch,18-24
+C10706,Sneha Khatri,Female,40,Faridabad,Haryana,2025-12-07,Regular,Champions,Watch,35-44
+C10707,Megha Rai,Female,35,Patna,Bihar,2026-05-08,Regular,At Risk,Watch,35-44
+C10708,Rachita Morar,Female,25,Kolkata,West Bengal,2025-08-10,Regular,At Risk,Watch,25-34
+C10709,Pranit Varghese,Male,28,Nagpur,Maharashtra,2026-07-27,Regular,Lost Customers,Watch,25-34
+C10710,Vidhi Chaudhari,Female,24,Guwahati,Assam,2026-07-09,VIP,Loyal Customers,Active,18-24
+C10711,Odika Jani,Female,38,Surat,Gujarat,2025-02-13,Premium,New Customers,Active,35-44
+C10712,Nirja Sachdev,Female,31,Chandigarh,Chandigarh,2026-03-30,Premium,No Orders,Never Purchased,25-34
+C10713,Indrajit Dhingra,Male,35,Delhi,Delhi,2025-04-02,Regular,Can't Lose Them,Lost,35-44
+C10714,Kalpit Sahni,Male,20,Kanpur,Uttar Pradesh,2025-11-01,Regular,New Customers,Watch,18-24
+C10715,Ganga Hayre,Female,48,Mumbai,Maharashtra,2026-01-11,Premium,Loyal Customers,At Risk,45-54
+C10716,Ishwar Raghavan,Male,38,Coimbatore,Tamil Nadu,2026-02-01,Premium,Lost Customers,Watch,35-44
+C10717,Zaid Nazareth,Male,35,Bhopal,Madhya Pradesh,2025-10-21,Regular,New Customers,Active,35-44
+C10718,Yash Swaminathan,Male,32,Hyderabad,Telangana,2025-12-30,Premium,Loyal Customers,At Risk,25-34
+C10719,Hamsini Pandey,Female,48,Pune,Maharashtra,2026-02-09,Regular,New Customers,Watch,45-54
+C10720,Ekiya Suresh,Female,45,Mumbai,Maharashtra,2026-05-09,Premium,No Orders,Never Purchased,45-54
+C10721,Bhanumati Viswanathan,Female,27,Coimbatore,Tamil Nadu,2025-08-28,Regular,Loyal Customers,Watch,25-34
+C10722,Bishakha Bava,Female,23,Jaipur,Rajasthan,2025-02-06,Regular,New Customers,Active,18-24
+C10723,Triveni Devan,Female,38,Thiruvananthapuram,Kerala,2025-04-19,Premium,Lost Customers,Watch,35-44
+C10724,Bahadurjit Dora,Male,33,Ahmedabad,Gujarat,2026-05-22,Regular,New Customers,Active,25-34
+C10725,Ikbal Tiwari,Male,32,Guwahati,Assam,2026-01-10,Regular,At Risk,Watch,25-34
+C10726,Rachit Bhasin,Male,31,Coimbatore,Tamil Nadu,2025-04-08,Regular,At Risk,Watch,25-34
+C10727,Yagnesh Babu,Male,18,Chandigarh,Chandigarh,2025-07-14,VIP,Can't Lose Them,Lost,18-24
+C10728,Samesh Arora,Male,36,Lucknow,Uttar Pradesh,2025-05-22,Regular,No Orders,Never Purchased,35-44
+C10729,Zilmil Maharaj,Female,47,Bangalore,Karnataka,2025-09-17,Premium,Champions,Active,45-54
+C10730,Adweta Thakkar,Female,28,Kolkata,West Bengal,2026-01-18,VIP,No Orders,Never Purchased,25-34
+C10731,Hemal Chhabra,Female,48,Jaipur,Rajasthan,2026-01-26,Premium,Can't Lose Them,Lost,45-54
+C10732,Zaitra Dixit,Female,32,Ahmedabad,Gujarat,2025-03-13,Regular,Lost Customers,Watch,25-34
+C10733,Gopal Vyas,Male,38,Kochi,Kerala,2025-06-23,Premium,At Risk,Lost,35-44
+C10734,Peter Loke,Male,35,Bangalore,Karnataka,2025-07-05,VIP,New Customers,Watch,35-44
+C10735,Chaaya Prakash,Female,29,Kanpur,Uttar Pradesh,2025-10-16,Regular,Can't Lose Them,Lost,25-34
+C10736,Victor Kohli,Male,18,Chennai,Tamil Nadu,2025-04-06,Premium,New Customers,Watch,18-24
+C10737,Netra Buch,Female,40,Jaipur,Rajasthan,2025-05-01,Regular,At Risk,Lost,35-44
+C10738,Charita Ravi,Female,28,Chandigarh,Chandigarh,2025-09-29,Regular,New Customers,Active,25-34
+C10739,Ranbir Soni,Male,34,Delhi,Delhi,2025-07-19,Regular,New Customers,Watch,25-34
+C10740,Aayush Garg,Male,35,Gurugram,Haryana,2026-02-25,Regular,Lost Customers,Watch,35-44
+C10741,Zaid Saraf,Male,27,Coimbatore,Tamil Nadu,2025-02-15,Premium,Can't Lose Them,At Risk,25-34
+C10742,Charvi Wable,Female,33,Indore,Madhya Pradesh,2026-08-21,Premium,At Risk,Watch,25-34
+C10743,Ishwar Kakar,Male,49,Delhi,Delhi,2026-02-23,Regular,No Orders,Never Purchased,45-54
+C10744,Krishna Batra,Male,43,Indore,Madhya Pradesh,2026-03-20,Regular,At Risk,Lost,35-44
+C10745,Logan Bali,Male,46,Delhi,Delhi,2025-07-20,Premium,Champions,Watch,45-54
+C10746,Nisha Babu,Female,40,Jaipur,Rajasthan,2025-10-21,Regular,Champions,Watch,35-44
+C10747,Ekbal Rao,Male,33,Coimbatore,Tamil Nadu,2025-08-29,Regular,At Risk,Lost,25-34
+C10748,Netra Gaba,Female,23,Delhi,Delhi,2026-02-17,Premium,Lost Customers,Watch,18-24
+C10749,Saumya Zachariah,Female,41,Bhopal,Madhya Pradesh,2026-02-22,Regular,At Risk,At Risk,35-44
+C10750,Sanaya Dey,Female,26,Delhi,Delhi,2026-05-18,Regular,No Orders,Never Purchased,25-34
+C10751,Zashil Pal,Male,47,Thiruvananthapuram,Kerala,2025-09-13,Regular,Loyal Customers,Watch,45-54
+C10752,Chavvi Sarkar,Female,48,Faridabad,Haryana,2025-08-02,Regular,No Orders,Never Purchased,45-54
+C10753,Baljiwan Oak,Male,31,Kochi,Kerala,2025-05-07,Regular,Loyal Customers,Active,25-34
+C10754,Omisha Balan,Female,31,Coimbatore,Tamil Nadu,2025-11-07,VIP,Champions,Watch,25-34
+C10755,Varenya Swaminathan,Female,35,Kanpur,Uttar Pradesh,2025-12-21,Regular,At Risk,Watch,35-44
+C10756,Rachana Prashad,Female,45,Surat,Gujarat,2026-06-14,Regular,No Orders,Never Purchased,45-54
+C10757,Idika Rai,Female,30,Bangalore,Karnataka,2025-07-26,Premium,No Orders,Never Purchased,25-34
+C10758,Neelima Koshy,Female,24,Delhi,Delhi,2025-12-01,Premium,Lost Customers,Watch,18-24
+C10759,Chakrika Loyal,Female,38,Patna,Bihar,2025-06-10,Regular,New Customers,Active,35-44
+C10760,Sachi Dube,Female,26,Coimbatore,Tamil Nadu,2025-02-02,Regular,Lost Customers,Watch,25-34
+C10761,Nitara Patel,Female,31,Chandigarh,Chandigarh,2025-03-29,Regular,Loyal Customers,Active,25-34
+C10762,Chandani Ahluwalia,Female,31,Delhi,Delhi,2025-02-21,Regular,Champions,Watch,25-34
+C10763,Vamakshi Parsa,Female,51,Kochi,Kerala,2025-08-14,Regular,Loyal Customers,Watch,45-54
+C10764,Dalaja Deo,Female,31,Kolkata,West Bengal,2025-05-08,Regular,Lost Customers,Watch,25-34
+C10765,Girik Sankar,Male,18,Coimbatore,Tamil Nadu,2025-07-03,Regular,Potential Loyalists,Watch,18-24
+C10766,Samar Chauhan,Male,31,Mumbai,Maharashtra,2026-05-13,Regular,Lost Customers,Lost,25-34
+C10767,Chaitanya Pandya,Male,27,Lucknow,Uttar Pradesh,2025-02-26,Regular,Lost Customers,Watch,25-34
+C10768,Omaja Rajan,Female,32,Faridabad,Haryana,2025-03-26,VIP,New Customers,Active,25-34
+C10769,Madhav Sachdev,Male,46,Mysuru,Karnataka,2025-12-31,Premium,Loyal Customers,Watch,45-54
+C10770,Brijesh Kibe,Male,34,Guwahati,Assam,2025-06-27,VIP,Champions,Watch,25-34
+C10771,Sachi Gara,Female,33,Delhi,Delhi,2025-12-03,Regular,New Customers,Active,25-34
+C10772,Krish Mitra,Male,51,Ahmedabad,Gujarat,2026-04-02,Premium,Potential Loyalists,Watch,45-54
+C10773,Xiti Dhingra,Female,18,Faridabad,Haryana,2025-09-22,Regular,Loyal Customers,Watch,18-24
+C10774,Geetika Saran,Female,28,Faridabad,Haryana,2025-06-06,Regular,Lost Customers,Watch,25-34
+C10775,Ucchal Mistry,Female,34,Jaipur,Rajasthan,2026-07-31,Regular,Loyal Customers,At Risk,25-34
+C10776,Brinda Patel,Female,38,Hyderabad,Telangana,2025-04-10,Premium,Lost Customers,Watch,35-44
+C10777,Krishna Tandon,Female,30,Hyderabad,Telangana,2025-05-04,Regular,Loyal Customers,Watch,25-34
+C10778,Veer Chhabra,Male,44,Guwahati,Assam,2025-05-12,Regular,Lost Customers,Lost,35-44
+C10779,Nidra Ahuja,Female,35,Chandigarh,Chandigarh,2026-03-04,Premium,Loyal Customers,Active,35-44
+C10780,Osha Rai,Female,36,Faridabad,Haryana,2026-08-16,Regular,Champions,Watch,35-44
+C10781,Urvi Natt,Female,28,Delhi,Delhi,2025-05-14,Regular,Lost Customers,Watch,25-34
+C10782,Ekansh Mital,Male,35,Lucknow,Uttar Pradesh,2025-10-13,Regular,Can't Lose Them,At Risk,35-44
+C10783,Irya Srinivas,Female,34,Gurugram,Haryana,2026-07-26,Premium,New Customers,Active,25-34
+C10784,Hema Rao,Female,18,Guwahati,Assam,2026-08-08,Regular,Champions,Active,18-24
+C10785,Mugdha Swaminathan,Female,19,Jaipur,Rajasthan,2026-01-17,Regular,No Orders,Never Purchased,18-24
+C10786,Omaja Puri,Female,30,Bangalore,Karnataka,2025-06-06,Regular,Potential Loyalists,Watch,25-34
+C10787,Shravya Patla,Female,31,Bangalore,Karnataka,2025-06-24,Premium,At Risk,Watch,25-34
+C10788,Harish Gole,Male,24,Kanpur,Uttar Pradesh,2026-03-24,Regular,Champions,Active,18-24
+C10789,Vihaan Kadakia,Male,25,Thiruvananthapuram,Kerala,2025-09-07,Regular,Lost Customers,Lost,25-34
+C10790,Madhav Biswas,Male,52,Surat,Gujarat,2026-05-16,Regular,Loyal Customers,At Risk,45-54
+C10791,Zaid Dewan,Male,29,Mumbai,Maharashtra,2025-11-29,Premium,Lost Customers,Watch,25-34
+C10792,Jai Krishnan,Male,22,Mysuru,Karnataka,2025-03-01,Regular,Lost Customers,Lost,18-24
+C10793,Udyati Purohit,Female,33,Coimbatore,Tamil Nadu,2026-01-18,Regular,Loyal Customers,Watch,25-34
+C10794,Vanya Srinivas,Female,24,Thiruvananthapuram,Kerala,2025-06-29,Regular,No Orders,Never Purchased,18-24
+C10795,Zehaan Sahota,Male,33,Chandigarh,Chandigarh,2025-04-01,Regular,Lost Customers,Lost,25-34
+C10796,Pranit Yadav,Male,26,Chennai,Tamil Nadu,2026-05-15,Regular,New Customers,Active,25-34
+C10797,Darika Kothari,Female,35,Chandigarh,Chandigarh,2026-04-05,VIP,Lost Customers,Lost,35-44
+C10798,Fiyaz Basu,Male,38,Kanpur,Uttar Pradesh,2025-07-05,Premium,Lost Customers,Watch,35-44
+C10799,Oni Sani,Female,20,Bangalore,Karnataka,2025-10-14,Regular,At Risk,Lost,18-24
+C10800,Abdul Chaudhari,Male,25,Kanpur,Uttar Pradesh,2025-12-18,Regular,New Customers,Active,25-34
+C10801,Indrajit Uppal,Male,40,Indore,Madhya Pradesh,2025-08-26,Regular,New Customers,Active,35-44
+C10802,Vansha Prasad,Female,20,Gurugram,Haryana,2025-02-02,Premium,Lost Customers,Watch,18-24
+C10803,Vincent Tella,Male,30,Kolkata,West Bengal,2026-04-15,VIP,New Customers,Watch,25-34
+C10804,Pooja Bakshi,Female,40,Bhopal,Madhya Pradesh,2026-02-02,Regular,New Customers,Active,35-44
+C10805,Charles Merchant,Male,32,Faridabad,Haryana,2025-03-27,Regular,New Customers,Watch,25-34
+C10806,Brijesh D’Alia,Male,44,Kochi,Kerala,2025-10-25,VIP,Loyal Customers,At Risk,35-44
+C10807,Owen Muni,Male,31,Mumbai,Maharashtra,2025-10-28,Regular,At Risk,Lost,25-34
+C10808,Vasatika Jhaveri,Female,53,Chandigarh,Chandigarh,2025-03-07,Regular,Champions,Watch,45-54
+C10809,Owen Soni,Male,53,Patna,Bihar,2025-10-22,Regular,Potential Loyalists,Watch,45-54
+C10810,Urvashi Sethi,Female,24,Surat,Gujarat,2025-05-23,Regular,At Risk,At Risk,18-24
+C10811,Bhavna Mital,Female,48,Bhopal,Madhya Pradesh,2026-06-22,VIP,Lost Customers,Lost,45-54
+C10812,Dakshesh Bajaj,Male,20,Kanpur,Uttar Pradesh,2025-03-30,Premium,Lost Customers,Watch,18-24
+C10813,Chatura Gala,Male,29,Mysuru,Karnataka,2025-11-24,Premium,Lost Customers,Lost,25-34
+C10814,Yauvani Ghosh,Female,32,Gurugram,Haryana,2025-05-12,Regular,New Customers,Watch,25-34
+C10815,Noah Sandhu,Male,27,Thiruvananthapuram,Kerala,2025-05-15,Premium,Champions,Active,25-34
+C10816,Jack Ravel,Male,26,Bangalore,Karnataka,2025-08-02,Premium,Champions,Active,25-34
+C10817,Idika Sankaran,Female,25,Chennai,Tamil Nadu,2025-11-26,VIP,New Customers,Watch,25-34
+C10818,Akshay Hora,Male,36,Patna,Bihar,2025-08-23,Premium,Lost Customers,Lost,35-44
+C10819,Tanish Ramachandran,Male,42,Faridabad,Haryana,2025-09-26,Regular,Lost Customers,Watch,35-44
+C10820,Hredhaan Jha,Male,32,Bhopal,Madhya Pradesh,2025-05-29,Premium,Lost Customers,Lost,25-34
+C10821,Bhavika Chaudry,Female,26,Thiruvananthapuram,Kerala,2026-03-04,Premium,Loyal Customers,Watch,25-34
+C10822,Rajeshri Nanda,Female,20,Ahmedabad,Gujarat,2025-03-30,Premium,Lost Customers,Lost,18-24
+C10823,Veer Comar,Male,18,Patna,Bihar,2025-10-20,Premium,Can't Lose Them,At Risk,18-24
+C10824,Wishi Wable,Female,22,Coimbatore,Tamil Nadu,2026-01-18,Regular,Champions,Active,18-24
+C10825,Rishi Ramanathan,Male,47,Mumbai,Maharashtra,2026-07-31,Regular,Can't Lose Them,Lost,45-54
+C10826,Priya Pandey,Female,46,Hyderabad,Telangana,2026-04-04,Regular,No Orders,Never Purchased,45-54
+C10827,Harini Mishra,Female,38,Jaipur,Rajasthan,2025-04-24,Regular,No Orders,Never Purchased,35-44
+C10828,Ekani Munshi,Female,24,Chandigarh,Chandigarh,2026-08-20,VIP,Champions,Active,18-24
+C10829,Kashvi Mody,Female,39,Bangalore,Karnataka,2025-03-09,Regular,Champions,Active,35-44
+C10830,Hemani Prakash,Female,28,Mumbai,Maharashtra,2025-08-04,Premium,At Risk,Lost,25-34
+C10831,Yashodhara Rama,Female,39,Delhi,Delhi,2026-07-05,Premium,Loyal Customers,Watch,35-44
+C10832,Ekapad Rajagopal,Male,28,Gurugram,Haryana,2026-05-04,Regular,Champions,Active,25-34
+C10833,Girik Sur,Male,22,Guwahati,Assam,2025-08-05,Regular,Champions,Active,18-24
+C10834,Geetika Suri,Female,34,Pune,Maharashtra,2025-11-11,Regular,New Customers,Active,25-34
+C10835,Ekiya Grover,Female,37,Jaipur,Rajasthan,2026-04-27,Regular,Champions,Active,35-44
+C10836,Varenya Bera,Female,34,Pune,Maharashtra,2025-12-29,Regular,No Orders,Never Purchased,25-34
+C10837,Aayush Sundaram,Male,39,Surat,Gujarat,2025-06-04,Regular,Lost Customers,Lost,35-44
+C10838,Indali Rajagopalan,Female,49,Pune,Maharashtra,2025-05-22,Regular,New Customers,Active,45-54
+C10839,Tara Swamy,Female,46,Chandigarh,Chandigarh,2025-02-19,Regular,Lost Customers,Watch,45-54
+C10840,Vamakshi Suresh,Female,50,Ahmedabad,Gujarat,2026-01-01,Regular,Lost Customers,Watch,45-54
+C10841,Chakrika Balasubramanian,Female,28,Ahmedabad,Gujarat,2025-10-08,Premium,No Orders,Never Purchased,25-34
+C10842,Madhav Bali,Male,34,Bhopal,Madhya Pradesh,2025-10-04,Regular,Champions,Watch,25-34
+C10843,Jeevika Yogi,Female,29,Bangalore,Karnataka,2026-05-01,Regular,Champions,Active,25-34
+C10844,Hamsini Shankar,Female,32,Gurugram,Haryana,2026-07-14,Regular,Lost Customers,Watch,25-34
+C10845,Daksh Comar,Male,18,Bangalore,Karnataka,2025-07-05,Regular,New Customers,Watch,18-24
+C10846,Rajeshri Barman,Female,49,Faridabad,Haryana,2025-10-15,Regular,At Risk,Watch,45-54
+C10847,Ikbal Sandal,Male,26,Kolkata,West Bengal,2025-07-16,Regular,Champions,Watch,25-34
+C10848,Jatin Mishra,Male,26,Guwahati,Assam,2026-02-09,Regular,Loyal Customers,At Risk,25-34
+C10849,Umang Lall,Male,27,Jaipur,Rajasthan,2026-08-05,Regular,Loyal Customers,Watch,25-34
+C10850,Chameli Sarna,Female,33,Chennai,Tamil Nadu,2025-08-16,VIP,Loyal Customers,Watch,25-34
+C10851,Kashish Kadakia,Female,51,Indore,Madhya Pradesh,2025-07-25,Regular,New Customers,Watch,45-54
+C10852,Upadhriti Gandhi,Female,43,Jaipur,Rajasthan,2025-05-06,Regular,Champions,Watch,35-44
+C10853,Harshil Jhaveri,Male,34,Faridabad,Haryana,2026-06-05,Regular,Lost Customers,Lost,25-34
+C10854,Parth Walia,Male,29,Lucknow,Uttar Pradesh,2025-06-03,Regular,Lost Customers,Lost,25-34
+C10855,Hamsini Naik,Female,33,Hyderabad,Telangana,2025-11-30,Regular,Champions,Active,25-34
+C10856,Mohini Loke,Female,25,Bhopal,Madhya Pradesh,2025-06-27,Premium,Champions,Active,25-34
+C10857,Ekanta Sabharwal,Female,40,Ahmedabad,Gujarat,2025-05-15,Regular,Champions,Active,35-44
+C10858,Manya Date,Female,39,Kolkata,West Bengal,2026-01-06,Regular,No Orders,Never Purchased,35-44
+C10859,Jeet Dhingra,Male,49,Bhopal,Madhya Pradesh,2026-02-08,VIP,Champions,Watch,45-54
+C10860,Jatin Ramaswamy,Male,30,Thiruvananthapuram,Kerala,2026-07-22,Premium,No Orders,Never Purchased,25-34
+C10861,Ekavir Luthra,Male,37,Guwahati,Assam,2026-07-08,Regular,Lost Customers,Watch,35-44
+C10862,Raghav Seth,Male,34,Jaipur,Rajasthan,2025-12-26,Premium,Champions,Active,25-34
+C10863,Chakradhar Rau,Male,28,Surat,Gujarat,2026-07-16,Regular,At Risk,Watch,25-34
+C10864,Qarin Sha,Male,37,Kochi,Kerala,2026-02-22,Regular,Can't Lose Them,At Risk,35-44
+C10865,Omisha Agate,Female,31,Thiruvananthapuram,Kerala,2025-08-10,Regular,Lost Customers,Lost,25-34
+C10866,Vasudha Parmar,Female,18,Ahmedabad,Gujarat,2026-03-29,Regular,Lost Customers,Watch,18-24
+C10867,Sneha Kamdar,Female,18,Bhopal,Madhya Pradesh,2025-05-27,Regular,Lost Customers,Lost,18-24
+C10868,Jagvi Talwar,Female,34,Chandigarh,Chandigarh,2025-10-23,Regular,Champions,Active,25-34
+C10869,Ojasvi Mander,Female,36,Patna,Bihar,2026-07-16,Premium,New Customers,Watch,35-44
+C10870,Dhruv Sundaram,Male,33,Pune,Maharashtra,2025-08-08,Premium,Lost Customers,Watch,25-34
+C10871,Arunima Batra,Female,54,Bangalore,Karnataka,2026-05-29,Regular,Loyal Customers,At Risk,45-54
+C10872,Victor Babu,Male,35,Bhopal,Madhya Pradesh,2025-12-18,VIP,Loyal Customers,Active,35-44
+C10873,Gaurangi Sastry,Female,29,Hyderabad,Telangana,2025-10-06,VIP,Loyal Customers,Watch,25-34
+C10874,Aachal Sangha,Female,18,Pune,Maharashtra,2026-04-16,Regular,Champions,Watch,18-24
+C10875,Ekaja Mittal,Female,36,Delhi,Delhi,2025-06-18,Regular,Loyal Customers,Watch,35-44
+C10876,Laksh Chander,Male,18,Jaipur,Rajasthan,2026-08-02,Regular,Champions,Active,18-24
+C10877,Ladli Butala,Female,27,Thiruvananthapuram,Kerala,2026-05-29,Regular,Loyal Customers,Watch,25-34
+C10878,Fitan Ben,Male,24,Kolkata,West Bengal,2025-05-19,VIP,At Risk,Watch,18-24
+C10879,Niharika Kaur,Female,34,Pune,Maharashtra,2025-12-27,Regular,Lost Customers,Lost,25-34
+C10880,Chakradev Chandran,Male,18,Pune,Maharashtra,2025-09-01,Premium,Lost Customers,Lost,18-24
+C10881,Hredhaan Sood,Male,40,Kolkata,West Bengal,2025-11-15,Regular,Champions,Watch,35-44
+C10882,Ekaja Kara,Female,31,Mysuru,Karnataka,2025-11-01,Regular,Potential Loyalists,Watch,25-34
+C10883,Aarna Anand,Female,18,Lucknow,Uttar Pradesh,2026-03-21,Regular,Loyal Customers,Watch,18-24
+C10884,Dipta Sami,Female,46,Hyderabad,Telangana,2026-01-11,Regular,Loyal Customers,Watch,45-54
+C10885,William Bobal,Male,18,Patna,Bihar,2025-04-15,Regular,Loyal Customers,Active,18-24
+C10886,Sanaya Chakraborty,Female,22,Kochi,Kerala,2025-09-26,Regular,New Customers,Watch,18-24
+C10887,Charan Munshi,Male,42,Guwahati,Assam,2025-06-07,Regular,Lost Customers,Lost,35-44
+C10888,Mason Devan,Male,38,Chandigarh,Chandigarh,2026-05-22,Regular,New Customers,Watch,35-44
+C10889,Ekani Dhar,Female,39,Jaipur,Rajasthan,2026-03-22,Regular,At Risk,Lost,35-44
+C10890,Zilmil Anand,Female,31,Kochi,Kerala,2026-06-11,Regular,At Risk,Lost,25-34
+C10891,Urvi Panchal,Female,37,Ahmedabad,Gujarat,2025-11-15,Regular,New Customers,Watch,35-44
+C10892,Faqid Sabharwal,Male,45,Jaipur,Rajasthan,2025-10-22,Regular,No Orders,Never Purchased,45-54
+C10893,Janani Chadha,Female,26,Chennai,Tamil Nadu,2026-01-22,Premium,Lost Customers,Lost,25-34
+C10894,Ekaraj Dasgupta,Male,33,Gurugram,Haryana,2026-02-15,Premium,Lost Customers,Watch,25-34
+C10895,Parth Sanghvi,Male,18,Bhopal,Madhya Pradesh,2025-04-20,Regular,At Risk,Lost,18-24
+C10896,Ekaraj Kota,Male,43,Kolkata,West Bengal,2025-02-24,Regular,Loyal Customers,Active,35-44
+C10897,Chaman Kothari,Female,36,Pune,Maharashtra,2026-07-14,Regular,At Risk,Lost,35-44
+C10898,Amara Mitra,Female,32,Kanpur,Uttar Pradesh,2025-06-03,VIP,At Risk,At Risk,25-34
+C10899,Yochana Upadhyay,Female,41,Indore,Madhya Pradesh,2025-11-07,Regular,Champions,Watch,35-44
+C10900,Shivani Merchant,Female,23,Bhopal,Madhya Pradesh,2025-08-15,Regular,New Customers,Watch,18-24
+C10901,Kashvi Talwar,Female,42,Jaipur,Rajasthan,2025-05-25,Regular,Can't Lose Them,Lost,35-44
+C10902,Dayita Khosla,Female,38,Unknown,Madhya Pradesh,2025-09-19,Regular,At Risk,Lost,35-44
+C10903,Balendra Wable,Male,52,Hyderabad,Telangana,2025-06-20,Regular,New Customers,Watch,45-54
+C10904,Radha Nadig,Female,40,Pune,Maharashtra,2025-03-19,Regular,New Customers,Watch,35-44
+C10905,Rishi Salvi,Male,61,Kanpur,Uttar Pradesh,2026-06-17,Regular,At Risk,Lost,55+
+C10906,Gabriel Sinha,Male,33,Bhopal,Madhya Pradesh,2026-01-26,Regular,Champions,Watch,25-34
+C10907,Abhiram Bir,Male,38,Lucknow,Uttar Pradesh,2025-08-27,Regular,Can't Lose Them,At Risk,35-44
+C10908,Karan Kale,Male,33,Chandigarh,Chandigarh,2025-02-22,Regular,New Customers,Active,25-34
+C10909,Bhanumati Rao,Female,23,Nagpur,Maharashtra,2025-10-30,Regular,New Customers,Watch,18-24
+C10910,Yamini Sagar,Female,37,Indore,Madhya Pradesh,2026-07-29,Regular,Can't Lose Them,Lost,35-44
+C10911,Suhani Butala,Female,26,Chennai,Tamil Nadu,2025-12-07,Regular,Lost Customers,Lost,25-34
+C10912,Liam Chacko,Male,32,Ahmedabad,Gujarat,2025-07-22,VIP,Loyal Customers,At Risk,25-34
+C10913,Chaaya Vaidya,Female,31,Surat,Gujarat,2025-07-28,Regular,Loyal Customers,At Risk,25-34
+C10914,Garima Yadav,Female,21,Patna,Bihar,2026-07-16,Premium,Loyal Customers,At Risk,18-24
+C10915,Shivani Bhatti,Female,37,Bangalore,Karnataka,2025-02-04,Regular,Champions,Active,35-44
+C10916,Tejas Khare,Male,38,Delhi,Delhi,2026-05-20,Regular,Lost Customers,Lost,35-44
+C10917,Krisha Chadha,Female,30,Delhi,Delhi,2025-03-13,Regular,Lost Customers,Lost,25-34
+C10918,Dalbir Setty,Male,29,Jaipur,Rajasthan,2026-07-05,Regular,New Customers,Watch,25-34
+C10919,Nilima Gill,Female,31,Chandigarh,Chandigarh,2026-04-26,Regular,New Customers,Active,25-34
+C10920,Abeer Devan,Male,43,Gurugram,Haryana,2025-10-11,Premium,Loyal Customers,Active,35-44
+C10921,Gautami Taneja,Female,18,Chandigarh,Chandigarh,2025-07-15,Premium,Champions,Active,18-24
+C10922,Kai Ganesan,Male,30,Guwahati,Assam,2025-07-27,Regular,New Customers,Watch,25-34
+C10923,Dev Luthra,Male,37,Surat,Gujarat,2025-05-25,Regular,No Orders,Never Purchased,35-44
+C10924,Alexander Nayak,Male,47,Faridabad,Haryana,2026-08-01,Premium,Lost Customers,Lost,45-54
+C10925,Laban Viswanathan,Male,46,Jaipur,Rajasthan,2025-04-15,Regular,Lost Customers,Lost,45-54
+C10926,Karan Bose,Male,18,Jaipur,Rajasthan,2026-03-09,Premium,Champions,Active,18-24
+C10927,Vedant Vaidya,Male,42,Delhi,Delhi,2026-01-18,Regular,Lost Customers,Watch,35-44
+C10928,Baghyawati Tata,Female,18,Patna,Bihar,2026-05-24,Regular,No Orders,Never Purchased,18-24
+C10929,Raksha Dugar,Female,33,Bangalore,Karnataka,2026-07-09,Regular,No Orders,Never Purchased,25-34
+C10930,Charan D’Alia,Male,39,Mysuru,Karnataka,2026-04-28,Premium,At Risk,Lost,35-44
+C10931,Yashoda Agate,Female,35,Chandigarh,Chandigarh,2026-08-02,Regular,Can't Lose Them,At Risk,35-44
+C10932,Abeer Konda,Male,48,Hyderabad,Telangana,2026-06-25,VIP,At Risk,At Risk,45-54
+C10933,Vrishti Patla,Female,46,Faridabad,Haryana,2026-04-10,Regular,At Risk,Watch,45-54
+C10934,Falan Gola,Male,30,Nagpur,Maharashtra,2025-11-02,VIP,Can't Lose Them,At Risk,25-34
+C10935,Ubika Kapur,Female,32,Coimbatore,Tamil Nadu,2025-07-10,VIP,At Risk,Lost,25-34
+C10936,Jeet Saha,Male,34,Unknown,Bihar,2025-08-25,Premium,Champions,Watch,25-34
+C10937,Krishna Brahmbhatt,Male,46,Nagpur,Maharashtra,2026-03-18,Premium,No Orders,Never Purchased,45-54
+C10938,Darpan Thakkar,Male,37,Thiruvananthapuram,Kerala,2025-03-17,Regular,Champions,Active,35-44
+C10939,Gaurav Kapoor,Male,33,Bhopal,Madhya Pradesh,2025-05-22,Regular,No Orders,Never Purchased,25-34
+C10940,Suhani Biswas,Female,48,Ahmedabad,Gujarat,2026-07-13,Regular,Lost Customers,Lost,45-54
+C10941,Lohit Mukhopadhyay,Male,28,Ahmedabad,Gujarat,2025-07-30,Regular,New Customers,Active,25-34
+C10942,Chameli Shan,Female,18,Patna,Bihar,2025-05-02,Premium,Lost Customers,Watch,18-24
+C10943,Raksha Iyer,Female,52,Jaipur,Rajasthan,2026-05-11,VIP,Lost Customers,Lost,45-54
+C10944,Nidra Kibe,Female,32,Bhopal,Madhya Pradesh,2025-06-05,Regular,New Customers,Watch,25-34
+C10945,Qarin Tak,Male,33,Guwahati,Assam,2026-06-10,VIP,At Risk,Lost,25-34
+C10946,Krisha Dora,Female,45,Mumbai,Maharashtra,2026-08-09,Premium,New Customers,Watch,45-54
+C10947,Tara Bajwa,Female,30,Mysuru,Karnataka,2025-08-22,VIP,At Risk,Lost,25-34
+C10948,Oscar Andra,Male,29,Lucknow,Uttar Pradesh,2025-04-29,Regular,Loyal Customers,Watch,25-34
+C10949,Aachal Puri,Female,28,Hyderabad,Telangana,2025-04-27,Regular,Champions,Active,25-34
+C10950,Charles Jha,Male,36,Bhopal,Madhya Pradesh,2025-12-20,Premium,Loyal Customers,Active,35-44
+C10951,Ubika Swamy,Female,40,Thiruvananthapuram,Kerala,2026-02-10,Premium,Lost Customers,Lost,35-44
+C10952,Ekavir Mammen,Male,39,Pune,Maharashtra,2026-01-22,Regular,Lost Customers,Lost,35-44
+C10953,Anya Kata,Female,29,Chennai,Tamil Nadu,2026-06-05,Regular,Lost Customers,Lost,25-34
+C10954,Quincy Shanker,Male,18,Jaipur,Rajasthan,2026-01-17,Regular,Lost Customers,Lost,18-24
+C10955,Charvi Tiwari,Female,46,Mysuru,Karnataka,2025-04-15,VIP,No Orders,Never Purchased,45-54
+C10956,Ronith Borde,Male,25,Kochi,Kerala,2025-08-17,Regular,Champions,Watch,25-34
+C10957,Urishilla De,Female,56,Mumbai,Maharashtra,2025-09-20,Regular,Champions,Active,55+
+C10958,Mugdha Lal,Female,43,Mumbai,Maharashtra,2025-10-07,Regular,Lost Customers,Watch,35-44
+C10959,Ronith Narain,Male,34,Coimbatore,Tamil Nadu,2025-08-05,Regular,No Orders,Never Purchased,25-34
+C10960,Varsha Magar,Female,31,Guwahati,Assam,2026-04-14,Regular,Potential Loyalists,Watch,25-34
+C10961,Baljiwan Jain,Male,37,Surat,Gujarat,2026-01-16,Regular,Lost Customers,Watch,35-44
+C10962,Chatura Dugal,Male,35,Chennai,Tamil Nadu,2025-08-02,Regular,New Customers,Active,35-44
+C10963,Fitan Sengupta,Male,24,Nagpur,Maharashtra,2025-05-04,Regular,Champions,Active,18-24
+C10964,Nirja Ray,Female,43,Chennai,Tamil Nadu,2025-10-06,Regular,No Orders,Never Purchased,35-44
+C10965,Rachita Johal,Female,33,Pune,Maharashtra,2026-06-27,VIP,Lost Customers,Lost,25-34
+C10966,Nikita Sheth,Female,31,Patna,Bihar,2025-05-08,Regular,At Risk,Watch,25-34
+C10967,Darpan Chana,Male,24,Delhi,Delhi,2026-05-13,Regular,New Customers,Watch,18-24
+C10968,Max Baria,Male,18,Pune,Maharashtra,2025-04-03,Regular,Champions,Watch,18-24
+C10969,Omisha Divan,Female,36,Nagpur,Maharashtra,2025-02-19,Regular,No Orders,Never Purchased,35-44
+C10970,Jeet Parekh,Male,29,Kochi,Kerala,2025-11-16,VIP,Champions,Watch,25-34
+C10971,Aryan Mistry,Male,18,Mumbai,Maharashtra,2025-03-30,Regular,Can't Lose Them,At Risk,18-24
+C10972,Gagan Balasubramanian,Male,45,Indore,Madhya Pradesh,2025-11-04,Regular,Loyal Customers,Watch,45-54
+C10973,Varsha Krish,Female,27,Kolkata,West Bengal,2026-08-06,Premium,Lost Customers,Watch,25-34
+C10974,Vihaan Chaudry,Male,20,Surat,Gujarat,2025-03-11,Regular,At Risk,Lost,18-24
+C10975,Divya Arora,Female,48,Mysuru,Karnataka,2026-03-16,Regular,At Risk,Lost,45-54
+C10976,Indrajit De,Male,36,Nagpur,Maharashtra,2026-01-28,Premium,New Customers,Watch,35-44
+C10977,Suhani Pradhan,Female,57,Kolkata,West Bengal,2025-02-11,VIP,Loyal Customers,Watch,55+
+C10978,Leela Borde,Female,30,Nagpur,Maharashtra,2025-10-25,Regular,Loyal Customers,Watch,25-34
+C10979,Bachittar Hora,Male,28,Delhi,Delhi,2026-03-14,Regular,No Orders,Never Purchased,25-34
+C10980,Eesha Chanda,Female,39,Patna,Bihar,2025-03-08,Regular,At Risk,At Risk,35-44
+C10981,Divya Basak,Female,32,Mysuru,Karnataka,2026-04-01,Regular,Lost Customers,Lost,25-34
+C10982,Aryan Ganguly,Male,48,Guwahati,Assam,2026-04-20,Regular,New Customers,Active,45-54
+C10983,Rudra Taneja,Male,32,Delhi,Delhi,2025-05-22,Regular,Lost Customers,Lost,25-34
+C10984,Rayaan Sandhu,Male,34,Delhi,Delhi,2026-06-01,Regular,New Customers,Watch,25-34
+C10985,Peter Kala,Male,51,Kanpur,Uttar Pradesh,2025-10-06,Premium,At Risk,Lost,45-54
+C10986,Laksh Mammen,Male,43,Kolkata,West Bengal,2026-02-11,Premium,Champions,Watch,35-44
+C10987,Falan Banerjee,Male,26,Ahmedabad,Gujarat,2026-03-07,Premium,Can't Lose Them,Lost,25-34
+C10988,Neelima Tara,Female,38,Kolkata,West Bengal,2025-08-30,Regular,At Risk,Lost,35-44
+C10989,Wriddhish Bhat,Male,43,Lucknow,Uttar Pradesh,2025-08-30,VIP,New Customers,Active,35-44
+C10990,Logan Rajagopal,Male,21,Chennai,Tamil Nadu,2025-11-15,Regular,New Customers,Watch,18-24
+C10991,Shaurya Iyengar,Male,20,Gurugram,Haryana,2025-11-30,Regular,No Orders,Never Purchased,18-24
+C10992,Aditya Raja,Male,18,Ahmedabad,Gujarat,2025-06-03,Regular,Champions,Active,18-24
+C10993,Wakeeta Sundaram,Female,35,Surat,Gujarat,2025-09-08,Premium,Lost Customers,Lost,35-44
+C10994,Zayan Nagy,Male,33,Kochi,Kerala,2025-05-25,Regular,At Risk,Lost,25-34
+C10995,Krishna Gole,Male,18,Gurugram,Haryana,2025-06-09,Regular,At Risk,Lost,18-24
+C10996,Nathaniel Kanda,Male,32,Kanpur,Uttar Pradesh,2026-06-23,Premium,Lost Customers,Watch,25-34
+C10997,Logan Bhardwaj,Male,54,Chandigarh,Chandigarh,2025-03-30,Regular,Loyal Customers,Active,45-54
+C10998,Praneel Kaul,Male,30,Faridabad,Haryana,2026-07-28,Regular,At Risk,Lost,25-34
+C10999,Chandresh Kota,Male,51,Coimbatore,Tamil Nadu,2025-09-13,Regular,At Risk,Watch,45-54
+C11000,Lila Walla,Female,39,Pune,Maharashtra,2025-07-16,Regular,No Orders,Never Purchased,35-44
+C11001,Imaran Rama,Male,35,Faridabad,Haryana,2026-03-20,Regular,Champions,Active,35-44
+C11002,Gabriel Goda,Male,41,Pune,Maharashtra,2026-04-08,Regular,At Risk,At Risk,35-44
+C11003,Nathan Parmer,Male,25,Patna,Bihar,2026-04-03,Regular,At Risk,Lost,25-34
+C11004,Qushi Dhar,Female,20,Kolkata,West Bengal,2025-08-23,Regular,Lost Customers,Watch,18-24
+C11005,Xiti More,Female,37,Bangalore,Karnataka,2025-09-10,Regular,Loyal Customers,Active,35-44
+C11006,Xalak Barad,Female,27,Guwahati,Assam,2025-07-06,Premium,Lost Customers,Lost,25-34
+C11007,Ayaan Kaul,Male,33,Hyderabad,Telangana,2026-03-09,Premium,Champions,Active,25-34
+C11008,Aishani Vyas,Female,23,Kanpur,Uttar Pradesh,2025-12-10,Regular,At Risk,At Risk,18-24
+C11009,Aadi Narula,Male,30,Lucknow,Uttar Pradesh,2025-09-29,Regular,New Customers,Watch,25-34
+C11010,Eiravati Oak,Female,37,Coimbatore,Tamil Nadu,2025-11-01,Regular,At Risk,At Risk,35-44
+C11011,Neel Bhargava,Male,22,Kolkata,West Bengal,2025-04-04,Regular,New Customers,Watch,18-24
+C11012,Ethan Dhar,Male,22,Bhopal,Madhya Pradesh,2026-05-09,Regular,Lost Customers,Watch,18-24
+C11013,Qabil Bora,Male,28,Delhi,Delhi,2025-07-08,Premium,Loyal Customers,Active,25-34
+C11014,Rudra Chaudhuri,Male,47,Coimbatore,Tamil Nadu,2025-06-18,Premium,Loyal Customers,Watch,45-54
+C11015,Matthew Naidu,Male,37,Delhi,Delhi,2025-06-12,Regular,Loyal Customers,Active,35-44
+C11016,Gaurangi Sarkar,Female,38,Ahmedabad,Gujarat,2025-10-24,Premium,Lost Customers,Watch,35-44
+C11017,Nathan Ghosh,Male,18,Coimbatore,Tamil Nadu,2026-07-01,Regular,Lost Customers,Lost,18-24
+C11018,Jasmit Gill,Female,53,Delhi,Delhi,2026-04-03,Regular,New Customers,Watch,45-54
+C11019,Nikita Menon,Female,35,Guwahati,Assam,2025-08-27,Regular,Can't Lose Them,At Risk,35-44
+C11020,Gaurang Agarwal,Male,39,Bhopal,Madhya Pradesh,2025-04-17,Regular,Champions,Watch,35-44
+C11021,Amol Gopal,Male,42,Bangalore,Karnataka,2026-06-04,Regular,Lost Customers,Lost,35-44
+C11022,Indrajit Chawla,Male,18,Ahmedabad,Gujarat,2025-08-30,Regular,New Customers,Watch,18-24
+C11023,Ekta Narula,Female,36,Faridabad,Haryana,2025-03-07,Premium,Loyal Customers,At Risk,35-44
+C11024,Kashish Palan,Female,47,Hyderabad,Telangana,2026-07-13,Regular,Can't Lose Them,At Risk,45-54
+C11025,Geetika Chakrabarti,Female,30,Chennai,Tamil Nadu,2025-02-15,Regular,Can't Lose Them,At Risk,25-34
+C11026,Vansha Apte,Female,21,Bhopal,Madhya Pradesh,2026-06-07,Premium,At Risk,Watch,18-24
+C11027,Henry Krish,Male,18,Jaipur,Rajasthan,2025-10-09,Regular,Potential Loyalists,Active,18-24
+C11028,Pushti Kunda,Female,32,Mysuru,Karnataka,2026-06-20,Premium,No Orders,Never Purchased,25-34
+C11029,Aadi Bava,Male,29,Nagpur,Maharashtra,2025-08-24,Regular,Loyal Customers,Active,25-34
+C11030,Urvashi Saini,Female,45,Chennai,Tamil Nadu,2025-10-20,Regular,Champions,Watch,45-54
+C11031,Triveni Tailor,Female,32,Kochi,Kerala,2025-12-27,Premium,Champions,Active,25-34
+C11032,Parth Prashad,Male,40,Hyderabad,Telangana,2025-10-30,Regular,At Risk,Lost,35-44
+C11033,Wakeeta Kar,Female,39,Guwahati,Assam,2025-10-15,Premium,Potential Loyalists,Watch,35-44
+C11034,Upkaar Borah,Male,43,Mysuru,Karnataka,2025-12-20,Regular,At Risk,Watch,35-44
+C11035,Manan Bahri,Male,22,Surat,Gujarat,2026-08-16,Regular,No Orders,Never Purchased,18-24
+C11036,Kalpit Cheema,Male,24,Nagpur,Maharashtra,2025-04-04,Premium,Loyal Customers,Watch,18-24
+C11037,Onveer Garde,Male,41,Coimbatore,Tamil Nadu,2025-03-12,Premium,At Risk,Lost,35-44
+C11038,Gaurika Borde,Female,24,Patna,Bihar,2026-05-27,Premium,Loyal Customers,At Risk,18-24
+C11039,Pallavi Subramanian,Female,49,Guwahati,Assam,2025-04-10,Regular,Champions,Active,45-54
+C11040,Tanveer Gala,Male,42,Kanpur,Uttar Pradesh,2026-06-20,Regular,No Orders,Never Purchased,35-44
+C11041,Gaurangi Bera,Female,36,Mumbai,Maharashtra,2026-04-01,Regular,No Orders,Never Purchased,35-44
+C11042,Noah Jha,Male,47,Surat,Gujarat,2025-07-03,Regular,Champions,Active,45-54
+C11043,Samarth Zachariah,Male,31,Delhi,Delhi,2025-10-04,Regular,At Risk,Watch,25-34
+C11044,Megha Mishra,Female,25,Ahmedabad,Gujarat,2025-08-16,Premium,New Customers,Active,25-34
+C11045,Chasmum Bawa,Female,39,Hyderabad,Telangana,2025-06-03,Regular,No Orders,Never Purchased,35-44
+C11046,Yatan Dube,Male,18,Mumbai,Maharashtra,2025-05-09,VIP,Champions,Active,18-24
+C11047,Pranit Aggarwal,Male,26,Bhopal,Madhya Pradesh,2026-01-24,Regular,New Customers,Watch,25-34
+C11048,Caleb Menon,Male,30,Bangalore,Karnataka,2026-07-24,Regular,Lost Customers,Lost,25-34
+C11049,Irya Chatterjee,Female,20,Surat,Gujarat,2025-02-03,Regular,Lost Customers,Watch,18-24
+C11050,Ishanvi Garde,Female,26,Mysuru,Karnataka,2026-02-22,Regular,Loyal Customers,Watch,25-34
+C11051,Chaitaly Solanki,Female,41,Gurugram,Haryana,2025-06-09,Premium,At Risk,Lost,35-44
+C11052,Mitesh Rao,Male,32,Bangalore,Karnataka,2026-05-07,Premium,Potential Loyalists,Watch,25-34
+C11053,Wishi Lanka,Female,30,Patna,Bihar,2026-04-13,Regular,At Risk,Watch,25-34
+C11054,Rishi Goyal,Male,25,Mysuru,Karnataka,2025-04-22,Premium,At Risk,At Risk,25-34
+C11055,Sai Pingle,Female,22,Nagpur,Maharashtra,2025-09-27,Regular,Potential Loyalists,Watch,18-24
+C11056,Udant Basu,Male,27,Kolkata,West Bengal,2025-06-15,Regular,Lost Customers,Lost,25-34
+C11057,Thomas Shroff,Male,22,Thiruvananthapuram,Kerala,2025-12-16,Regular,Lost Customers,Watch,18-24
+C11058,Isaiah Luthra,Male,41,Chennai,Tamil Nadu,2025-07-01,VIP,Loyal Customers,Active,35-44
+C11059,Forum Chatterjee,Female,18,Chandigarh,Chandigarh,2026-03-04,Premium,At Risk,At Risk,18-24
+C11060,Orinder Sachdev,Male,31,Pune,Maharashtra,2025-06-25,Regular,New Customers,Watch,25-34
+C11061,Azaan Ram,Male,37,Pune,Maharashtra,2025-12-26,Regular,Lost Customers,Lost,35-44
+C11062,Wazir Keer,Male,19,Nagpur,Maharashtra,2025-09-04,Regular,Lost Customers,Watch,18-24
+C11063,Netra Brar,Female,21,Kolkata,West Bengal,2026-02-19,Regular,Loyal Customers,At Risk,18-24
+C11064,Anay Thakkar,Male,44,Bhopal,Madhya Pradesh,2025-02-04,Regular,Lost Customers,Lost,35-44
+C11065,Darpan Sen,Male,18,Chennai,Tamil Nadu,2026-06-16,VIP,Champions,Watch,18-24
+C11066,Fiyaz Kakar,Male,45,Kochi,Kerala,2025-02-23,Regular,At Risk,Lost,45-54
+C11067,Dev Basak,Male,32,Mumbai,Maharashtra,2026-03-21,Premium,Potential Loyalists,Watch,25-34
+C11068,Chaaya Saran,Female,26,Pune,Maharashtra,2026-05-06,Regular,Lost Customers,Watch,25-34
+C11069,Falak Kuruvilla,Female,32,Coimbatore,Tamil Nadu,2025-08-12,Regular,At Risk,Lost,25-34
+C11070,Bhavna Chahal,Female,18,Guwahati,Assam,2026-03-31,Regular,Champions,Watch,18-24
+C11071,Rushil Nanda,Male,43,Ahmedabad,Gujarat,2025-05-10,Regular,Champions,Active,35-44
+C11072,Veer Arora,Male,29,Kolkata,West Bengal,2025-05-23,Regular,Can't Lose Them,At Risk,25-34
+C11073,Daksh Sachdeva,Male,20,Gurugram,Haryana,2026-03-28,Regular,New Customers,Active,18-24
+C11074,Ethan Chaudhry,Male,32,Coimbatore,Tamil Nadu,2026-06-04,Regular,No Orders,Never Purchased,25-34
+C11075,Chandresh Mangal,Male,26,Kochi,Kerala,2025-04-18,Regular,Loyal Customers,At Risk,25-34
+C11076,Tripti Lalla,Female,38,Chandigarh,Chandigarh,2026-08-12,Regular,Loyal Customers,Watch,35-44
+C11077,Xavier Solanki,Male,37,Gurugram,Haryana,2025-06-19,Regular,Lost Customers,Watch,35-44
+C11078,Harini Majumdar,Female,49,Mysuru,Karnataka,2026-07-09,Regular,Lost Customers,Watch,45-54
+C11079,Ekbal Ratti,Male,33,Kochi,Kerala,2025-03-23,VIP,Lost Customers,Watch,25-34
+C11080,Rudra Narula,Male,45,Ahmedabad,Gujarat,2026-04-05,Premium,No Orders,Never Purchased,45-54
+C11081,Arya Soman,Female,33,Lucknow,Uttar Pradesh,2025-04-17,Regular,No Orders,Never Purchased,25-34
+C11082,Ria Bahri,Female,30,Kolkata,West Bengal,2025-05-26,Premium,Lost Customers,Watch,25-34
+C11083,Nidra Mukhopadhyay,Female,47,Ahmedabad,Gujarat,2025-06-16,Regular,Can't Lose Them,At Risk,45-54
+C11084,Yatan Chaudhari,Male,33,Hyderabad,Telangana,2025-07-15,Regular,At Risk,Watch,25-34
+C11085,Ekalinga Mital,Male,31,Gurugram,Haryana,2025-12-03,Regular,Can't Lose Them,At Risk,25-34
+C11086,Oeshi Luthra,Female,36,Kanpur,Uttar Pradesh,2026-05-02,Regular,No Orders,Never Purchased,35-44
+C11087,Chaitanya Guha,Male,31,Bangalore,Karnataka,2025-04-10,Regular,Lost Customers,Lost,25-34
+C11088,Hitesh Ray,Male,34,Gurugram,Haryana,2025-06-26,Regular,At Risk,Watch,25-34
+C11089,Rachit Bhalla,Male,27,Delhi,Delhi,2025-11-19,Regular,Potential Loyalists,Watch,25-34
+C11090,Bhavini Mukhopadhyay,Female,63,Kolkata,West Bengal,2025-09-17,Premium,At Risk,At Risk,55+
+C11091,Ekansh Viswanathan,Male,18,Bangalore,Karnataka,2026-01-25,Regular,At Risk,At Risk,18-24
+C11092,Harini Hans,Female,26,Guwahati,Assam,2025-09-15,Regular,Lost Customers,Lost,25-34
+C11093,Ayush Krish,Male,39,Patna,Bihar,2026-04-23,Premium,Lost Customers,Active,35-44
+C11094,Vedant Bedi,Male,41,Bhopal,Madhya Pradesh,2026-01-29,VIP,At Risk,Lost,35-44
+C11095,Ira Mahal,Female,45,Chandigarh,Chandigarh,2025-09-12,Regular,Loyal Customers,Active,45-54
+C11096,Vedika Tiwari,Female,45,Coimbatore,Tamil Nadu,2026-07-06,Regular,Champions,Active,45-54
+C11097,David Balasubramanian,Male,18,Indore,Madhya Pradesh,2025-03-15,Regular,No Orders,Never Purchased,18-24
+C11098,Ria Suresh,Female,37,Chennai,Tamil Nadu,2025-06-10,Regular,At Risk,Watch,35-44
+C11099,Gaurang Som,Male,44,Nagpur,Maharashtra,2025-12-05,Regular,Loyal Customers,Watch,35-44
+C11100,Orinder Gade,Male,25,Hyderabad,Telangana,2025-07-25,Regular,Lost Customers,Lost,25-34
+C11101,Chakradev Mane,Male,35,Bhopal,Madhya Pradesh,2026-01-09,Premium,Champions,Watch,35-44
+C11102,Reyansh Bawa,Male,36,Pune,Maharashtra,2025-04-15,Premium,Lost Customers,Watch,35-44
+C11103,Jalsa Kant,Female,44,Mumbai,Maharashtra,2025-04-02,Regular,Can't Lose Them,Lost,35-44
+C11104,Ishanvi Luthra,Female,43,Bhopal,Madhya Pradesh,2026-03-21,Regular,Lost Customers,Watch,35-44
+C11105,Yashvi Bahri,Female,34,Hyderabad,Telangana,2025-05-19,Regular,Champions,Watch,25-34
+C11106,Warjas Deo,Male,19,Guwahati,Assam,2025-11-27,VIP,Champions,Active,18-24
+C11107,Aarna Kapur,Female,39,Kochi,Kerala,2025-05-04,Regular,Loyal Customers,Watch,35-44
+C11108,Niharika Maharaj,Female,29,Delhi,Delhi,2026-04-02,Regular,Lost Customers,Lost,25-34
+C11109,Raghav Palla,Male,40,Ahmedabad,Gujarat,2026-08-14,Regular,Champions,Active,35-44
+C11110,Lajita Kamdar,Female,34,Nagpur,Maharashtra,2025-06-16,Regular,At Risk,Watch,25-34
+C11111,Matthew Verma,Male,32,Patna,Bihar,2025-11-14,VIP,No Orders,Never Purchased,25-34
+C11112,Dalaja Amble,Female,32,Bhopal,Madhya Pradesh,2025-12-28,Regular,No Orders,Never Purchased,25-34
+C11113,Megha Misra,Female,27,Indore,Madhya Pradesh,2026-07-30,Regular,Lost Customers,Watch,25-34
+C11114,Wridesh Bhatt,Male,46,Lucknow,Uttar Pradesh,2026-07-03,Regular,At Risk,Lost,45-54
+C11115,Lakshit Nair,Male,39,Delhi,Delhi,2025-07-15,Regular,Lost Customers,Lost,35-44
+C11116,Leena Misra,Female,31,Bangalore,Karnataka,2026-02-20,Regular,At Risk,Lost,25-34
+C11117,Falan Varughese,Male,18,Patna,Bihar,2025-08-11,Regular,Lost Customers,Watch,18-24
+C11118,Barkha Raval,Female,18,Jaipur,Rajasthan,2026-04-28,Regular,Lost Customers,Lost,18-24
+C11119,Ekaraj Bal,Male,33,Delhi,Delhi,2026-05-08,Regular,Loyal Customers,Watch,25-34
+C11120,Neelima Lad,Female,57,Gurugram,Haryana,2026-07-06,Premium,Potential Loyalists,Active,55+
+C11121,Samaksh Rama,Male,22,Coimbatore,Tamil Nadu,2025-08-22,Regular,Lost Customers,Watch,18-24
+C11122,Ikshita Oza,Female,51,Bangalore,Karnataka,2026-01-29,Premium,No Orders,Never Purchased,45-54
+C11123,Vyanjana Parmer,Female,45,Ahmedabad,Gujarat,2025-06-07,Regular,Loyal Customers,Watch,45-54
+C11124,Harinakshi Golla,Female,36,Pune,Maharashtra,2025-03-27,Premium,Loyal Customers,Active,35-44
+C11125,Chanakya Sinha,Male,34,Bangalore,Karnataka,2025-03-29,Regular,No Orders,Never Purchased,25-34
+C11126,Kai Goswami,Male,27,Faridabad,Haryana,2025-07-12,Regular,Lost Customers,Lost,25-34
+C11127,Chanchal Kapadia,Female,33,Pune,Maharashtra,2026-01-13,Regular,No Orders,Never Purchased,25-34
+C11128,Isaac Mohanty,Male,35,Ahmedabad,Gujarat,2026-08-10,Regular,Champions,Watch,35-44
+C11129,Noah Prabhu,Male,38,Chandigarh,Chandigarh,2025-06-23,VIP,Loyal Customers,Watch,35-44
+C11130,Manan Sheth,Male,18,Hyderabad,Telangana,2026-04-13,Regular,Lost Customers,Watch,18-24
+C11131,Vrinda Bera,Female,43,Patna,Bihar,2025-07-18,Regular,Lost Customers,Lost,35-44
+C11132,Warinder Hayer,Male,26,Indore,Madhya Pradesh,2026-02-09,Premium,Loyal Customers,Watch,25-34
+C11133,Rayaan Wagle,Male,31,Coimbatore,Tamil Nadu,2025-10-17,Regular,At Risk,Watch,25-34
+C11134,Samuel Bhagat,Male,23,Mysuru,Karnataka,2025-06-06,Regular,Can't Lose Them,Lost,18-24
+C11135,Ekantika Iyer,Female,28,Thiruvananthapuram,Kerala,2026-01-10,Regular,Potential Loyalists,Watch,25-34
+C11136,Samarth Shankar,Male,27,Pune,Maharashtra,2025-11-09,Regular,Champions,Active,25-34
+C11137,Nisha Gole,Female,40,Nagpur,Maharashtra,2026-05-11,Regular,Lost Customers,Lost,35-44
+C11138,Yagnesh Natarajan,Male,36,Surat,Gujarat,2026-06-06,Regular,New Customers,Active,35-44
+C11139,Nirja Bhardwaj,Female,32,Mysuru,Karnataka,2025-09-25,Regular,Lost Customers,Lost,25-34
+C11140,Upkaar Mahal,Male,28,Bangalore,Karnataka,2026-07-21,Regular,No Orders,Never Purchased,25-34
+C11141,Frado Dutt,Male,18,Lucknow,Uttar Pradesh,2025-11-26,Premium,No Orders,Never Purchased,18-24
+C11142,Chanchal Dayal,Female,28,Ahmedabad,Gujarat,2026-06-07,Regular,No Orders,Never Purchased,25-34
+C11143,Upadhriti Raval,Female,21,Mumbai,Maharashtra,2025-12-08,Regular,At Risk,Watch,18-24
+C11144,Waida Rajagopal,Female,29,Bangalore,Karnataka,2025-11-29,Regular,Loyal Customers,At Risk,25-34
+C11145,Anjali Walla,Female,57,Kolkata,West Bengal,2026-04-28,Regular,At Risk,Lost,55+
+C11146,Rachit Atwal,Male,36,Gurugram,Haryana,2025-06-12,Regular,Potential Loyalists,Active,35-44
+C11147,Zilmil Halder,Female,22,Delhi,Delhi,2025-10-10,Premium,At Risk,Lost,18-24
+C11148,Aarnav Kothari,Male,35,Nagpur,Maharashtra,2026-03-10,Premium,Loyal Customers,Active,35-44
+C11149,Orinder Muni,Male,18,Mumbai,Maharashtra,2026-07-12,Regular,Lost Customers,Watch,18-24
+C11150,Dalaja Rajagopal,Female,53,Bhopal,Madhya Pradesh,2025-11-29,Regular,Loyal Customers,At Risk,45-54
+C11151,Fiyaz Bhattacharyya,Male,29,Ahmedabad,Gujarat,2025-03-08,Premium,Lost Customers,Lost,25-34
+C11152,Neha Mannan,Female,44,Chandigarh,Chandigarh,2026-01-30,Regular,Lost Customers,Lost,35-44
+C11153,Yoshita Viswanathan,Female,32,Bhopal,Madhya Pradesh,2026-05-21,Premium,Loyal Customers,At Risk,25-34
+C11154,Urishilla Desai,Female,18,Faridabad,Haryana,2026-05-07,Regular,Champions,Watch,18-24
+C11155,Yash Parmer,Male,40,Kanpur,Uttar Pradesh,2025-04-15,Regular,At Risk,Lost,35-44
+C11156,Fitan Raval,Male,23,Pune,Maharashtra,2025-04-22,VIP,No Orders,Never Purchased,18-24
+C11157,Jhalak Kapur,Female,35,Bangalore,Karnataka,2026-02-20,VIP,Loyal Customers,Watch,35-44
+C11158,Hitesh Bains,Male,28,Mysuru,Karnataka,2026-07-08,Premium,Loyal Customers,At Risk,25-34
+C11159,David Peri,Male,40,Coimbatore,Tamil Nadu,2025-07-16,Regular,Champions,Watch,35-44
+C11160,Riya Kumer,Female,44,Mysuru,Karnataka,2025-06-01,VIP,Can't Lose Them,Lost,35-44
+C11161,Arjun Chokshi,Male,20,Indore,Madhya Pradesh,2025-09-05,Regular,Lost Customers,Watch,18-24
+C11162,Arjun D’Alia,Male,53,Mumbai,Maharashtra,2025-03-14,Regular,At Risk,Lost,45-54
+C11163,Vamakshi Rai,Female,45,Chandigarh,Chandigarh,2025-02-19,Regular,No Orders,Never Purchased,45-54
+C11164,Lajita Som,Female,24,Kanpur,Uttar Pradesh,2025-04-18,Regular,Can't Lose Them,Lost,18-24
+C11165,Harshil Andra,Male,28,Patna,Bihar,2025-03-22,Regular,Lost Customers,Watch,25-34
+C11166,Ucchal Chaudhuri,Female,34,Pune,Maharashtra,2026-04-16,Regular,Can't Lose Them,At Risk,25-34
+C11167,Ekapad Sahota,Male,33,Bhopal,Madhya Pradesh,2025-07-26,Regular,New Customers,Active,25-34
+C11168,Daniel Mandal,Male,31,Pune,Maharashtra,2026-01-29,Regular,Loyal Customers,At Risk,25-34
+C11169,Chatresh Tank,Male,19,Faridabad,Haryana,2025-09-24,Premium,No Orders,Never Purchased,18-24
+C11170,Irya Lall,Female,43,Surat,Gujarat,2025-10-13,Regular,At Risk,At Risk,35-44
+C11171,Rachita Rout,Female,20,Bhopal,Madhya Pradesh,2025-03-12,Regular,Potential Loyalists,Watch,18-24
+C11172,Faris Baral,Male,25,Bangalore,Karnataka,2025-05-09,Regular,Loyal Customers,Watch,25-34
+C11173,Hemang Srivastava,Male,35,Indore,Madhya Pradesh,2025-09-28,Regular,Champions,Watch,35-44
+C11174,Kamya Agate,Female,48,Coimbatore,Tamil Nadu,2025-04-29,Regular,Lost Customers,Watch,45-54
+C11175,Chanchal Choudhry,Female,39,Patna,Bihar,2026-02-27,Regular,Potential Loyalists,Watch,35-44
+C11176,Falguni Chana,Female,40,Gurugram,Haryana,2025-08-07,Premium,Lost Customers,Watch,35-44
+C11177,Chandresh Kunda,Male,26,Hyderabad,Telangana,2026-06-15,Premium,Can't Lose Them,At Risk,25-34
+C11178,Vasatika Minhas,Female,37,Faridabad,Haryana,2025-03-18,Regular,Champions,Active,35-44
+C11179,Vedika Bedi,Female,29,Patna,Bihar,2026-04-04,Regular,Champions,Active,25-34
+C11180,Gagan Baral,Male,33,Nagpur,Maharashtra,2025-06-04,Regular,No Orders,Never Purchased,25-34
+C11181,Radha Munshi,Female,27,Hyderabad,Telangana,2025-04-06,Regular,At Risk,Lost,25-34
+C11182,Devika Chandran,Female,28,Indore,Madhya Pradesh,2025-07-18,Regular,Champions,Active,25-34
+C11183,Aayush Devi,Male,44,Jaipur,Rajasthan,2025-08-12,Regular,Champions,Active,35-44
+C11184,Omya Parmar,Female,51,Guwahati,Assam,2025-12-12,Regular,Lost Customers,Lost,45-54
+C11185,Lipika Chander,Female,56,Coimbatore,Tamil Nadu,2025-04-30,Regular,Loyal Customers,Active,55+
+C11186,Onveer Goswami,Male,34,Mumbai,Maharashtra,2026-01-20,Regular,New Customers,Watch,25-34
+C11187,Suhani Ratta,Female,22,Nagpur,Maharashtra,2026-01-17,Premium,Potential Loyalists,Active,18-24
+C11188,Laban Rajan,Male,27,Bangalore,Karnataka,2026-02-18,Regular,Lost Customers,Watch,25-34
+C11189,Shivansh Ganesan,Male,23,Coimbatore,Tamil Nadu,2026-04-03,Regular,No Orders,Never Purchased,18-24
+C11190,Ekaja Bhargava,Female,32,Coimbatore,Tamil Nadu,2025-10-12,Premium,Potential Loyalists,Active,25-34
+C11191,Charles Saha,Male,21,Gurugram,Haryana,2026-08-19,Regular,Lost Customers,Lost,18-24
+C11192,Urvashi Golla,Female,24,Kanpur,Uttar Pradesh,2025-06-07,Regular,At Risk,Lost,18-24
+C11193,Praneel Balakrishnan,Male,62,Thiruvananthapuram,Kerala,2026-04-14,Regular,Lost Customers,Lost,55+
+C11194,Warhi Sura,Female,30,Lucknow,Uttar Pradesh,2025-06-16,Regular,Lost Customers,Watch,25-34
+C11195,Samesh Sastry,Male,29,Lucknow,Uttar Pradesh,2025-02-23,Regular,At Risk,Lost,25-34
+C11196,Bhavika Lal,Female,21,Kolkata,West Bengal,2026-04-08,Regular,Potential Loyalists,Active,18-24
+C11197,Abha Vohra,Female,51,Guwahati,Assam,2025-03-20,Premium,Lost Customers,Lost,45-54
+C11198,Omkaar Venkataraman,Male,36,Faridabad,Haryana,2026-01-18,Regular,Champions,Watch,35-44
+C11199,Tarak Kothari,Male,20,Bangalore,Karnataka,2026-07-29,Premium,New Customers,Active,18-24
+C11200,Oscar Rajan,Male,22,Delhi,Delhi,2025-11-28,Regular,Champions,Watch,18-24
+C11201,Avi Apte,Male,48,Gurugram,Haryana,2025-04-10,Regular,Loyal Customers,Watch,45-54
+C11202,Zayyan Singh,Male,34,Thiruvananthapuram,Kerala,2025-03-14,Regular,Lost Customers,Watch,25-34
+C11203,Fitan Borde,Male,18,Kochi,Kerala,2025-11-20,Regular,Loyal Customers,Watch,18-24
+C11204,Naveen Khosla,Male,40,Delhi,Delhi,2026-07-08,Regular,At Risk,Lost,35-44
+C11205,Maya Bedi,Female,46,Patna,Bihar,2026-08-03,VIP,No Orders,Never Purchased,45-54
+C11206,Saanvi Rau,Female,18,Surat,Gujarat,2026-07-31,Premium,Champions,Active,18-24
+C11207,Chaaya Sharaf,Female,37,Jaipur,Rajasthan,2025-10-01,Regular,No Orders,Never Purchased,35-44
+C11208,Vanya Chakrabarti,Female,18,Faridabad,Haryana,2025-06-04,Regular,Loyal Customers,Watch,18-24
+C11209,Vansha Mutti,Female,33,Bhopal,Madhya Pradesh,2026-02-02,Regular,Champions,Active,25-34
+C11210,Yadavi Badami,Female,30,Chandigarh,Chandigarh,2025-10-04,Regular,Loyal Customers,At Risk,25-34
+C11211,Tamanna Sachar,Female,18,Faridabad,Haryana,2026-03-10,Regular,Loyal Customers,At Risk,18-24
+C11212,Aachal Chand,Female,30,Mumbai,Maharashtra,2025-02-20,Regular,Loyal Customers,Watch,25-34
+C11213,Yashoda Jhaveri,Female,32,Kochi,Kerala,2025-04-02,Regular,Lost Customers,Lost,25-34
+C11214,Panini Patla,Female,29,Gurugram,Haryana,2026-07-19,Regular,Potential Loyalists,Active,25-34
+C11215,Jasmit Sha,Female,33,Mysuru,Karnataka,2025-05-23,Regular,At Risk,Lost,25-34
+C11216,Warjas Patla,Male,30,Coimbatore,Tamil Nadu,2025-08-05,Premium,Loyal Customers,Watch,25-34
+C11217,Deepa Chatterjee,Female,29,Thiruvananthapuram,Kerala,2025-07-15,Regular,Lost Customers,Active,25-34
+C11218,Aarav Om,Male,18,Guwahati,Assam,2026-04-07,Regular,No Orders,Never Purchased,18-24
+C11219,Mugdha Vig,Female,38,Faridabad,Haryana,2026-07-21,Regular,At Risk,Watch,35-44
+C11220,Damyanti Bath,Female,34,Ahmedabad,Gujarat,2025-11-12,Regular,At Risk,Lost,25-34
+C11221,Yatin Dey,Male,43,Bhopal,Madhya Pradesh,2025-08-24,Premium,Loyal Customers,Watch,35-44
+C11222,Chatresh Kumar,Male,18,Hyderabad,Telangana,2026-08-21,Premium,No Orders,Never Purchased,18-24
+C11223,Girindra Dara,Male,36,Thiruvananthapuram,Kerala,2025-08-18,Regular,Champions,Active,35-44
+C11224,Janaki Shankar,Female,35,Thiruvananthapuram,Kerala,2025-06-23,Regular,No Orders,Never Purchased,35-44
+C11225,Pallavi Chokshi,Female,29,Bangalore,Karnataka,2026-04-02,Premium,Lost Customers,Lost,25-34
+C11226,Arin Dasgupta,Male,43,Faridabad,Haryana,2026-08-18,Regular,No Orders,Never Purchased,35-44
+C11227,Veer Thaman,Male,38,Guwahati,Assam,2025-08-13,Regular,Can't Lose Them,Lost,35-44
+C11228,Zaid Agrawal,Male,18,Thiruvananthapuram,Kerala,2026-01-29,Premium,Champions,Active,18-24
+C11229,Tarak Subramanian,Male,41,Delhi,Delhi,2025-08-03,Regular,Loyal Customers,Watch,35-44
+C11230,Harini Dave,Female,40,Surat,Gujarat,2025-05-28,Premium,At Risk,Lost,35-44
+C11231,Sara Nagy,Female,25,Kolkata,West Bengal,2025-06-09,Regular,At Risk,Watch,25-34
+C11232,Ubika Kothari,Female,42,Jaipur,Rajasthan,2025-07-23,Premium,At Risk,Lost,35-44
+C11233,Sneha Oza,Female,49,Coimbatore,Tamil Nadu,2025-10-14,Premium,No Orders,Never Purchased,45-54
+C11234,Upkaar Deol,Male,31,Lucknow,Uttar Pradesh,2026-08-13,Premium,Potential Loyalists,Active,25-34
+C11235,Samuel Vala,Male,41,Thiruvananthapuram,Kerala,2026-07-30,Regular,Lost Customers,Lost,35-44
+C11236,Nirja Kalla,Female,22,Surat,Gujarat,2025-07-04,Regular,Loyal Customers,Watch,18-24
+C11237,Henry Mannan,Male,38,Nagpur,Maharashtra,2025-03-19,VIP,Champions,Active,35-44
+C11238,Ekaja Gokhale,Female,34,Surat,Gujarat,2025-12-16,VIP,Lost Customers,Lost,25-34
+C11239,Devika Pandey,Female,36,Nagpur,Maharashtra,2025-09-23,Regular,Champions,Active,35-44
+C11240,Sathvik Walla,Male,48,Mumbai,Maharashtra,2025-09-21,Regular,At Risk,At Risk,45-54
+C11241,Siddharth Arya,Male,24,Hyderabad,Telangana,2025-09-30,Regular,Potential Loyalists,Active,18-24
+C11242,Advik Raj,Male,34,Jaipur,Rajasthan,2025-08-08,Regular,Champions,Watch,25-34
+C11243,Avi Bhalla,Male,42,Bhopal,Madhya Pradesh,2025-11-30,Premium,At Risk,Lost,35-44
+C11244,Lila Dyal,Female,20,Mumbai,Maharashtra,2026-05-29,Regular,Loyal Customers,Active,18-24
+C11245,Ladli Dhingra,Female,18,Kochi,Kerala,2025-04-02,Regular,At Risk,Lost,18-24
+C11246,Neelima Jani,Female,22,Lucknow,Uttar Pradesh,2026-04-07,Regular,Lost Customers,Watch,18-24
+C11247,Praneel Sethi,Male,30,Chandigarh,Chandigarh,2026-08-08,Regular,At Risk,Lost,25-34
+C11248,Jasmit Ramachandran,Female,27,Chennai,Tamil Nadu,2025-07-31,Premium,Loyal Customers,Active,25-34
+C11249,Maanas Batta,Male,36,Chennai,Tamil Nadu,2026-06-21,Regular,Champions,Active,35-44
+C11250,Rishi Saha,Male,40,Delhi,Delhi,2025-07-07,Regular,Loyal Customers,At Risk,35-44
+C11251,Avni Arya,Female,38,Faridabad,Haryana,2026-07-09,Regular,Potential Loyalists,Watch,35-44
+C11252,Isha Savant,Female,32,Kanpur,Uttar Pradesh,2025-12-28,Regular,Lost Customers,Active,25-34
+C11253,Qarin Hegde,Male,44,Mumbai,Maharashtra,2025-04-01,Premium,Potential Loyalists,Watch,35-44
+C11254,Nandini Sen,Female,20,Faridabad,Haryana,2025-04-30,Regular,Lost Customers,Lost,18-24
+C11255,Bishakha Grover,Female,40,Surat,Gujarat,2026-02-18,Premium,Loyal Customers,Active,35-44
+C11256,Darpan Purohit,Male,48,Hyderabad,Telangana,2025-10-10,VIP,At Risk,Lost,45-54
+C11257,Upadhriti Mallick,Female,44,Kolkata,West Bengal,2026-01-22,Premium,Loyal Customers,Watch,35-44
+C11258,Dhruv Dyal,Male,35,Ahmedabad,Gujarat,2026-06-22,Regular,Loyal Customers,At Risk,35-44
+C11259,Aarnav Narayanan,Male,31,Guwahati,Assam,2026-01-04,VIP,Potential Loyalists,Active,25-34
+C11260,Faras Baral,Male,30,Guwahati,Assam,2026-06-28,Regular,At Risk,Lost,25-34
+C11261,Neel Behl,Male,36,Pune,Maharashtra,2026-06-24,Regular,New Customers,Active,35-44
+C11262,Yatan Parmar,Male,28,Ahmedabad,Gujarat,2025-05-27,Premium,No Orders,Never Purchased,25-34
+C11263,Nitara Vora,Female,27,Chandigarh,Chandigarh,2025-05-24,Regular,Champions,Watch,25-34
+C11264,George Verma,Male,23,Thiruvananthapuram,Kerala,2026-01-07,Regular,Potential Loyalists,Watch,18-24
+C11265,Zayyan Dutta,Male,18,Coimbatore,Tamil Nadu,2025-12-15,Regular,Champions,Watch,18-24
+C11266,Tamanna Chanda,Female,52,Jaipur,Rajasthan,2025-07-21,Regular,No Orders,Never Purchased,45-54
+C11267,Janya Kala,Female,48,Lucknow,Uttar Pradesh,2026-03-28,Premium,At Risk,Lost,45-54
+C11268,Noah Patel,Male,41,Patna,Bihar,2025-06-09,Regular,Lost Customers,Watch,35-44
+C11269,Ikbal Wali,Male,48,Faridabad,Haryana,2025-11-01,Regular,At Risk,Watch,45-54
+C11270,Aayush Contractor,Male,35,Thiruvananthapuram,Kerala,2026-03-11,Regular,Champions,Active,35-44
+C11271,Udant Khosla,Male,18,Surat,Gujarat,2025-12-06,Premium,Lost Customers,Lost,18-24
+C11272,Anmol Nagi,Male,23,Kanpur,Uttar Pradesh,2026-02-01,Premium,Champions,Watch,18-24
+C11273,Dakshesh Raju,Male,35,Faridabad,Haryana,2025-11-24,Regular,Lost Customers,Lost,35-44
+C11274,Lohit Bakshi,Male,33,Lucknow,Uttar Pradesh,2026-05-06,Regular,No Orders,Never Purchased,25-34
+C11275,Udant Sur,Male,44,Gurugram,Haryana,2026-06-06,Premium,Lost Customers,Lost,35-44
+C11276,Manbir Hans,Male,22,Kolkata,West Bengal,2025-10-28,Premium,No Orders,Never Purchased,18-24
+C11277,Yasti Butala,Female,18,Bangalore,Karnataka,2025-05-13,Regular,At Risk,Lost,18-24
+C11278,Geetika Yogi,Female,28,Mysuru,Karnataka,2025-02-26,Regular,Potential Loyalists,Watch,25-34
+C11279,Bhavini Kade,Female,18,Hyderabad,Telangana,2025-05-04,Regular,At Risk,Watch,18-24
+C11280,Simon Chawla,Male,29,Thiruvananthapuram,Kerala,2025-09-24,Regular,At Risk,Lost,25-34
+C11281,Teerth Bora,Male,23,Bhopal,Madhya Pradesh,2025-12-20,Regular,Lost Customers,Watch,18-24
+C11282,Advik Sharaf,Male,44,Mumbai,Maharashtra,2026-07-10,Premium,No Orders,Never Purchased,35-44
+C11283,Anirudh Chahal,Male,40,Guwahati,Assam,2025-11-30,Premium,Loyal Customers,Watch,35-44
+C11284,Avni Gokhale,Female,40,Kochi,Kerala,2025-02-12,Regular,Lost Customers,Lost,35-44
+C11285,Bimala Kari,Female,22,Gurugram,Haryana,2025-11-17,Regular,No Orders,Never Purchased,18-24
+C11286,Samar Rama,Male,35,Bangalore,Karnataka,2025-02-08,Premium,Lost Customers,Lost,35-44
+C11287,Tanmayi Sant,Female,29,Kolkata,West Bengal,2025-05-24,Premium,At Risk,Lost,25-34
+C11288,Adweta Ramachandran,Female,26,Surat,Gujarat,2026-06-29,Premium,Lost Customers,Active,25-34
+C11289,Aarush Bhatnagar,Male,39,Coimbatore,Tamil Nadu,2026-04-24,Regular,Champions,Active,35-44
+C11290,Balhaar Parmar,Male,33,Thiruvananthapuram,Kerala,2025-03-18,Regular,Lost Customers,Watch,25-34
+C11291,Mohini Mitra,Female,33,Kolkata,West Bengal,2026-07-18,Premium,Champions,Watch,25-34
+C11292,Megha Sarma,Female,27,Guwahati,Assam,2026-01-15,Regular,Champions,Active,25-34
+C11293,Siya Balasubramanian,Female,33,Bangalore,Karnataka,2025-11-13,Regular,Loyal Customers,Active,25-34
+C11294,Gaurangi Walla,Female,19,Jaipur,Rajasthan,2025-04-29,Regular,Loyal Customers,Active,18-24
+C11295,Ekanta Raman,Female,23,Patna,Bihar,2026-03-06,Premium,No Orders,Never Purchased,18-24
+C11296,Eshana Misra,Female,18,Kochi,Kerala,2026-03-22,Premium,Lost Customers,Watch,18-24
+C11297,Abdul Dhaliwal,Male,45,Pune,Maharashtra,2026-03-18,Regular,Champions,Watch,45-54
+C11298,Ansh Ahluwalia,Male,22,Bangalore,Karnataka,2025-11-17,Regular,No Orders,Never Purchased,18-24
+C11299,Chaman Mody,Female,28,Bhopal,Madhya Pradesh,2025-04-16,Regular,At Risk,Lost,25-34
+C11300,Orinder Kakar,Male,42,Indore,Madhya Pradesh,2026-03-23,Regular,Potential Loyalists,Watch,35-44
+C11301,Yashvi Dhar,Female,41,Indore,Madhya Pradesh,2025-09-03,Regular,Lost Customers,Watch,35-44
+C11302,George Kant,Male,29,Lucknow,Uttar Pradesh,2025-06-06,Premium,Loyal Customers,At Risk,25-34
+C11303,Gunbir Contractor,Male,25,Surat,Gujarat,2025-11-23,Regular,Lost Customers,Lost,25-34
+C11304,Avi Shenoy,Male,20,Gurugram,Haryana,2026-03-24,Regular,Lost Customers,Watch,18-24
+C11305,Maanav Bhavsar,Male,50,Patna,Bihar,2026-02-08,Premium,No Orders,Never Purchased,45-54
+C11306,Chandran Hora,Male,22,Thiruvananthapuram,Kerala,2025-09-04,Premium,Lost Customers,Active,18-24
+C11307,Noah Parikh,Male,27,Surat,Gujarat,2026-01-01,Regular,Lost Customers,Watch,25-34
+C11308,Jacob Chaudhry,Male,21,Lucknow,Uttar Pradesh,2026-01-18,Regular,Lost Customers,Lost,18-24
+C11309,Bhavya Hari,Female,34,Nagpur,Maharashtra,2025-03-27,Premium,Loyal Customers,Watch,25-34
+C11310,Xavier Seshadri,Male,18,Chennai,Tamil Nadu,2026-03-01,Regular,Lost Customers,Watch,18-24
+C11311,Michael Dua,Male,30,Kanpur,Uttar Pradesh,2025-10-15,Premium,Potential Loyalists,Active,25-34
+C11312,Nisha Sangha,Female,26,Bangalore,Karnataka,2025-03-24,Regular,Champions,Active,25-34
+C11313,Aahana Munshi,Female,33,Hyderabad,Telangana,2025-07-27,Regular,Potential Loyalists,Active,25-34
+C11314,Janya Sarin,Female,54,Coimbatore,Tamil Nadu,2025-03-14,Regular,Potential Loyalists,Watch,45-54
+C11315,Radha Desai,Female,34,Ahmedabad,Gujarat,2025-04-22,Premium,Lost Customers,Lost,25-34
+C11316,Wriddhish Shere,Male,18,Jaipur,Rajasthan,2025-07-13,Regular,Lost Customers,Lost,18-24
+C11317,Rachita Mody,Female,27,Mumbai,Maharashtra,2026-03-22,Premium,At Risk,Lost,25-34
+C11318,Darika Gill,Female,23,Hyderabad,Telangana,2025-11-23,Regular,At Risk,Lost,18-24
+C11319,Meera Dey,Female,43,Guwahati,Assam,2026-05-01,Regular,Loyal Customers,At Risk,35-44
+C11320,Karan Bose,Male,31,Ahmedabad,Gujarat,2026-07-26,Regular,Lost Customers,Watch,25-34
+C11321,Aditya Tripathi,Male,28,Mumbai,Maharashtra,2025-08-20,Premium,Loyal Customers,Watch,25-34
+C11322,Tanmayi Kala,Female,27,Kanpur,Uttar Pradesh,2026-06-17,Regular,Loyal Customers,At Risk,25-34
+C11323,Leena Zacharia,Female,31,Hyderabad,Telangana,2025-07-05,Regular,At Risk,Watch,25-34
+C11324,Falan Pau,Male,33,Delhi,Delhi,2025-04-29,Premium,Lost Customers,Lost,25-34
+C11325,Jasmit Mannan,Female,38,Chandigarh,Chandigarh,2025-12-05,Premium,No Orders,Never Purchased,35-44
+C11326,Vedika Thaker,Female,33,Patna,Bihar,2025-07-14,Regular,Champions,Watch,25-34
+C11327,Sneha Patla,Female,29,Pune,Maharashtra,2026-02-27,Regular,Champions,Watch,25-34
+C11328,Jagdish Gandhi,Male,31,Chennai,Tamil Nadu,2025-09-24,Regular,New Customers,Watch,25-34
+C11329,Vansha Dutta,Female,30,Chandigarh,Chandigarh,2025-09-30,Regular,No Orders,Never Purchased,25-34
+C11330,Elijah Sule,Male,50,Coimbatore,Tamil Nadu,2025-02-20,Premium,At Risk,Lost,45-54
+C11331,Anusha Kanda,Female,20,Nagpur,Maharashtra,2025-08-07,Premium,Potential Loyalists,Active,18-24
+C11332,Kala Bhatnagar,Female,18,Pune,Maharashtra,2026-02-05,Regular,At Risk,Lost,18-24
+C11333,Qasim Kaur,Male,36,Mysuru,Karnataka,2025-10-15,Regular,No Orders,Never Purchased,35-44
+C11334,Ishanvi Vasa,Female,33,Mysuru,Karnataka,2025-06-22,Regular,Potential Loyalists,Active,25-34
+C11335,Rishi Singh,Male,35,Patna,Bihar,2026-04-10,Regular,Lost Customers,Watch,35-44
+C11336,Aradhana Baral,Female,34,Coimbatore,Tamil Nadu,2026-05-06,Premium,At Risk,At Risk,25-34
+C11337,Charan Verma,Male,31,Jaipur,Rajasthan,2025-05-29,Regular,At Risk,Watch,25-34
+C11338,Karan Ghosh,Male,31,Lucknow,Uttar Pradesh,2026-01-03,Regular,Lost Customers,Lost,25-34
+C11339,Ranbir Pau,Male,35,Chandigarh,Chandigarh,2026-04-06,Premium,At Risk,Lost,35-44
+C11340,Yauvani Krishnamurthy,Female,25,Kanpur,Uttar Pradesh,2025-08-16,Premium,New Customers,Active,25-34
+C11341,Isaac Varty,Male,20,Patna,Bihar,2025-03-28,Regular,No Orders,Never Purchased,18-24
+C11342,Patrick Pai,Male,39,Pune,Maharashtra,2026-04-21,Regular,Loyal Customers,Watch,35-44
+C11343,Warda Ahuja,Female,36,Kanpur,Uttar Pradesh,2026-08-10,Premium,No Orders,Never Purchased,35-44
+C11344,Urvi Gandhi,Female,34,Indore,Madhya Pradesh,2026-01-08,Premium,Potential Loyalists,Watch,25-34
+C11345,Balvan Varkey,Male,37,Gurugram,Haryana,2026-04-13,Regular,At Risk,Lost,35-44
+C11346,Jagvi Doctor,Female,33,Faridabad,Haryana,2026-04-23,Regular,Loyal Customers,At Risk,25-34
+C11347,Farhan Pathak,Male,28,Nagpur,Maharashtra,2026-08-12,Regular,Loyal Customers,Active,25-34
+C11348,Jyoti Sachdeva,Female,29,Patna,Bihar,2026-08-11,Regular,Champions,Watch,25-34
+C11349,Deepa Subramaniam,Female,27,Patna,Bihar,2026-07-30,Premium,Champions,Watch,25-34
+C11350,Wriddhish Kade,Male,36,Mysuru,Karnataka,2025-12-08,Regular,Champions,Watch,35-44
+C11351,Tripti Bains,Female,19,Thiruvananthapuram,Kerala,2025-03-25,Regular,Potential Loyalists,Watch,18-24
+C11352,Anthony Datta,Male,33,Patna,Bihar,2026-08-15,Regular,Lost Customers,Lost,25-34
+C11353,Ekalinga Vala,Male,22,Kanpur,Uttar Pradesh,2025-04-01,Regular,Champions,Active,18-24
+C11354,Falak Bhalla,Female,40,Patna,Bihar,2026-05-24,Regular,Lost Customers,Lost,35-44
+C11355,Leela Gole,Female,21,Chandigarh,Chandigarh,2025-04-28,Regular,Loyal Customers,Watch,18-24
+C11356,Adya Mander,Female,40,Thiruvananthapuram,Kerala,2026-08-09,Premium,Champions,Active,35-44
+C11357,Janaki Sen,Female,33,Surat,Gujarat,2026-03-19,Premium,Champions,Active,25-34
+C11358,Wridesh Garde,Male,35,Chennai,Tamil Nadu,2026-07-22,Regular,No Orders,Never Purchased,35-44
+C11359,Samesh Dhar,Male,33,Thiruvananthapuram,Kerala,2025-02-27,Regular,Potential Loyalists,Active,25-34
+C11360,Yashodhara Lalla,Female,39,Bangalore,Karnataka,2025-03-25,VIP,Lost Customers,Lost,35-44
+C11361,Pavani Setty,Female,38,Nagpur,Maharashtra,2026-03-22,Premium,Loyal Customers,Active,35-44
+C11362,Jyoti Radhakrishnan,Female,26,Mysuru,Karnataka,2025-11-13,Premium,At Risk,Lost,25-34
+C11363,Dominic Chopra,Male,35,Kolkata,West Bengal,2026-06-15,Premium,Lost Customers,Lost,35-44
+C11364,Harrison Virk,Male,20,Indore,Madhya Pradesh,2025-11-14,Premium,At Risk,Lost,18-24
+C11365,Falan Char,Male,19,Guwahati,Assam,2025-04-15,Regular,At Risk,Watch,18-24
+C11366,Vyanjana Barad,Female,18,Delhi,Delhi,2025-07-10,Regular,Lost Customers,Watch,18-24
+C11367,Charita Subramaniam,Female,36,Patna,Bihar,2025-08-07,Regular,Lost Customers,Watch,35-44
+C11368,Aachal Sankar,Female,47,Ahmedabad,Gujarat,2025-11-29,Regular,Champions,Active,45-54
+C11369,Reva Bassi,Female,29,Chandigarh,Chandigarh,2026-03-09,Regular,Loyal Customers,Active,25-34
+C11370,Jyoti Subramaniam,Female,30,Mysuru,Karnataka,2025-07-22,Regular,Potential Loyalists,Watch,25-34
+C11371,Pushti Chaudhari,Female,35,Delhi,Delhi,2025-12-17,Premium,Loyal Customers,Watch,35-44
+C11372,Ekani Kumar,Female,29,Bhopal,Madhya Pradesh,2025-05-26,Regular,Loyal Customers,At Risk,25-34
+C11373,Jackson Chacko,Male,43,Guwahati,Assam,2025-11-15,VIP,Lost Customers,Lost,35-44
+C11374,Tara Kurian,Female,36,Jaipur,Rajasthan,2026-02-18,Regular,At Risk,Lost,35-44
+C11375,Aarnav Amble,Male,43,Bangalore,Karnataka,2025-09-16,VIP,At Risk,Lost,35-44
+C11376,Aarush Prashad,Male,53,Ahmedabad,Gujarat,2025-08-18,Regular,Champions,Watch,45-54
+C11377,Nisha Rege,Female,26,Chandigarh,Chandigarh,2026-02-06,Regular,At Risk,Lost,25-34
+C11378,Chatresh Dubey,Male,24,Bhopal,Madhya Pradesh,2025-08-25,Premium,No Orders,Never Purchased,18-24
+C11379,Jonathan Lal,Male,40,Hyderabad,Telangana,2025-07-02,Regular,Lost Customers,Active,35-44
+C11380,Qadim Majumdar,Male,35,Coimbatore,Tamil Nadu,2025-06-03,Regular,Lost Customers,Watch,35-44
+C11381,Ishani Sachdev,Female,22,Indore,Madhya Pradesh,2026-03-28,Regular,Lost Customers,Watch,18-24
+C11382,Hemal Prabhakar,Female,21,Lucknow,Uttar Pradesh,2025-02-24,Premium,Loyal Customers,Watch,18-24
+C11383,Lajita Mohanty,Female,45,Mumbai,Maharashtra,2026-07-26,Premium,Loyal Customers,At Risk,45-54
+C11384,Sneha Devi,Female,37,Kanpur,Uttar Pradesh,2025-06-16,Regular,No Orders,Never Purchased,35-44
+C11385,Ishwar Sekhon,Male,39,Kanpur,Uttar Pradesh,2026-06-30,Regular,Champions,Active,35-44
+C11386,Chandresh Kala,Male,18,Surat,Gujarat,2026-07-17,Regular,Lost Customers,Watch,18-24
+C11387,Pallavi Ben,Female,27,Mumbai,Maharashtra,2025-09-25,Regular,At Risk,Watch,25-34
+C11388,Robert Ahluwalia,Male,19,Thiruvananthapuram,Kerala,2026-03-12,Regular,Potential Loyalists,Watch,18-24
+C11389,Eta Sinha,Female,51,Faridabad,Haryana,2025-11-27,Regular,New Customers,Active,45-54
+C11390,Chanchal Bhatt,Female,37,Unknown,Chandigarh,2025-05-05,Premium,Lost Customers,Lost,35-44
+C11391,Indrajit Prabhakar,Male,30,Pune,Maharashtra,2026-04-20,Regular,At Risk,Lost,25-34
+C11392,Anjali Rajagopalan,Female,43,Delhi,Delhi,2025-05-13,Premium,New Customers,Watch,35-44
+C11393,Luke Bhandari,Male,33,Coimbatore,Tamil Nadu,2025-03-15,Regular,Lost Customers,Watch,25-34
+C11394,Yachana Sarna,Female,32,Ahmedabad,Gujarat,2026-07-12,Premium,At Risk,Watch,25-34
+C11395,Harrison Vasa,Male,30,Ahmedabad,Gujarat,2026-07-21,Regular,Lost Customers,Watch,25-34
+C11396,Indali Bandi,Female,18,Chennai,Tamil Nadu,2025-04-04,Premium,Loyal Customers,At Risk,18-24
+C11397,Hamsini Banik,Female,31,Kanpur,Uttar Pradesh,2026-05-14,Premium,Loyal Customers,At Risk,25-34
+C11398,Kashvi Acharya,Female,28,Lucknow,Uttar Pradesh,2025-02-20,Regular,Champions,Active,25-34
+C11399,Caleb Majumdar,Male,21,Hyderabad,Telangana,2026-07-03,Regular,At Risk,Watch,18-24
+C11400,Patrick Rana,Male,34,Bangalore,Karnataka,2025-09-04,VIP,Lost Customers,Watch,25-34
+C11401,Harish Vasa,Male,18,Kochi,Kerala,2025-08-14,Regular,Loyal Customers,At Risk,18-24
+C11402,Bakhshi Chana,Male,38,Thiruvananthapuram,Kerala,2025-08-06,Regular,Can't Lose Them,Lost,35-44
+C11403,Owen Palan,Male,37,Mysuru,Karnataka,2025-06-09,Regular,Loyal Customers,Watch,35-44
+C11404,Jeevika Hayer,Female,35,Kochi,Kerala,2025-05-27,Premium,Loyal Customers,At Risk,35-44
+C11405,Saksham Agrawal,Male,44,Guwahati,Assam,2025-08-19,Regular,Loyal Customers,Watch,35-44
+C11406,Gagan Ray,Male,33,Jaipur,Rajasthan,2026-07-12,Premium,Loyal Customers,Active,25-34
+C11407,Balhaar Thakur,Male,29,Mumbai,Maharashtra,2026-07-15,Regular,Champions,Watch,25-34
+C11408,Onkar Dada,Male,38,Gurugram,Haryana,2025-07-30,Regular,Loyal Customers,Active,35-44
+C11409,Jeremiah Savant,Male,35,Gurugram,Haryana,2026-03-24,Regular,At Risk,At Risk,35-44
+C11410,Warhi Kohli,Female,35,Kochi,Kerala,2026-05-25,Regular,Loyal Customers,Active,35-44
+C11411,Vasudha Sharma,Female,42,Chennai,Tamil Nadu,2025-04-11,Regular,Potential Loyalists,Watch,35-44
+C11412,Wridesh Dada,Male,41,Chandigarh,Chandigarh,2026-04-12,Regular,Lost Customers,Watch,35-44
+C11413,Bahadurjit Raja,Male,42,Guwahati,Assam,2025-03-12,Regular,Lost Customers,Lost,35-44
+C11414,Ishwar Mutti,Male,18,Kolkata,West Bengal,2026-07-12,Premium,Lost Customers,Active,18-24
+C11415,Patrick Varty,Male,49,Faridabad,Haryana,2025-10-12,Premium,Loyal Customers,Watch,45-54
+C11416,Lekha Kothari,Female,18,Indore,Madhya Pradesh,2026-04-13,Regular,New Customers,Watch,18-24
+C11417,Charita Rastogi,Female,26,Ahmedabad,Gujarat,2025-04-18,Regular,Loyal Customers,Watch,25-34
+C11418,Baljiwan Gokhale,Male,31,Lucknow,Uttar Pradesh,2025-02-21,Regular,Lost Customers,Active,25-34
+C11419,Naksh Pandya,Male,28,Nagpur,Maharashtra,2026-05-02,Premium,Lost Customers,Lost,25-34
+C11420,Lipika Goswami,Female,23,Kochi,Kerala,2026-01-08,Regular,Potential Loyalists,Watch,18-24
+C11421,Yahvi Iyengar,Female,33,Chennai,Tamil Nadu,2026-04-03,Regular,Champions,Active,25-34
+C11422,Jai Lanka,Male,37,Pune,Maharashtra,2025-07-08,Regular,Lost Customers,Lost,35-44
+C11423,Jyoti Jain,Female,38,Chandigarh,Chandigarh,2026-02-10,Regular,Potential Loyalists,Watch,35-44
+C11424,Pranav Dugal,Male,35,Faridabad,Haryana,2025-10-13,Regular,Champions,Active,35-44
+C11425,Dipta Brar,Female,38,Mysuru,Karnataka,2026-05-29,Regular,Loyal Customers,Watch,35-44
+C11426,Aarush Basak,Male,34,Bangalore,Karnataka,2025-09-30,Regular,Champions,Active,25-34
+C11427,Ria Murty,Female,35,Mysuru,Karnataka,2026-06-04,Regular,No Orders,Never Purchased,35-44
+C11428,Laksh Swaminathan,Male,41,Chandigarh,Chandigarh,2026-06-22,Regular,Loyal Customers,Watch,35-44
+C11429,Logan Rao,Male,39,Faridabad,Haryana,2026-03-28,Regular,At Risk,Watch,35-44
+C11430,Eesha Bhagat,Female,25,Pune,Maharashtra,2025-11-13,Regular,No Orders,Never Purchased,25-34
+C11431,Waida Zachariah,Female,34,Hyderabad,Telangana,2025-09-01,Regular,Champions,Active,25-34
+C11432,Zayan Palan,Male,35,Pune,Maharashtra,2025-11-13,Regular,Lost Customers,Watch,35-44
+C11433,Gagan Shankar,Male,56,Mysuru,Karnataka,2026-01-12,Regular,Loyal Customers,Watch,55+
+C11434,Yochana Sharma,Female,38,Hyderabad,Telangana,2025-12-19,Regular,Lost Customers,Lost,35-44
+C11435,Aarna Arora,Female,44,Patna,Bihar,2026-08-02,Regular,Champions,Watch,35-44
+C11436,Sachi Chaudhuri,Female,57,Hyderabad,Telangana,2025-06-27,VIP,At Risk,Lost,55+
+C11437,Pratyush Lad,Male,30,Chennai,Tamil Nadu,2025-11-10,Regular,Lost Customers,Lost,25-34
+C11438,Karan Khalsa,Male,26,Patna,Bihar,2026-08-03,Premium,Lost Customers,Watch,25-34
+C11439,Vrishti Oza,Female,30,Gurugram,Haryana,2026-07-11,Premium,Champions,Watch,25-34
+C11440,George Tara,Male,42,Thiruvananthapuram,Kerala,2025-11-26,Premium,Potential Loyalists,Watch,35-44
+C11441,Jagrati Saini,Female,37,Jaipur,Rajasthan,2025-07-23,Regular,At Risk,Lost,35-44
+C11442,Rajata Rattan,Female,33,Lucknow,Uttar Pradesh,2025-12-29,Regular,New Customers,Watch,25-34
+C11443,Umang Gole,Male,30,Kochi,Kerala,2026-07-19,Regular,Can't Lose Them,At Risk,25-34
+C11444,Jyoti Chaudhry,Female,37,Nagpur,Maharashtra,2025-04-08,Premium,At Risk,At Risk,35-44
+C11445,Jacob Sankaran,Male,26,Gurugram,Haryana,2025-06-29,Premium,Loyal Customers,Active,25-34
+C11446,Guneet Dhingra,Male,24,Guwahati,Assam,2025-03-07,Regular,Loyal Customers,At Risk,18-24
+C11447,Warjas Andra,Male,43,Kanpur,Uttar Pradesh,2025-02-08,Regular,Loyal Customers,Watch,35-44
+C11448,Ucchal Tata,Female,35,Bhopal,Madhya Pradesh,2025-03-12,Regular,No Orders,Never Purchased,35-44
+C11449,Nakul Sur,Male,33,Chandigarh,Chandigarh,2025-03-13,Regular,New Customers,Active,25-34
+C11450,Ladli Batta,Female,25,Kochi,Kerala,2026-02-12,Premium,Lost Customers,Watch,25-34
+C11451,Chavvi Gade,Female,23,Ahmedabad,Gujarat,2025-06-29,Regular,Champions,Active,18-24
+C11452,Janaki Kumar,Female,40,Nagpur,Maharashtra,2026-06-23,Regular,Lost Customers,Lost,35-44
+C11453,Chanakya Sengupta,Male,37,Ahmedabad,Gujarat,2025-04-11,Regular,Champions,Active,35-44
+C11454,Kalpit Patel,Male,40,Thiruvananthapuram,Kerala,2025-12-31,Regular,Potential Loyalists,Watch,35-44
+C11455,Kabir Padmanabhan,Male,26,Kanpur,Uttar Pradesh,2025-10-26,Regular,Loyal Customers,Watch,25-34
+C11456,Samesh Dara,Male,24,Bangalore,Karnataka,2025-05-01,Regular,Lost Customers,Watch,18-24
+C11457,Hardik Yohannan,Male,47,Guwahati,Assam,2025-06-27,Premium,Champions,Active,45-54
+C11458,Meghana Pant,Female,40,Coimbatore,Tamil Nadu,2025-11-02,Regular,Loyal Customers,Active,35-44
+C11459,Yashodhara Sura,Female,46,Delhi,Delhi,2026-06-25,Regular,Loyal Customers,Active,45-54
+C11460,Chaaya Raj,Female,18,Delhi,Delhi,2025-04-07,Regular,At Risk,Lost,18-24
+C11461,Vincent Dhillon,Male,26,Kanpur,Uttar Pradesh,2025-08-15,Premium,Loyal Customers,At Risk,25-34
+C11462,Pahal Sama,Female,25,Ahmedabad,Gujarat,2025-07-30,Regular,Loyal Customers,At Risk,25-34
+C11463,Bimala Buch,Female,23,Coimbatore,Tamil Nadu,2026-03-26,Regular,Can't Lose Them,At Risk,18-24
+C11464,Pavani Kari,Female,21,Pune,Maharashtra,2025-09-25,Premium,Lost Customers,Lost,18-24
+C11465,Nitara Manne,Female,37,Guwahati,Assam,2026-06-03,Regular,Can't Lose Them,At Risk,35-44
+C11466,Rudra Madan,Male,38,Ahmedabad,Gujarat,2025-06-25,Regular,Champions,Active,35-44
+C11467,Radhika Verma,Female,39,Bhopal,Madhya Pradesh,2026-01-02,Regular,No Orders,Never Purchased,35-44
+C11468,Samuel Ganesh,Male,30,Kanpur,Uttar Pradesh,2025-02-23,Regular,Loyal Customers,Watch,25-34
+C11469,Advay Dass,Male,55,Kanpur,Uttar Pradesh,2026-01-01,Regular,At Risk,Watch,55+
+C11470,Ladli Buch,Female,18,Lucknow,Uttar Pradesh,2026-02-07,Premium,Loyal Customers,At Risk,18-24
+C11471,Fiyaz Ranganathan,Male,23,Kanpur,Uttar Pradesh,2026-06-20,Premium,At Risk,Lost,18-24
+C11472,Charvi Bhatt,Female,34,Bangalore,Karnataka,2026-04-01,Regular,Loyal Customers,At Risk,25-34
+C11473,Avni Bal,Female,32,Mysuru,Karnataka,2026-05-29,Regular,Champions,Active,25-34
+C11474,Benjamin Chawla,Male,54,Kolkata,West Bengal,2025-08-02,Regular,No Orders,Never Purchased,45-54
+C11475,Faras Chad,Male,39,Thiruvananthapuram,Kerala,2025-10-24,Regular,Loyal Customers,At Risk,35-44
+C11476,Nilima Karnik,Female,24,Guwahati,Assam,2025-07-20,Regular,At Risk,Lost,18-24
+C11477,Meghana Savant,Female,24,Lucknow,Uttar Pradesh,2025-12-06,Regular,Lost Customers,Lost,18-24
+C11478,Dominic Vyas,Male,35,Kochi,Kerala,2025-06-26,Premium,No Orders,Never Purchased,35-44
+C11479,Akshay Banerjee,Male,18,Delhi,Delhi,2026-03-03,Regular,Lost Customers,Lost,18-24
+C11480,Nicholas Soni,Male,34,Nagpur,Maharashtra,2025-06-30,Regular,No Orders,Never Purchased,25-34
+C11481,Laban Saxena,Male,33,Bhopal,Madhya Pradesh,2025-06-20,Regular,Champions,Active,25-34
+C11482,Gaurang Shan,Male,28,Gurugram,Haryana,2025-08-16,Premium,Lost Customers,Watch,25-34
+C11483,Zaitra Walla,Female,32,Indore,Madhya Pradesh,2025-02-11,VIP,New Customers,Watch,25-34
+C11484,Oscar Subramaniam,Male,40,Guwahati,Assam,2025-09-04,Premium,Loyal Customers,At Risk,35-44
+C11485,Chanchal Sathe,Female,44,Mumbai,Maharashtra,2025-07-21,Regular,Champions,Active,35-44
+C11486,Rajeshri Sachar,Female,29,Lucknow,Uttar Pradesh,2025-11-24,Regular,Potential Loyalists,Active,25-34
+C11487,Garima Mitter,Female,38,Indore,Madhya Pradesh,2025-08-20,Regular,New Customers,Watch,35-44
+C11488,Aadi Virk,Male,29,Indore,Madhya Pradesh,2025-03-07,Regular,At Risk,At Risk,25-34
+C11489,Pooja Mangat,Female,41,Bangalore,Karnataka,2025-12-03,Premium,New Customers,Active,35-44
+C11490,Aarna Swamy,Female,46,Jaipur,Rajasthan,2026-08-14,Regular,No Orders,Never Purchased,45-54
+C11491,Mason Andra,Male,51,Delhi,Delhi,2025-10-11,Regular,New Customers,Watch,45-54
+C11492,Madhav Kashyap,Male,34,Pune,Maharashtra,2025-12-17,Regular,New Customers,Active,25-34
+C11493,Ridhi Gulati,Female,34,Nagpur,Maharashtra,2025-02-18,Regular,Lost Customers,Lost,25-34
+C11494,Tejas Rana,Male,27,Lucknow,Uttar Pradesh,2025-11-16,Premium,New Customers,Active,25-34
+C11495,Finn Ramakrishnan,Male,19,Chandigarh,Chandigarh,2026-01-06,Regular,Potential Loyalists,Watch,18-24
+C11496,Imaran Lall,Male,26,Mumbai,Maharashtra,2026-01-23,Regular,At Risk,At Risk,25-34
+C11497,Siddharth Khatri,Male,34,Indore,Madhya Pradesh,2026-01-02,Regular,Lost Customers,Watch,25-34
+C11498,Lucky Wali,Male,23,Thiruvananthapuram,Kerala,2026-05-24,Regular,Champions,Active,18-24
+C11499,Triveni Guha,Female,36,Kolkata,West Bengal,2025-03-30,Premium,Loyal Customers,Watch,35-44
+C11500,Hemani Deshpande,Female,39,Delhi,Delhi,2025-12-13,Premium,No Orders,Never Purchased,35-44
+C11501,Dayamai Shah,Female,55,Ahmedabad,Gujarat,2026-04-02,Regular,Champions,Watch,55+
+C11502,Laban Swamy,Male,38,Surat,Gujarat,2026-02-03,Regular,Lost Customers,Lost,35-44
+C11503,Oeshi Bahl,Female,23,Delhi,Delhi,2026-06-24,Premium,Potential Loyalists,Active,18-24
+C11504,Aryan Warrior,Male,49,Faridabad,Haryana,2025-08-12,Regular,No Orders,Never Purchased,45-54
+C11505,Idika Chaudry,Female,24,Gurugram,Haryana,2026-02-28,Regular,Lost Customers,Watch,18-24
+C11506,Krish Dass,Male,33,Bhopal,Madhya Pradesh,2025-03-26,Regular,Can't Lose Them,At Risk,25-34
+C11507,Aayush Kaul,Male,33,Ahmedabad,Gujarat,2025-03-21,Regular,Can't Lose Them,Lost,25-34
+C11508,Forum Aurora,Female,30,Surat,Gujarat,2025-05-26,Regular,Lost Customers,Active,25-34
+C11509,Ikbal Oommen,Male,46,Surat,Gujarat,2025-05-06,Regular,At Risk,Watch,45-54
+C11510,Nimrat Tara,Female,20,Gurugram,Haryana,2026-03-09,Premium,Loyal Customers,Watch,18-24
+C11511,Vedika Balay,Female,43,Bhopal,Madhya Pradesh,2026-01-11,Regular,Can't Lose Them,Lost,35-44
+C11512,Chaitaly Dhingra,Female,27,Thiruvananthapuram,Kerala,2025-07-21,Regular,Lost Customers,Watch,25-34
+C11513,Kiaan Ramanathan,Male,18,Surat,Gujarat,2026-01-17,Regular,Potential Loyalists,Watch,18-24
+C11514,Vrinda Golla,Female,33,Bangalore,Karnataka,2025-02-26,Regular,Loyal Customers,Active,25-34
+C11515,Ladli Raj,Female,45,Gurugram,Haryana,2026-08-15,VIP,No Orders,Never Purchased,45-54
+C11516,Divya Kothari,Female,33,Patna,Bihar,2026-07-24,Regular,Potential Loyalists,Watch,25-34
+C11517,Timothy Kota,Male,40,Thiruvananthapuram,Kerala,2025-06-17,Regular,Champions,Active,35-44
+C11518,Hardik Sharma,Male,44,Jaipur,Rajasthan,2025-11-04,Premium,No Orders,Never Purchased,35-44
+C11519,Hemang Solanki,Male,22,Pune,Maharashtra,2026-04-23,Regular,Champions,Watch,18-24
+C11520,Nimrat Naidu,Female,36,Hyderabad,Telangana,2025-11-24,Premium,Potential Loyalists,Watch,35-44
+C11521,Ansh Verma,Male,44,Bangalore,Karnataka,2026-01-26,Regular,Loyal Customers,Watch,35-44
+C11522,Jonathan Srivastava,Male,18,Mumbai,Maharashtra,2026-06-25,Premium,Champions,Watch,18-24
+C11523,Ira Patel,Female,26,Indore,Madhya Pradesh,2025-09-11,Regular,At Risk,Watch,25-34
+C11524,Ikbal Chowdhury,Male,32,Gurugram,Haryana,2025-09-07,Regular,At Risk,Lost,25-34
+C11525,Teerth Nair,Male,38,Indore,Madhya Pradesh,2025-04-26,Regular,Champions,Active,35-44
+C11526,Geetika Majumdar,Female,40,Ahmedabad,Gujarat,2025-07-14,Regular,No Orders,Never Purchased,35-44
+C11527,Siya Kibe,Female,31,Patna,Bihar,2026-05-14,VIP,Can't Lose Them,At Risk,25-34
+C11528,Ansh Soman,Male,29,Bangalore,Karnataka,2025-11-09,Regular,At Risk,Lost,25-34
+C11529,Ria Chakraborty,Female,38,Chennai,Tamil Nadu,2026-07-26,Regular,No Orders,Never Purchased,35-44
+C11530,Gaurangi Tata,Female,40,Mysuru,Karnataka,2025-03-11,Regular,Potential Loyalists,Watch,35-44
+C11531,Omkaar Bhasin,Male,43,Indore,Madhya Pradesh,2025-07-17,Regular,At Risk,Lost,35-44
+C11532,Pranav Dube,Male,18,Kolkata,West Bengal,2025-06-30,Regular,At Risk,Lost,18-24
+C11533,Dev Sura,Male,21,Bangalore,Karnataka,2025-04-12,Regular,Loyal Customers,At Risk,18-24
+C11534,Nitara Palan,Female,28,Ahmedabad,Gujarat,2025-05-25,Regular,At Risk,Lost,25-34
+C11535,Inaya Bail,Female,18,Ahmedabad,Gujarat,2026-05-18,Regular,Loyal Customers,Watch,18-24
+C11536,Praneel Desai,Male,34,Guwahati,Assam,2025-12-27,Premium,Champions,Watch,25-34
+C11537,Anmol Sundaram,Male,45,Chandigarh,Chandigarh,2025-07-25,Regular,Lost Customers,Watch,45-54
+C11538,Nandini Suri,Female,38,Kolkata,West Bengal,2025-04-21,VIP,At Risk,Lost,35-44
+C11539,Idika Pall,Female,37,Delhi,Delhi,2025-06-01,Regular,Lost Customers,Active,35-44
+C11540,Vivaan Maharaj,Male,56,Jaipur,Rajasthan,2026-06-08,Premium,Loyal Customers,At Risk,55+
+C11541,Bakhshi Wali,Male,43,Gurugram,Haryana,2026-02-06,Regular,Lost Customers,Watch,35-44
+C11542,Umang Merchant,Male,38,Chandigarh,Chandigarh,2025-03-13,Regular,At Risk,Lost,35-44
+C11543,Rajeshri Setty,Female,45,Hyderabad,Telangana,2025-11-21,VIP,At Risk,Lost,45-54
+C11544,Yashica Raghavan,Female,29,Chandigarh,Chandigarh,2026-03-20,Premium,At Risk,Lost,25-34
+C11545,Adya Patla,Female,45,Patna,Bihar,2025-02-02,Regular,Champions,Active,45-54
+C11546,Oeshi Bhatnagar,Female,33,Bhopal,Madhya Pradesh,2025-03-11,Regular,At Risk,Lost,25-34
+C11547,Girish Viswanathan,Male,26,Hyderabad,Telangana,2025-03-16,VIP,Champions,Active,25-34
+C11548,Ganga Mandal,Female,30,Thiruvananthapuram,Kerala,2025-03-24,Regular,Lost Customers,Watch,25-34
+C11549,Samarth Nagy,Male,29,Lucknow,Uttar Pradesh,2025-12-06,Regular,Lost Customers,Watch,25-34
+C11550,Chanakya Virk,Male,18,Ahmedabad,Gujarat,2026-05-31,Regular,Loyal Customers,Watch,18-24
+C11551,Anthony Dayal,Male,29,Thiruvananthapuram,Kerala,2026-04-12,Premium,Loyal Customers,Active,25-34
+C11552,Anamika Jaggi,Female,29,Surat,Gujarat,2025-10-01,VIP,Loyal Customers,Watch,25-34
+C11553,Xavier Handa,Male,53,Patna,Bihar,2025-02-17,Premium,At Risk,Lost,45-54
+C11554,Amol Rama,Male,46,Faridabad,Haryana,2025-11-12,Regular,Potential Loyalists,Watch,45-54
+C11555,Zansi Kunda,Female,36,Mumbai,Maharashtra,2025-12-22,Regular,Potential Loyalists,Watch,35-44
+C11556,Qadim Kant,Male,36,Lucknow,Uttar Pradesh,2026-05-18,Regular,Champions,Active,35-44
+C11557,Abeer Joshi,Male,47,Bhopal,Madhya Pradesh,2025-03-29,Regular,At Risk,Lost,45-54
+C11558,Balveer Sidhu,Male,38,Lucknow,Uttar Pradesh,2026-06-18,Premium,Champions,Active,35-44
+C11559,Pranit Sagar,Male,37,Guwahati,Assam,2026-04-09,Regular,Lost Customers,Active,35-44
+C11560,Barkha Lata,Female,38,Mysuru,Karnataka,2025-07-01,Regular,Can't Lose Them,At Risk,35-44
+C11561,Balendra Modi,Male,56,Indore,Madhya Pradesh,2025-08-19,Regular,Potential Loyalists,Watch,55+
+C11562,Hritik Venkataraman,Male,38,Pune,Maharashtra,2025-11-24,Premium,At Risk,Lost,35-44
+C11563,Daksha Kashyap,Female,46,Indore,Madhya Pradesh,2026-03-03,Regular,Champions,Active,45-54
+C11564,Girish Hans,Male,34,Lucknow,Uttar Pradesh,2025-07-24,Regular,Champions,Active,25-34
+C11565,Hemal Sagar,Female,18,Lucknow,Uttar Pradesh,2025-02-25,Premium,Loyal Customers,Watch,18-24
+C11566,Rachita Shanker,Female,18,Lucknow,Uttar Pradesh,2025-04-27,Regular,Loyal Customers,Watch,18-24
+C11567,Damini Ganesan,Female,48,Ahmedabad,Gujarat,2025-12-24,Regular,Can't Lose Them,Lost,45-54
+C11568,Sai Thaman,Male,43,Coimbatore,Tamil Nadu,2025-04-18,Regular,Champions,Active,35-44
+C11569,Gaurangi Walla,Female,24,Lucknow,Uttar Pradesh,2025-03-29,Premium,At Risk,Watch,18-24
+C11570,Patrick Murty,Male,36,Kanpur,Uttar Pradesh,2025-06-16,Regular,Champions,Watch,35-44
+C11571,Quincy Sachar,Male,33,Jaipur,Rajasthan,2025-04-07,VIP,No Orders,Never Purchased,25-34
+C11572,Ojasvi Khosla,Female,34,Hyderabad,Telangana,2025-02-28,Regular,Champions,Watch,25-34
+C11573,Raghav Kumar,Male,61,Thiruvananthapuram,Kerala,2025-07-04,Regular,Loyal Customers,Watch,55+
+C11574,Upkaar Sem,Male,44,Hyderabad,Telangana,2025-02-27,Regular,At Risk,Watch,35-44
+C11575,Aachal Banerjee,Female,42,Bangalore,Karnataka,2026-05-28,Regular,Potential Loyalists,Watch,35-44
+C11576,Abhiram Vasa,Male,32,Gurugram,Haryana,2026-01-03,Regular,Potential Loyalists,Watch,25-34
+C11577,Nidhi Ahuja,Female,18,Kolkata,West Bengal,2025-12-16,Regular,Potential Loyalists,Watch,18-24
+C11578,Janya Kala,Female,42,Unknown,Karnataka,2025-02-08,Regular,Potential Loyalists,Watch,35-44
+C11579,Alka Majumdar,Female,24,Kolkata,West Bengal,2026-08-05,Premium,Can't Lose Them,At Risk,18-24
+C11580,Charvi Barad,Female,27,Jaipur,Rajasthan,2025-06-27,Regular,Champions,Watch,25-34
+C11581,Pranav Dugal,Male,49,Bhopal,Madhya Pradesh,2025-09-11,Regular,Lost Customers,Watch,45-54
+C11582,Kevin Peri,Male,40,Guwahati,Assam,2025-12-13,Regular,At Risk,Lost,35-44
+C11583,Jackson Kunda,Male,40,Chandigarh,Chandigarh,2026-02-28,Regular,At Risk,Watch,35-44
+C11584,Charita Ratta,Female,35,Mysuru,Karnataka,2026-04-04,Regular,No Orders,Never Purchased,35-44
+C11585,Balvan Nair,Male,22,Lucknow,Uttar Pradesh,2025-05-28,Premium,Loyal Customers,Active,18-24
+C11586,Gabriel Sura,Male,35,Surat,Gujarat,2025-06-21,Regular,Lost Customers,Active,35-44
+C11587,Netra Barad,Female,37,Lucknow,Uttar Pradesh,2026-06-10,Regular,Champions,Watch,35-44
+C11588,Balveer Bhalla,Male,49,Ahmedabad,Gujarat,2025-08-07,Regular,Champions,Active,45-54
+C11589,Owen Saraf,Male,49,Coimbatore,Tamil Nadu,2026-07-01,Regular,Potential Loyalists,Watch,45-54
+C11590,Dipta Karan,Female,30,Lucknow,Uttar Pradesh,2026-08-07,Premium,Loyal Customers,At Risk,25-34
+C11591,Rayaan Bhagat,Male,38,Jaipur,Rajasthan,2026-07-06,Premium,At Risk,Lost,35-44
+C11592,Zaitra Barman,Female,48,Kolkata,West Bengal,2025-11-04,Regular,At Risk,Watch,45-54
+C11593,Falguni Narain,Female,45,Kolkata,West Bengal,2026-08-08,Regular,Lost Customers,Active,45-54
+C11594,Faraj Bedi,Male,25,Kolkata,West Bengal,2025-11-27,Premium,Loyal Customers,At Risk,25-34
+C11595,Udant Thaman,Male,41,Bhopal,Madhya Pradesh,2026-04-09,Regular,Champions,Watch,35-44
+C11596,Indrajit Sankaran,Male,31,Faridabad,Haryana,2025-04-13,Regular,At Risk,Lost,25-34
+C11597,Shravya Divan,Female,32,Guwahati,Assam,2026-05-22,Regular,At Risk,Watch,25-34
+C11598,Om Butala,Male,30,Ahmedabad,Gujarat,2025-03-28,Regular,Lost Customers,Watch,25-34
+C11599,Arya Rastogi,Female,18,Kochi,Kerala,2025-04-03,VIP,At Risk,Lost,18-24
+C11600,Brijesh Rastogi,Male,27,Kochi,Kerala,2025-03-12,Premium,Loyal Customers,Active,25-34
+C11601,Eiravati Deshmukh,Female,34,Surat,Gujarat,2025-06-30,Regular,Loyal Customers,At Risk,25-34
+C11602,Ira Sura,Female,31,Mumbai,Maharashtra,2026-04-06,Regular,Loyal Customers,Active,25-34
+C11603,Indira Viswanathan,Female,41,Delhi,Delhi,2026-06-14,Regular,No Orders,Never Purchased,35-44
+C11604,Keya Bora,Female,28,Patna,Bihar,2025-12-30,Regular,At Risk,At Risk,25-34
+C11605,Upasna Naik,Female,40,Gurugram,Haryana,2025-05-20,Premium,Potential Loyalists,Watch,35-44
+C11606,Dayita Sachdev,Female,18,Guwahati,Assam,2026-07-28,Regular,Potential Loyalists,Watch,18-24
+C11607,Rajeshri Pall,Female,40,Surat,Gujarat,2025-09-23,Regular,At Risk,Lost,35-44
+C11608,Naveen Padmanabhan,Male,33,Nagpur,Maharashtra,2025-10-07,Premium,No Orders,Never Purchased,25-34
+C11609,Niharika Gara,Female,18,Guwahati,Assam,2025-11-11,Premium,At Risk,Lost,18-24
+C11610,Timothy Dhingra,Male,33,Mysuru,Karnataka,2025-05-03,Regular,Loyal Customers,Active,25-34
+C11611,Anthony Kaur,Male,37,Pune,Maharashtra,2025-08-12,Regular,Champions,Active,35-44
+C11612,Ridhi Dugal,Female,22,Chandigarh,Chandigarh,2025-11-01,Regular,Champions,Watch,18-24
+C11613,Dayita Bhagat,Female,29,Kanpur,Uttar Pradesh,2025-11-01,Premium,At Risk,Lost,25-34
+C11614,Ethan Mani,Male,27,Pune,Maharashtra,2025-09-18,Regular,Lost Customers,Watch,25-34
+C11615,Onveer Choudhry,Male,39,Mumbai,Maharashtra,2025-08-16,Regular,Potential Loyalists,Watch,35-44
+C11616,Varenya Sinha,Female,43,Faridabad,Haryana,2026-02-09,Regular,At Risk,Lost,35-44
+C11617,Oni Kadakia,Female,36,Jaipur,Rajasthan,2025-07-13,Regular,Potential Loyalists,Watch,35-44
+C11618,Harsh Virk,Male,25,Kanpur,Uttar Pradesh,2026-04-25,Premium,At Risk,Lost,25-34
+C11619,Wyatt Dhaliwal,Male,18,Coimbatore,Tamil Nadu,2025-04-02,Regular,Champions,Active,18-24
+C11620,Riya Vyas,Female,30,Lucknow,Uttar Pradesh,2025-07-06,Regular,At Risk,Lost,25-34
+C11621,Lakshmi Garde,Female,18,Chandigarh,Chandigarh,2025-12-13,Regular,Loyal Customers,Watch,18-24
+C11622,Lucky Iyer,Male,24,Bhopal,Madhya Pradesh,2026-02-21,Regular,At Risk,Watch,18-24
+C11623,Avni Shroff,Female,49,Kanpur,Uttar Pradesh,2025-05-16,Regular,Champions,Active,45-54
+C11624,Bhavna Rama,Female,19,Kolkata,West Bengal,2025-06-07,Regular,Loyal Customers,Watch,18-24
+C11625,Pranit Chokshi,Male,45,Mumbai,Maharashtra,2025-09-05,Regular,At Risk,At Risk,45-54
+C11626,Mugdha Raju,Female,26,Surat,Gujarat,2026-01-03,Regular,Loyal Customers,Active,25-34
+C11627,Sachi Trivedi,Female,27,Chennai,Tamil Nadu,2026-03-20,Regular,Champions,Watch,25-34
+C11628,Nakul Sundaram,Male,18,Kolkata,West Bengal,2025-10-12,Regular,At Risk,At Risk,18-24
+C11629,Girik Issac,Male,18,Patna,Bihar,2025-08-30,Premium,Loyal Customers,Active,18-24
+C11630,Alka Baral,Female,49,Faridabad,Haryana,2025-11-23,Regular,At Risk,Watch,45-54
+C11631,Zilmil Mody,Female,29,Faridabad,Haryana,2026-04-21,Regular,At Risk,Lost,25-34
+C11632,Yash Ramaswamy,Male,45,Chandigarh,Chandigarh,2025-04-23,Regular,No Orders,Never Purchased,45-54
+C11633,Adya Palan,Female,55,Chandigarh,Chandigarh,2026-07-07,Regular,Can't Lose Them,Lost,55+
+C11634,Peter Mittal,Male,33,Bangalore,Karnataka,2026-07-21,Premium,Potential Loyalists,Watch,25-34
+C11635,Yamini Majumdar,Female,52,Ahmedabad,Gujarat,2026-07-21,Regular,Champions,Active,45-54
+C11636,Kabir Ram,Male,44,Surat,Gujarat,2025-04-02,Regular,At Risk,Watch,35-44
+C11637,Meera Kar,Female,23,Faridabad,Haryana,2026-06-01,Regular,At Risk,Watch,18-24
+C11638,Panini Ramaswamy,Female,31,Surat,Gujarat,2025-09-06,Regular,Loyal Customers,At Risk,25-34
+C11639,Caleb Raja,Male,24,Bangalore,Karnataka,2025-12-23,Regular,Potential Loyalists,Watch,18-24
+C11640,Sathvik Khosla,Male,18,Kochi,Kerala,2025-04-05,Regular,Champions,Watch,18-24
+C11641,Unni Muni,Female,24,Gurugram,Haryana,2025-05-18,Premium,At Risk,Lost,18-24
+C11642,Vanya Deep,Female,43,Mysuru,Karnataka,2025-09-17,Regular,At Risk,Watch,35-44
+C11643,Ekapad Jain,Male,32,Coimbatore,Tamil Nadu,2026-07-14,VIP,Potential Loyalists,Watch,25-34
+C11644,Mohammed Viswanathan,Male,39,Bangalore,Karnataka,2026-06-17,VIP,Loyal Customers,Watch,35-44
+C11645,Upasna Dhillon,Female,24,Gurugram,Haryana,2026-01-31,Regular,At Risk,Lost,18-24
+C11646,Nitara Bir,Female,42,Guwahati,Assam,2025-06-01,Regular,At Risk,At Risk,35-44
+C11647,George Nadkarni,Male,33,Nagpur,Maharashtra,2025-05-24,Regular,Potential Loyalists,Watch,25-34
+C11648,Alexander Nagar,Male,29,Hyderabad,Telangana,2025-02-21,Regular,Lost Customers,Watch,25-34
+C11649,Tripti Mitter,Female,41,Kolkata,West Bengal,2025-11-10,Regular,At Risk,Lost,35-44
+C11650,Laksh Doshi,Male,28,Hyderabad,Telangana,2026-05-17,Regular,Potential Loyalists,Watch,25-34
+C11651,Chatresh Deep,Male,29,Coimbatore,Tamil Nadu,2026-01-06,Regular,At Risk,Watch,25-34
+C11652,Amara Loke,Female,25,Mumbai,Maharashtra,2026-07-19,Regular,No Orders,Never Purchased,25-34
+C11653,Jack Kashyap,Male,29,Mysuru,Karnataka,2026-04-19,Premium,At Risk,Lost,25-34
+C11654,Rachita Buch,Female,43,Ahmedabad,Gujarat,2026-01-31,Premium,No Orders,Never Purchased,35-44
+C11655,Ekalinga Thakkar,Male,27,Patna,Bihar,2026-06-10,Regular,At Risk,Lost,25-34
+C11656,Ridhi Gour,Female,18,Delhi,Delhi,2025-04-10,Premium,Champions,Watch,18-24
+C11657,Yatan Som,Male,21,Mysuru,Karnataka,2025-07-31,Regular,Potential Loyalists,Active,18-24
+C11658,Finn Hans,Male,32,Kanpur,Uttar Pradesh,2026-05-21,Regular,Can't Lose Them,At Risk,25-34
+C11659,Amol Rege,Male,22,Lucknow,Uttar Pradesh,2026-07-04,Regular,Loyal Customers,Watch,18-24
+C11660,Lopa Sachar,Female,26,Hyderabad,Telangana,2025-12-09,Regular,At Risk,Lost,25-34
+C11661,Harrison Jayaraman,Male,29,Guwahati,Assam,2025-09-15,Premium,At Risk,Lost,25-34
+C11662,Gaurang Sarna,Male,40,Gurugram,Haryana,2025-12-17,Regular,Lost Customers,Watch,35-44
+C11663,Omaja Shankar,Female,34,Mysuru,Karnataka,2025-07-17,Regular,At Risk,Lost,25-34
+C11664,Tanay Ravel,Male,29,Thiruvananthapuram,Kerala,2026-07-03,Regular,At Risk,Lost,25-34
+C11665,Ranveer Munshi,Male,33,Delhi,Delhi,2025-03-02,Regular,At Risk,Lost,25-34
+C11666,Zaitra Barad,Female,24,Chennai,Tamil Nadu,2026-06-27,Regular,Lost Customers,Active,18-24
+C11667,Varsha Shan,Female,34,Bhopal,Madhya Pradesh,2025-12-03,Regular,Champions,Watch,25-34
+C11668,Jason Venkataraman,Male,36,Chennai,Tamil Nadu,2026-01-19,VIP,At Risk,Watch,35-44
+C11669,Anusha Ram,Female,41,Patna,Bihar,2025-11-27,Regular,At Risk,Watch,35-44
+C11670,Ikshita Manne,Female,52,Mumbai,Maharashtra,2025-02-11,Regular,Loyal Customers,Active,45-54
+C11671,Sneha Modi,Female,25,Mumbai,Maharashtra,2025-05-11,Regular,Loyal Customers,Watch,25-34
+C11672,Vedhika Ganesan,Female,33,Kochi,Kerala,2026-04-20,Regular,Potential Loyalists,Active,25-34
+C11673,Nandini Bhagat,Female,32,Kochi,Kerala,2026-05-04,Regular,Lost Customers,Watch,25-34
+C11674,Vincent Seth,Male,35,Nagpur,Maharashtra,2025-11-17,Regular,Lost Customers,Watch,35-44
+C11675,Yamini Chowdhury,Female,42,Chandigarh,Chandigarh,2025-11-23,Premium,Loyal Customers,Watch,35-44
+C11676,Ekanta Ramaswamy,Female,33,Jaipur,Rajasthan,2025-08-13,Premium,At Risk,Watch,25-34
+C11677,Neel Seshadri,Male,42,Patna,Bihar,2025-10-11,Regular,No Orders,Never Purchased,35-44
+C11678,Gaurav Setty,Male,41,Gurugram,Haryana,2025-05-10,Premium,At Risk,Lost,35-44
+C11679,Vasana Chana,Female,26,Patna,Bihar,2025-12-10,Regular,No Orders,Never Purchased,25-34
+C11680,Ojasvi Gade,Female,56,Chandigarh,Chandigarh,2025-12-06,Regular,Loyal Customers,At Risk,55+
+C11681,Chakradev Comar,Male,32,Bhopal,Madhya Pradesh,2026-04-07,Regular,At Risk,Watch,25-34
+C11682,Radhika Chada,Female,28,Hyderabad,Telangana,2026-07-24,Premium,At Risk,Lost,25-34
+C11683,Yashodhara Dutta,Female,46,Indore,Madhya Pradesh,2026-08-17,Premium,Can't Lose Them,At Risk,45-54
+C11684,Ranveer Bassi,Male,36,Mumbai,Maharashtra,2025-02-16,Regular,Loyal Customers,Active,35-44
+C11685,Oviya Doctor,Female,44,Faridabad,Haryana,2026-06-11,Premium,At Risk,Watch,35-44
+C11686,Eta Gola,Female,46,Jaipur,Rajasthan,2025-02-19,Regular,At Risk,Lost,45-54
+C11687,Ubika Morar,Female,43,Guwahati,Assam,2025-04-08,Regular,Loyal Customers,Active,35-44
+C11688,Udant Mani,Male,37,Indore,Madhya Pradesh,2026-03-31,Premium,New Customers,Active,35-44
+C11689,Daniel Deep,Male,43,Hyderabad,Telangana,2025-08-03,Premium,Potential Loyalists,Watch,35-44
+C11690,Aadhya Kulkarni,Female,27,Mysuru,Karnataka,2025-09-14,Regular,At Risk,Watch,25-34
+C11691,Vasudha Tank,Female,51,Chandigarh,Chandigarh,2025-10-19,Regular,At Risk,Watch,45-54
+C11692,Aahana Tak,Female,42,Hyderabad,Telangana,2026-02-07,Regular,At Risk,Lost,35-44
+C11693,Janani Soni,Female,35,Pune,Maharashtra,2026-02-09,Regular,New Customers,Watch,35-44
+C11694,Samarth Sathe,Male,34,Coimbatore,Tamil Nadu,2025-12-14,Premium,At Risk,Watch,25-34
+C11695,Aarush Konda,Male,48,Bangalore,Karnataka,2025-08-30,Premium,Lost Customers,Active,45-54
+C11696,Hemang Bawa,Male,18,Pune,Maharashtra,2025-12-07,Regular,Champions,Active,18-24
+C11697,Ethan Bhakta,Male,31,Coimbatore,Tamil Nadu,2026-05-01,Regular,Champions,Active,25-34
+C11698,Anita Dhillon,Female,31,Thiruvananthapuram,Kerala,2026-06-03,Regular,At Risk,Lost,25-34
+C11699,Neha Narula,Female,18,Coimbatore,Tamil Nadu,2025-08-21,Regular,At Risk,At Risk,18-24
+C11700,Aryan Chopra,Male,40,Chennai,Tamil Nadu,2025-03-17,Premium,Champions,Watch,35-44
+C11701,Gaurav Edwin,Male,33,Kochi,Kerala,2026-01-08,Regular,Champions,Watch,25-34
+C11702,Gaurang Shah,Male,44,Jaipur,Rajasthan,2025-10-12,Premium,No Orders,Never Purchased,35-44
+C11703,Andrew Chander,Male,28,Kolkata,West Bengal,2025-05-26,Regular,At Risk,Lost,25-34
+C11704,Ojasvi Pillay,Female,39,Kolkata,West Bengal,2025-10-15,Premium,At Risk,Lost,35-44
+C11705,Bahadurjit Sane,Male,36,Indore,Madhya Pradesh,2026-01-28,Regular,Loyal Customers,Watch,35-44
+C11706,Madhav Sinha,Male,32,Guwahati,Assam,2026-06-22,Regular,Loyal Customers,At Risk,25-34
+C11707,Divya Maharaj,Female,44,Mumbai,Maharashtra,2026-03-23,VIP,At Risk,Watch,35-44
+C11708,Samuel Vohra,Male,18,Pune,Maharashtra,2026-07-03,Premium,At Risk,Lost,18-24
+C11709,Jagrati Bhardwaj,Female,40,Mysuru,Karnataka,2026-07-17,Regular,At Risk,Lost,35-44
+C11710,Caleb Sule,Male,38,Bhopal,Madhya Pradesh,2026-07-20,Regular,No Orders,Never Purchased,35-44
+C11711,Tanay Nadig,Male,38,Chandigarh,Chandigarh,2026-05-21,Premium,Champions,Active,35-44
+C11712,Zansi Pandya,Female,41,Guwahati,Assam,2026-02-14,Regular,At Risk,Lost,35-44
+C11713,Yadavi Venkatesh,Female,33,Thiruvananthapuram,Kerala,2025-11-06,Regular,At Risk,Lost,25-34
+C11714,Xiti Gole,Female,30,Pune,Maharashtra,2025-02-19,Regular,No Orders,Never Purchased,25-34
+C11715,Maanav Hari,Male,54,Chandigarh,Chandigarh,2026-05-02,Regular,Champions,Active,45-54
+C11716,Dhriti Bajwa,Female,38,Thiruvananthapuram,Kerala,2025-06-13,Regular,Lost Customers,Watch,35-44
+C11717,Dhriti Johal,Female,33,Kolkata,West Bengal,2025-07-23,Premium,No Orders,Never Purchased,25-34
+C11718,Triveni Bath,Female,29,Kolkata,West Bengal,2026-06-18,Regular,At Risk,Lost,25-34
+C11719,Pushti Kala,Female,18,Guwahati,Assam,2025-07-28,Regular,At Risk,Lost,18-24
+C11720,Harrison Manda,Male,30,Bhopal,Madhya Pradesh,2026-04-15,Regular,New Customers,Watch,25-34
+C11721,Bhavna Morar,Female,18,Chandigarh,Chandigarh,2025-07-21,Premium,No Orders,Never Purchased,18-24
+C11722,Yashica Naik,Female,48,Kolkata,West Bengal,2025-05-24,VIP,Can't Lose Them,Lost,45-54
+C11723,Deepa Nath,Female,48,Ahmedabad,Gujarat,2026-07-04,Regular,At Risk,Lost,45-54
+C11724,Rudra Balakrishnan,Male,34,Faridabad,Haryana,2026-06-27,Regular,At Risk,Lost,25-34
+C11725,Gunbir Narayanan,Male,47,Faridabad,Haryana,2025-08-19,Regular,Potential Loyalists,Watch,45-54
+C11726,Wriddhish Som,Male,45,Mysuru,Karnataka,2025-06-11,Premium,Can't Lose Them,Lost,45-54
+C11727,Ekansh Subramaniam,Male,24,Patna,Bihar,2025-04-27,Premium,At Risk,Lost,18-24
+C11728,Victor Yadav,Male,38,Pune,Maharashtra,2025-09-29,Regular,Lost Customers,Active,35-44
+C11729,Vedhika Sachdev,Female,18,Nagpur,Maharashtra,2025-03-07,Regular,Can't Lose Them,Lost,18-24
+C11730,Yoshita Mistry,Female,56,Bhopal,Madhya Pradesh,2025-07-15,Regular,At Risk,Lost,55+
+C11731,Adya Joshi,Female,40,Faridabad,Haryana,2026-01-01,Regular,Potential Loyalists,Watch,35-44
+C11732,Raagini Bhatti,Female,33,Bhopal,Madhya Pradesh,2025-11-10,Premium,Champions,Active,25-34
+C11733,Logan Balasubramanian,Male,33,Guwahati,Assam,2026-03-04,Regular,At Risk,Lost,25-34
+C11734,Riya Warrior,Female,25,Bangalore,Karnataka,2025-11-23,Regular,At Risk,Lost,25-34
+C11735,Robert Grover,Male,24,Indore,Madhya Pradesh,2026-01-16,Regular,Lost Customers,Watch,18-24
+C11736,Mitesh Murty,Male,47,Guwahati,Assam,2025-05-31,Premium,Loyal Customers,At Risk,45-54
+C11737,Madhavi Sachdev,Female,24,Mumbai,Maharashtra,2026-03-12,Premium,Loyal Customers,Active,18-24
+C11738,Yadavi Khanna,Female,33,Kolkata,West Bengal,2026-03-14,Premium,At Risk,Watch,25-34
+C11739,Varsha Mittal,Female,37,Surat,Gujarat,2025-07-14,Premium,No Orders,Never Purchased,35-44
+C11740,Matthew Gill,Male,43,Delhi,Delhi,2026-06-05,Premium,Loyal Customers,At Risk,35-44
+C11741,Rachit Barad,Male,34,Kochi,Kerala,2025-08-13,Premium,New Customers,Active,25-34
+C11742,Charita Sawhney,Female,37,Coimbatore,Tamil Nadu,2026-03-21,Regular,Loyal Customers,Active,35-44
+C11743,Wyatt Tella,Male,40,Hyderabad,Telangana,2025-05-09,Regular,Can't Lose Them,Lost,35-44
+C11744,Girish Oak,Male,55,Hyderabad,Telangana,2026-05-27,Regular,Lost Customers,Watch,55+
+C11745,Mohammed Narang,Male,38,Unknown,Maharashtra,2025-06-14,Regular,Loyal Customers,Active,35-44
+C11746,Chavvi Varty,Female,18,Jaipur,Rajasthan,2026-05-08,Premium,Champions,Watch,18-24
+C11747,Harshil Bansal,Male,25,Delhi,Delhi,2026-07-02,Regular,No Orders,Never Purchased,25-34
+C11748,Sara Vig,Female,36,Nagpur,Maharashtra,2026-07-11,Regular,Can't Lose Them,Lost,35-44
+C11749,Aarnav Mukhopadhyay,Male,18,Lucknow,Uttar Pradesh,2025-12-03,Regular,No Orders,Never Purchased,18-24
+C11750,Caleb Nath,Male,28,Chandigarh,Chandigarh,2025-04-02,Regular,Champions,Watch,25-34
+C11751,Arin Chauhan,Male,48,Ahmedabad,Gujarat,2026-02-27,Regular,Potential Loyalists,Watch,45-54
+C11752,Advay Muni,Male,36,Nagpur,Maharashtra,2025-09-14,Regular,Potential Loyalists,Watch,35-44
+C11753,Naveen Iyer,Male,45,Lucknow,Uttar Pradesh,2025-05-16,Regular,Champions,Watch,45-54
+C11754,Luke Malhotra,Male,24,Chandigarh,Chandigarh,2025-11-07,Regular,Loyal Customers,Active,18-24
+C11755,Thomas Dalal,Male,32,Delhi,Delhi,2026-01-11,Regular,At Risk,Lost,25-34
+C11756,Falguni Dugar,Female,20,Hyderabad,Telangana,2025-03-13,Regular,Champions,Active,18-24
+C11757,Dakshesh Aurora,Male,18,Pune,Maharashtra,2025-07-22,Regular,Loyal Customers,At Risk,18-24
+C11758,Ishanvi Palla,Female,27,Kolkata,West Bengal,2026-01-15,Regular,At Risk,Lost,25-34
+C11759,Lopa Dhaliwal,Female,30,Kolkata,West Bengal,2025-11-10,Regular,Lost Customers,Watch,25-34
+C11760,Jason Garg,Male,27,Faridabad,Haryana,2025-10-27,Regular,Champions,Active,25-34
+C11761,Nimrat Nigam,Female,33,Indore,Madhya Pradesh,2025-04-11,Premium,Champions,Active,25-34
+C11762,Arya De,Female,26,Indore,Madhya Pradesh,2025-10-27,Regular,No Orders,Never Purchased,25-34
+C11763,Warinder Bedi,Male,50,Delhi,Delhi,2025-03-11,Regular,Lost Customers,Watch,45-54
+C11764,Sanaya Bhagat,Female,27,Nagpur,Maharashtra,2025-08-14,Premium,Potential Loyalists,Watch,25-34
+C11765,Tanay Ramanathan,Male,49,Pune,Maharashtra,2025-07-06,Premium,Lost Customers,Active,45-54
+C11766,Udant Parekh,Male,28,Indore,Madhya Pradesh,2025-04-29,Premium,At Risk,At Risk,25-34
+C11767,Osha Hora,Female,32,Chennai,Tamil Nadu,2026-04-21,Regular,Lost Customers,Active,25-34
+C11768,Viraj Deep,Male,48,Faridabad,Haryana,2026-03-27,Regular,At Risk,Lost,45-54
+C11769,Vivaan Chatterjee,Male,25,Hyderabad,Telangana,2025-05-09,Regular,Lost Customers,Watch,25-34
+C11770,Mohammed Shroff,Male,34,Mysuru,Karnataka,2025-06-26,Regular,Potential Loyalists,Watch,25-34
+C11771,Kala Kapur,Female,24,Chandigarh,Chandigarh,2025-09-09,Regular,No Orders,Never Purchased,18-24
+C11772,Kai Patla,Male,34,Patna,Bihar,2025-09-05,Regular,At Risk,Lost,25-34
+C11773,Gavin Narayanan,Male,45,Ahmedabad,Gujarat,2025-11-09,Regular,At Risk,Lost,45-54
+C11774,Utkarsh Sura,Male,40,Gurugram,Haryana,2026-06-12,Regular,At Risk,Lost,35-44
+C11775,Bhavini Soman,Female,46,Mysuru,Karnataka,2025-12-06,Premium,At Risk,Watch,45-54
+C11776,Pushti Srinivas,Female,31,Coimbatore,Tamil Nadu,2025-02-20,Regular,At Risk,Watch,25-34
+C11777,Frederick Mandal,Male,40,Mumbai,Maharashtra,2026-05-29,Regular,At Risk,Lost,35-44
+C11778,Eesha Trivedi,Female,39,Thiruvananthapuram,Kerala,2026-02-26,Premium,Can't Lose Them,At Risk,35-44
+C11779,Tanmayi Chhabra,Female,33,Pune,Maharashtra,2026-03-22,Regular,At Risk,Lost,25-34
+C11780,Bimala Mittal,Female,24,Delhi,Delhi,2026-05-07,VIP,Lost Customers,Watch,18-24
+C11781,Sai Sachdev,Male,48,Hyderabad,Telangana,2025-11-16,Regular,Lost Customers,Watch,45-54
+C11782,Jairaj Dutt,Male,50,Bangalore,Karnataka,2026-06-22,Regular,No Orders,Never Purchased,45-54
+C11783,Sanaya Bhatti,Female,28,Chandigarh,Chandigarh,2025-12-15,Premium,Loyal Customers,Watch,25-34
+C11784,Hemang Sankar,Male,57,Coimbatore,Tamil Nadu,2026-01-31,Regular,No Orders,Never Purchased,55+
+C11785,Pavani Keer,Female,23,Hyderabad,Telangana,2025-07-22,Regular,New Customers,Active,18-24
+C11786,Balvan Sur,Male,35,Chennai,Tamil Nadu,2025-06-23,Regular,Champions,Watch,35-44
+C11787,Vedika Nanda,Female,46,Kolkata,West Bengal,2026-07-31,Regular,At Risk,Lost,45-54
+C11788,Tristan Goda,Male,33,Kanpur,Uttar Pradesh,2025-06-10,Regular,Potential Loyalists,Watch,25-34
+C11789,Samaksh Boase,Male,28,Kochi,Kerala,2025-09-18,Regular,Can't Lose Them,At Risk,25-34
+C11790,Sachi Narang,Female,24,Chennai,Tamil Nadu,2025-02-08,VIP,Lost Customers,Watch,18-24
+C11791,Bhavani Chana,Female,32,Delhi,Delhi,2026-07-09,Regular,At Risk,Lost,25-34
+C11792,Ekiya Acharya,Female,23,Thiruvananthapuram,Kerala,2026-05-05,Regular,Can't Lose Them,Lost,18-24
+C11793,Falguni Sethi,Female,26,Kanpur,Uttar Pradesh,2025-10-02,VIP,Lost Customers,Watch,25-34
+C11794,Robert Sekhon,Male,19,Surat,Gujarat,2025-05-08,Regular,Champions,Watch,18-24
+C11795,Harshil Nadig,Male,29,Surat,Gujarat,2025-07-26,VIP,Lost Customers,Active,25-34
+C11796,Nidra Saran,Female,30,Jaipur,Rajasthan,2025-04-20,Regular,Loyal Customers,Active,25-34
+C11797,Chaitanya Anand,Male,31,Kochi,Kerala,2026-06-25,Regular,Potential Loyalists,Active,25-34
+C11798,Devansh Menon,Male,27,Nagpur,Maharashtra,2025-02-03,Regular,Lost Customers,Watch,25-34
+C11799,Qasim Bera,Male,40,Surat,Gujarat,2025-02-21,VIP,Loyal Customers,Active,35-44
+C11800,Praneel Choudhary,Male,29,Kochi,Kerala,2025-08-10,Premium,At Risk,Lost,25-34
+C11801,Alexander Keer,Male,38,Hyderabad,Telangana,2026-04-30,Regular,Champions,Active,35-44
+C11802,Ronith Nadkarni,Male,37,Bangalore,Karnataka,2025-05-15,Regular,Loyal Customers,Watch,35-44
+C11803,Samaksh Raj,Male,49,Guwahati,Assam,2025-03-26,Regular,At Risk,Lost,45-54
+C11804,Jagvi Ghose,Female,18,Surat,Gujarat,2025-12-24,VIP,Potential Loyalists,Watch,18-24
+C11805,Ekiya Guha,Female,38,Jaipur,Rajasthan,2025-11-30,Premium,At Risk,Lost,35-44
+C11806,Radha Sahni,Female,31,Nagpur,Maharashtra,2025-05-12,Premium,Lost Customers,Watch,25-34
+C11807,Maanas Dass,Male,43,Nagpur,Maharashtra,2025-10-28,Regular,Champions,Active,35-44
+C11808,Aashi Bora,Female,19,Indore,Madhya Pradesh,2026-04-21,Regular,At Risk,Lost,18-24
+C11809,Ekbal Sur,Male,35,Indore,Madhya Pradesh,2026-04-14,Regular,At Risk,Lost,35-44
+C11810,Ekansh Chad,Male,31,Kolkata,West Bengal,2025-11-10,Regular,Loyal Customers,At Risk,25-34
+C11811,Triya Shah,Female,46,Nagpur,Maharashtra,2025-02-21,Regular,Loyal Customers,At Risk,45-54
+C11812,Hemangini Sha,Female,21,Patna,Bihar,2026-03-18,Regular,At Risk,Lost,18-24
+C11813,Umang Rajagopalan,Male,23,Ahmedabad,Gujarat,2025-12-20,Regular,Champions,Active,18-24
+C11814,Isaiah Grewal,Male,30,Bangalore,Karnataka,2026-06-16,Regular,At Risk,Watch,25-34
+C11815,Aarush Tara,Male,47,Surat,Gujarat,2025-11-16,Premium,At Risk,At Risk,45-54
+C11816,Zashil Luthra,Male,38,Gurugram,Haryana,2026-03-04,VIP,At Risk,Lost,35-44
+C11817,Qadim Bandi,Male,35,Guwahati,Assam,2025-10-07,Regular,No Orders,Never Purchased,35-44
+C11818,Wyatt Pillay,Male,25,Mysuru,Karnataka,2026-02-06,Regular,Lost Customers,Active,25-34
+C11819,Warda Buch,Female,42,Indore,Madhya Pradesh,2025-12-31,Regular,Loyal Customers,Watch,35-44
+C11820,Zansi Mammen,Female,42,Jaipur,Rajasthan,2025-07-30,Premium,Can't Lose Them,At Risk,35-44
+C11821,Yauvani Brar,Female,45,Ahmedabad,Gujarat,2025-11-15,Premium,At Risk,Watch,45-54
+C11822,Krisha Sodhi,Female,32,Guwahati,Assam,2025-10-12,Regular,Can't Lose Them,Lost,25-34
+C11823,Nachiket Bera,Male,38,Kanpur,Uttar Pradesh,2026-05-10,Regular,Loyal Customers,Watch,35-44
+C11824,Aashi Singh,Female,37,Coimbatore,Tamil Nadu,2026-08-16,Premium,Loyal Customers,Active,35-44
+C11825,Wahab Narula,Male,32,Kanpur,Uttar Pradesh,2025-06-05,Regular,At Risk,Lost,25-34
+C11826,Patrick Menon,Male,41,Chandigarh,Chandigarh,2026-06-19,Regular,No Orders,Never Purchased,35-44
+C11827,Fiyaz Banik,Male,33,Mysuru,Karnataka,2026-01-08,Regular,Lost Customers,Watch,25-34
+C11828,Leena Bhat,Female,32,Faridabad,Haryana,2025-08-21,Premium,Champions,Active,25-34
+C11829,Hamsini Behl,Female,34,Jaipur,Rajasthan,2025-03-31,Regular,At Risk,Lost,25-34
+C11830,Amara Mangat,Female,35,Indore,Madhya Pradesh,2025-06-29,Premium,Can't Lose Them,At Risk,35-44
+C11831,Benjamin Date,Male,44,Jaipur,Rajasthan,2026-04-23,Premium,No Orders,Never Purchased,35-44
+C11832,Maya Krishnan,Female,35,Mumbai,Maharashtra,2025-04-01,Premium,Potential Loyalists,Watch,35-44
+C11833,Logan Maharaj,Male,46,Bangalore,Karnataka,2025-07-29,Premium,Lost Customers,Active,45-54
+C11834,Abhimanyu Choudhury,Male,35,Ahmedabad,Gujarat,2025-06-04,Regular,Loyal Customers,Active,35-44
+C11835,Forum Sekhon,Female,28,Chennai,Tamil Nadu,2026-03-12,Regular,New Customers,Active,25-34
+C11836,Gagan Lal,Male,24,Jaipur,Rajasthan,2025-12-04,Regular,No Orders,Never Purchased,18-24
+C11837,Watika Golla,Female,32,Patna,Bihar,2025-12-04,Regular,Loyal Customers,At Risk,25-34
+C11838,Onveer Chad,Male,21,Patna,Bihar,2026-05-21,Premium,Champions,Active,18-24
+C11839,Faraj Tandon,Male,22,Pune,Maharashtra,2025-06-08,Premium,Champions,Active,18-24
+C11840,Sanaya Khanna,Female,51,Mumbai,Maharashtra,2026-08-15,Regular,Can't Lose Them,Lost,45-54
+C11841,Geetika Kade,Female,29,Guwahati,Assam,2025-11-27,Premium,At Risk,Lost,25-34
+C11842,Avi Lalla,Male,29,Ahmedabad,Gujarat,2026-01-22,Regular,Lost Customers,Active,25-34
+C11843,Atharv Ganesh,Male,24,Bangalore,Karnataka,2026-04-04,Premium,At Risk,Lost,18-24
+C11844,Ryan Soni,Male,58,Bangalore,Karnataka,2026-04-14,Premium,At Risk,At Risk,55+
+C11845,Wazir Walia,Male,47,Patna,Bihar,2026-01-12,Regular,At Risk,Lost,45-54
+C11846,Sachi Ramakrishnan,Female,40,Faridabad,Haryana,2025-03-08,Premium,Loyal Customers,At Risk,35-44
+C11847,Lekha Dhillon,Female,25,Faridabad,Haryana,2025-07-09,Regular,Loyal Customers,At Risk,25-34
+C11848,Abeer Mani,Male,44,Nagpur,Maharashtra,2025-06-20,VIP,Lost Customers,Watch,35-44
+C11849,Rayaan Mutti,Male,45,Indore,Madhya Pradesh,2026-04-29,Premium,At Risk,Lost,45-54
+C11850,Chanakya Wali,Male,29,Jaipur,Rajasthan,2025-05-17,Regular,No Orders,Never Purchased,25-34
+C11851,Upma Mahajan,Female,32,Chandigarh,Chandigarh,2025-05-26,Premium,At Risk,At Risk,25-34
+C11852,Lopa Loke,Female,23,Delhi,Delhi,2026-06-11,Regular,No Orders,Never Purchased,18-24
+C11853,Lakshmi Raman,Female,33,Jaipur,Rajasthan,2025-10-11,Regular,At Risk,Lost,25-34
+C11854,Jai Hayer,Male,18,Indore,Madhya Pradesh,2025-02-18,Regular,Champions,Watch,18-24
+C11855,Gautam Munshi,Male,35,Chandigarh,Chandigarh,2026-04-11,Regular,No Orders,Never Purchased,35-44
+C11856,Aayush Bir,Male,22,Coimbatore,Tamil Nadu,2026-01-05,Regular,Lost Customers,Watch,18-24
+C11857,Samesh Chaudhari,Male,40,Kochi,Kerala,2026-04-04,Regular,No Orders,Never Purchased,35-44
+C11858,Udant Panchal,Male,41,Coimbatore,Tamil Nadu,2025-07-14,Regular,Champions,Active,35-44
+C11859,Meghana Krishnamurthy,Female,42,Hyderabad,Telangana,2026-06-14,Premium,Champions,Watch,35-44
+C11860,Anay Bajwa,Male,18,Pune,Maharashtra,2026-07-28,Regular,Lost Customers,Watch,18-24
+C11861,Ayush Kalla,Male,33,Bangalore,Karnataka,2025-03-06,Regular,Can't Lose Them,Lost,25-34
+C11862,Darpan Chadha,Male,28,Jaipur,Rajasthan,2025-10-23,Premium,Lost Customers,Watch,25-34
+C11863,Riya Goyal,Female,27,Coimbatore,Tamil Nadu,2025-11-24,Regular,At Risk,At Risk,25-34
+C11864,Hiral Kulkarni,Female,51,Hyderabad,Telangana,2026-03-25,Regular,New Customers,Watch,45-54
+C11865,Vinaya Borra,Female,42,Mumbai,Maharashtra,2025-12-08,Premium,Lost Customers,Active,35-44
+C11866,Lakshit Sane,Male,43,Faridabad,Haryana,2025-10-21,Regular,Champions,Watch,35-44
+C11867,Kabir Edwin,Male,39,Patna,Bihar,2025-08-20,Premium,Champions,Watch,35-44
+C11868,Manya Bhatia,Female,32,Kanpur,Uttar Pradesh,2026-02-01,Regular,At Risk,Lost,25-34
+C11869,Rishi Natarajan,Male,29,Patna,Bihar,2025-11-24,Regular,Loyal Customers,At Risk,25-34
+C11870,Kai Lanka,Male,39,Pune,Maharashtra,2025-08-31,Regular,At Risk,At Risk,35-44
+C11871,Thomas Boase,Male,29,Lucknow,Uttar Pradesh,2025-09-05,Premium,At Risk,Lost,25-34
+C11872,Irya Ramaswamy,Female,23,Surat,Gujarat,2025-10-05,Regular,Champions,Active,18-24
+C11873,Xalak Chopra,Female,49,Gurugram,Haryana,2026-04-07,Regular,Potential Loyalists,Watch,45-54
+C11874,Upasna Kamdar,Female,39,Nagpur,Maharashtra,2025-05-31,Regular,At Risk,Watch,35-44
+C11875,Vaishnavi Lad,Female,44,Kanpur,Uttar Pradesh,2025-12-31,Premium,At Risk,Lost,35-44
+C11876,Anika Bora,Female,34,Lucknow,Uttar Pradesh,2025-03-10,Premium,Champions,Active,25-34
+C11877,Jeremiah Sehgal,Male,34,Patna,Bihar,2026-01-20,Regular,Champions,Watch,25-34
+C11878,Yuvraj Dixit,Male,28,Chennai,Tamil Nadu,2025-09-05,Regular,At Risk,Lost,25-34
+C11879,Anjali Ramakrishnan,Female,29,Kochi,Kerala,2025-09-23,Premium,Potential Loyalists,Watch,25-34
+C11880,Faqid Narayan,Male,32,Indore,Madhya Pradesh,2025-08-02,VIP,At Risk,Lost,25-34
+C11881,Aadhya Varma,Female,26,Coimbatore,Tamil Nadu,2025-10-22,Regular,Loyal Customers,At Risk,25-34
+C11882,William Sarin,Male,45,Chennai,Tamil Nadu,2026-02-11,Regular,Champions,Active,45-54
+C11883,Bhavya Zachariah,Female,40,Gurugram,Haryana,2026-08-10,Premium,At Risk,Lost,35-44
+C11884,Aadhya Rajagopalan,Female,31,Faridabad,Haryana,2025-09-24,Regular,At Risk,Lost,25-34
+C11885,Divya Wason,Female,39,Chennai,Tamil Nadu,2025-11-25,Regular,Champions,Watch,35-44
+C11886,Osha Mitter,Female,31,Unknown,Telangana,2025-04-02,Regular,At Risk,At Risk,25-34
+C11887,Ayaan Chana,Male,43,Bangalore,Karnataka,2026-05-24,Regular,At Risk,Lost,35-44
+C11888,Panini Buch,Female,24,Thiruvananthapuram,Kerala,2025-09-22,Regular,At Risk,Watch,18-24
+C11889,Mohini Jain,Female,25,Unknown,Tamil Nadu,2025-06-09,Regular,Lost Customers,Watch,25-34
+C11890,Anusha Rajagopalan,Female,51,Nagpur,Maharashtra,2025-02-22,Regular,Loyal Customers,Active,45-54
+C11891,Netra Ramakrishnan,Female,18,Jaipur,Rajasthan,2025-02-11,Premium,Can't Lose Them,At Risk,18-24
+C11892,Rachita Sur,Female,20,Guwahati,Assam,2025-02-13,Regular,Champions,Active,18-24
+C11893,Urvashi Gupta,Female,27,Bhopal,Madhya Pradesh,2025-04-10,Premium,No Orders,Never Purchased,25-34
+C11894,Anita Hans,Female,29,Chandigarh,Chandigarh,2025-07-07,Regular,Loyal Customers,Watch,25-34
+C11895,Jagdish Suresh,Male,28,Bhopal,Madhya Pradesh,2025-12-02,Regular,Loyal Customers,Watch,25-34
+C11896,Bhavika Zachariah,Female,28,Mumbai,Maharashtra,2025-02-02,VIP,Potential Loyalists,Watch,25-34
+C11897,Yahvi Walla,Female,19,Chennai,Tamil Nadu,2025-07-30,Regular,No Orders,Never Purchased,18-24
+C11898,Adweta Bansal,Female,41,Kochi,Kerala,2025-12-10,Regular,Champions,Active,35-44
+C11899,Ayaan Nazareth,Male,42,Bhopal,Madhya Pradesh,2025-08-08,Regular,Can't Lose Them,Lost,35-44
+C11900,Samaksh Dani,Male,36,Indore,Madhya Pradesh,2025-06-07,Regular,Loyal Customers,At Risk,35-44
+C11901,Yutika Shanker,Female,40,Patna,Bihar,2025-09-15,Premium,At Risk,Lost,35-44
+C11902,Jackson Bora,Male,34,Gurugram,Haryana,2025-04-04,Regular,At Risk,Lost,25-34
+C11903,Ekta Suresh,Female,32,Delhi,Delhi,2026-06-17,Regular,Loyal Customers,Watch,25-34
+C11904,Vrishti Bath,Female,53,Mysuru,Karnataka,2026-08-11,Regular,At Risk,Watch,45-54
+C11905,Dhruv Atwal,Male,18,Pune,Maharashtra,2025-12-06,Regular,Loyal Customers,Watch,18-24
+C11906,Aryan Mohanty,Male,24,Mysuru,Karnataka,2026-08-14,Premium,Champions,Active,18-24
+C11907,Vasatika Garde,Female,43,Kanpur,Uttar Pradesh,2025-09-18,Regular,Champions,Active,35-44
+C11908,Damyanti Comar,Female,24,Kanpur,Uttar Pradesh,2025-05-28,Regular,At Risk,Lost,18-24
+C11909,Januja Bhatnagar,Female,38,Lucknow,Uttar Pradesh,2025-04-13,Premium,At Risk,Watch,35-44
+C11910,Unni Nazareth,Female,39,Hyderabad,Telangana,2025-09-07,Regular,Champions,Watch,35-44
+C11911,Nicholas Dara,Male,36,Kanpur,Uttar Pradesh,2025-10-01,Regular,At Risk,Watch,35-44
+C11912,Naveen Kala,Male,34,Mysuru,Karnataka,2026-08-20,Premium,Lost Customers,Watch,25-34
+C11913,Harini Nayak,Female,32,Ahmedabad,Gujarat,2025-07-21,Premium,Loyal Customers,Active,25-34
+C11914,Darpan Mahal,Male,39,Chennai,Tamil Nadu,2026-08-03,Regular,Champions,Active,35-44
+C11915,Sarthak Ganguly,Male,41,Thiruvananthapuram,Kerala,2025-09-12,Premium,Lost Customers,Watch,35-44
+C11916,Fitan Sarna,Male,23,Hyderabad,Telangana,2025-12-20,Regular,At Risk,At Risk,18-24
+C11917,Anmol Deol,Male,28,Pune,Maharashtra,2025-11-21,Regular,At Risk,Watch,25-34
+C11918,Riya Dugar,Female,41,Chennai,Tamil Nadu,2025-11-30,Regular,At Risk,Lost,35-44
+C11919,Widisha Buch,Female,43,Kochi,Kerala,2025-08-07,Premium,Champions,Watch,35-44
+C11920,Aarini Gola,Female,48,Mysuru,Karnataka,2025-04-30,Regular,At Risk,Watch,45-54
+C11921,Meghana Saha,Female,47,Chandigarh,Chandigarh,2026-06-13,Regular,Potential Loyalists,Watch,45-54
+C11922,Edhitha Jhaveri,Female,25,Thiruvananthapuram,Kerala,2025-02-21,Regular,No Orders,Never Purchased,25-34
+C11923,Krishna Virk,Male,33,Bangalore,Karnataka,2025-12-12,Regular,At Risk,Lost,25-34
+C11924,Samesh Khare,Male,35,Indore,Madhya Pradesh,2025-02-06,Regular,Potential Loyalists,Active,35-44
+C11925,Anirudh Gole,Male,30,Mysuru,Karnataka,2026-01-09,Regular,Potential Loyalists,Active,25-34
+C11926,Chanchal Mitra,Female,19,Gurugram,Haryana,2025-03-07,Regular,No Orders,Never Purchased,18-24
+C11927,Ubika Agrawal,Female,40,Bhopal,Madhya Pradesh,2025-09-23,Regular,At Risk,Watch,35-44
+C11928,Gopal Dalal,Male,64,Faridabad,Haryana,2025-12-31,Regular,Loyal Customers,Watch,55+
+C11929,Radhika Zacharia,Female,23,Chandigarh,Chandigarh,2025-11-20,Regular,At Risk,Lost,18-24
+C11930,Vincent Joshi,Male,39,Chennai,Tamil Nadu,2026-01-04,Regular,No Orders,Never Purchased,35-44
+C11931,Avi Hari,Male,49,Pune,Maharashtra,2026-03-15,Regular,At Risk,Watch,45-54
+C11932,Falan Som,Male,39,Surat,Gujarat,2026-06-16,Regular,Potential Loyalists,Watch,35-44
+C11933,Hema Dutta,Female,18,Indore,Madhya Pradesh,2026-03-26,Regular,Loyal Customers,At Risk,18-24
+C11934,Avni Patla,Female,23,Mysuru,Karnataka,2025-08-03,Premium,Champions,Active,18-24
+C11935,Henry Saran,Male,18,Jaipur,Rajasthan,2026-02-08,Regular,Champions,Watch,18-24
+C11936,Oliver Setty,Male,18,Patna,Bihar,2025-02-08,Regular,Lost Customers,Watch,18-24
+C11937,Damini Ben,Female,20,Faridabad,Haryana,2025-04-17,Regular,Potential Loyalists,Watch,18-24
+C11938,Gaurangi Balakrishnan,Female,25,Lucknow,Uttar Pradesh,2026-05-09,Regular,At Risk,Lost,25-34
+C11939,Dalbir Bobal,Male,37,Nagpur,Maharashtra,2026-03-30,Premium,At Risk,Lost,35-44
+C11940,Vamakshi Nanda,Female,42,Kolkata,West Bengal,2025-09-26,Regular,Potential Loyalists,Active,35-44
+C11941,Ira Nanda,Female,41,Hyderabad,Telangana,2025-02-13,Regular,At Risk,Lost,35-44
+C11942,Christopher Nanda,Male,33,Mumbai,Maharashtra,2026-07-29,Regular,Champions,Active,25-34
+C11943,Chavvi Khalsa,Female,37,Lucknow,Uttar Pradesh,2025-03-27,Regular,Loyal Customers,Active,35-44
+C11944,Harish Prashad,Male,35,Faridabad,Haryana,2026-04-17,Premium,Loyal Customers,At Risk,35-44
+C11945,Balhaar Sinha,Male,30,Kanpur,Uttar Pradesh,2026-04-28,Regular,At Risk,Lost,25-34
+C11946,Avi Sarin,Male,25,Hyderabad,Telangana,2025-11-22,Regular,Lost Customers,Watch,25-34
+C11947,Hritik Sha,Male,38,Faridabad,Haryana,2025-11-25,Regular,At Risk,Lost,35-44
+C11948,Sara Prakash,Female,27,Bhopal,Madhya Pradesh,2025-02-08,Regular,Loyal Customers,At Risk,25-34
+C11949,Veer Hari,Male,27,Chandigarh,Chandigarh,2026-07-02,Regular,Loyal Customers,At Risk,25-34
+C11950,Lopa Jain,Female,43,Ahmedabad,Gujarat,2025-03-31,Regular,Loyal Customers,Watch,35-44
+C11951,Devansh Balay,Male,34,Patna,Bihar,2026-07-11,Regular,At Risk,Lost,25-34
+C11952,Meera Deshpande,Female,42,Bhopal,Madhya Pradesh,2025-12-06,Premium,Loyal Customers,At Risk,35-44
+C11953,Viraj Shanker,Male,28,Bangalore,Karnataka,2025-05-02,Regular,No Orders,Never Purchased,25-34
+C11954,Frederick Oza,Male,44,Guwahati,Assam,2025-12-23,Premium,At Risk,At Risk,35-44
+C11955,Neelima Dugar,Female,28,Pune,Maharashtra,2025-05-26,Regular,No Orders,Never Purchased,25-34
+C11956,Jyoti Chadha,Female,34,Hyderabad,Telangana,2026-02-05,Regular,Loyal Customers,Watch,25-34
+C11957,Yutika Suresh,Female,45,Bangalore,Karnataka,2026-07-16,Regular,At Risk,Lost,45-54
+C11958,Vritti Shere,Female,22,Mumbai,Maharashtra,2025-11-15,Regular,Potential Loyalists,Active,18-24
+C11959,Advika Sangha,Female,39,Hyderabad,Telangana,2026-02-21,Regular,Potential Loyalists,Watch,35-44
+C11960,Jatin Narang,Male,52,Mumbai,Maharashtra,2026-03-10,Regular,No Orders,Never Purchased,45-54
+C11961,Indrajit Dixit,Male,33,Bhopal,Madhya Pradesh,2025-05-11,Premium,At Risk,Watch,25-34
+C11962,Sathvik Basu,Male,37,Nagpur,Maharashtra,2026-01-15,Regular,Loyal Customers,At Risk,35-44
+C11963,Vrinda Thaman,Female,53,Chandigarh,Chandigarh,2026-03-15,Regular,At Risk,Lost,45-54
+C11964,Unnati Wali,Female,52,Mysuru,Karnataka,2026-01-11,Regular,No Orders,Never Purchased,45-54
+C11965,Wakeeta Chaudhari,Female,23,Faridabad,Haryana,2025-11-10,Regular,Loyal Customers,Watch,18-24
+C11966,Yachana Khosla,Female,26,Surat,Gujarat,2025-03-08,Premium,At Risk,Lost,25-34
+C11967,Abha Ray,Female,36,Mumbai,Maharashtra,2025-05-29,Regular,Champions,Active,35-44
+C11968,Ekaja Parmer,Female,27,Nagpur,Maharashtra,2026-01-13,Premium,At Risk,Lost,25-34
+C11969,Jagdish Chana,Male,27,Kolkata,West Bengal,2025-04-22,Premium,Loyal Customers,Watch,25-34
+C11970,Wriddhish Mody,Male,42,Chennai,Tamil Nadu,2025-07-27,Premium,No Orders,Never Purchased,35-44
+C11971,Veda Bajwa,Female,36,Pune,Maharashtra,2025-03-02,Premium,Loyal Customers,Watch,35-44
+C11972,Vincent Devi,Male,30,Delhi,Delhi,2025-10-27,Regular,Loyal Customers,Watch,25-34
+C11973,Hiral Prabhakar,Female,26,Kochi,Kerala,2026-05-31,Regular,Loyal Customers,At Risk,25-34
+C11974,Aachal Bobal,Female,45,Ahmedabad,Gujarat,2026-08-10,Regular,Champions,Active,45-54
+C11975,Ojas Wali,Male,44,Unknown,Kerala,2026-01-30,Regular,Champions,Active,35-44
+C11976,Manbir Sandhu,Male,18,Mysuru,Karnataka,2026-01-04,Regular,New Customers,Watch,18-24
+C11977,Ishita Buch,Female,18,Surat,Gujarat,2025-03-13,Regular,Potential Loyalists,Watch,18-24
+C11978,Ayaan Varma,Male,29,Nagpur,Maharashtra,2025-03-21,Regular,Champions,Watch,25-34
+C11979,Atharv Choudhry,Male,26,Nagpur,Maharashtra,2025-12-01,Premium,Lost Customers,Watch,25-34
+C11980,Rajeshri Shroff,Female,46,Thiruvananthapuram,Kerala,2025-04-05,Regular,At Risk,Lost,45-54
+C11981,Qadim Peri,Male,34,Mumbai,Maharashtra,2025-06-28,Regular,Potential Loyalists,Watch,25-34
+C11982,Bhavna Jayaraman,Female,33,Jaipur,Rajasthan,2025-07-17,Premium,At Risk,Lost,25-34
+C11983,Oviya Khare,Female,36,Indore,Madhya Pradesh,2025-10-14,Regular,At Risk,Lost,35-44
+C11984,Waida Kadakia,Female,38,Chandigarh,Chandigarh,2026-03-04,Premium,Potential Loyalists,Watch,35-44
+C11985,Oeshi Pandit,Female,41,Kolkata,West Bengal,2026-04-13,Regular,At Risk,Lost,35-44
+C11986,Yashasvi Sampath,Female,22,Indore,Madhya Pradesh,2026-07-23,Regular,Champions,Active,18-24
+C11987,Avni Bhatnagar,Female,41,Guwahati,Assam,2025-10-06,Regular,Loyal Customers,Watch,35-44
+C11988,Pooja Sethi,Female,30,Surat,Gujarat,2025-06-14,Premium,Potential Loyalists,Active,25-34
+C11989,Yamini Vyas,Female,18,Coimbatore,Tamil Nadu,2026-01-03,VIP,No Orders,Never Purchased,18-24
+C11990,Vrinda Wali,Female,23,Patna,Bihar,2025-10-28,Regular,Potential Loyalists,Watch,18-24
+C11991,Varsha Pillai,Female,39,Patna,Bihar,2025-09-24,Regular,Lost Customers,Active,35-44
+C11992,Ijaya Shankar,Female,35,Jaipur,Rajasthan,2025-04-22,Regular,Loyal Customers,At Risk,35-44
+C11993,Banjeet Raman,Male,53,Delhi,Delhi,2025-02-04,Regular,No Orders,Never Purchased,45-54
+C11994,Maanas Bose,Male,33,Thiruvananthapuram,Kerala,2026-01-08,Regular,New Customers,Active,25-34
+C11995,Gayathri Majumdar,Female,37,Indore,Madhya Pradesh,2025-09-03,Regular,Lost Customers,Watch,35-44
+C11996,Falak Taneja,Female,34,Chandigarh,Chandigarh,2025-03-10,Premium,At Risk,Lost,25-34
+C11997,Ishani Verma,Female,18,Jaipur,Rajasthan,2025-04-27,Regular,Potential Loyalists,Watch,18-24
+C11998,Nandini Saha,Female,27,Bhopal,Madhya Pradesh,2026-08-13,Premium,At Risk,Lost,25-34
+C11999,Vritti Palan,Female,54,Kolkata,West Bengal,2026-07-02,VIP,Lost Customers,Watch,45-54
+C12000,Vamakshi Bail,Female,44,Faridabad,Haryana,2025-02-04,Regular,At Risk,Lost,35-44

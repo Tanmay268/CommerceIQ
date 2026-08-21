@@ -1,0 +1,151 @@
+product_id,product_name,category,subcategory,brand,unit_cost,selling_price,margin_pct
+P1001,Dell Laptops Illum,Electronics,Laptops,Unknown,26874.96,38372.92,29.96
+P1002,Apple Laptops Eaque,Electronics,Laptops,Apple,38857.64,64458.4,39.72
+P1003,Xiaomi Laptops At,Electronics,Laptops,Xiaomi,19066.44,31454.08,39.38
+P1004,Xiaomi Audio Adipisci,Electronics,Audio,Xiaomi,40979.28,60509.53,32.28
+P1005,HP Accessories Eveniet,Electronics,Accessories,HP,27164.82,47571.0,42.9
+P1006,Portronics Mobiles Quasi,Electronics,Mobiles,Portronics,10820.0,18739.53,42.26
+P1007,Lenovo Mobiles Tenetur,Electronics,Mobiles,Lenovo,4548.11,7227.26,37.07
+P1008,Portronics Laptops Iusto,Electronics,Laptops,Portronics,32987.78,51750.03,36.26
+P1009,Apple Mobiles Neque,Electronics,Mobiles,Apple,21064.69,33080.16,36.32
+P1010,Portronics Audio Repellendus,Electronics,Audio,Portronics,6794.04,9031.61,24.77
+P1011,JBL Audio Laboriosam,Electronics,Audio,JBL,11700.82,18237.69,35.84
+P1012,Dell Audio Ullam,Electronics,Audio,Dell,18838.89,25370.06,25.74
+P1013,Lenovo Audio Tenetur,Electronics,Audio,Lenovo,37136.59,52895.62,29.79
+P1014,Portronics Audio Itaque,Electronics,Audio,Portronics,19010.32,27485.51,30.84
+P1015,Apple Accessories Placeat,Electronics,Accessories,Apple,8050.63,13194.79,38.99
+P1016,Xiaomi Mobiles Rerum,Electronics,Mobiles,Xiaomi,19111.02,23119.64,17.34
+P1017,Samsung Laptops Vel,Electronics,Laptops,Samsung,40506.57,68434.16,40.81
+P1018,Sony Audio Voluptatem,Electronics,Audio,Sony,30527.71,52552.08,41.91
+P1019,Sony Audio Quia,Electronics,Audio,Sony,38132.5,53480.6,28.7
+P1020,Anker Mobiles Quo,Electronics,Mobiles,Anker,25854.79,40470.11,36.11
+P1021,JBL Audio Numquam,Electronics,Audio,JBL,11592.94,15455.38,24.99
+P1022,Anker Audio Officia,Electronics,Audio,Anker,5227.15,8340.38,37.33
+P1023,Dell Mobiles Incidunt,Electronics,Mobiles,Dell,32908.14,54514.7,39.63
+P1024,JBL Mobiles Reiciendis,Electronics,Mobiles,JBL,13625.43,18028.57,24.42
+P1025,Xiaomi Mobiles Delectus,Electronics,Mobiles,Xiaomi,19324.99,29530.29,34.56
+P1026,Woodland Women's Wear Inventore,Fashion,Women's Wear,Woodland,3241.08,5590.52,42.03
+P1027,Peter England Footwear Dolores,Fashion,Footwear,Peter England,3231.39,5526.19,41.53
+P1028,Woodland Footwear Facilis,Fashion,Footwear,Woodland,3386.66,5009.89,32.4
+P1029,Bata Women's Wear Eum,Fashion,Women's Wear,Bata,451.92,564.96,20.01
+P1030,Fabindia Footwear Perspiciatis,Fashion,Footwear,Fabindia,1548.88,2098.13,26.18
+P1031,Allen Solly Women's Wear Minima,Fashion,Women's Wear,Unknown,843.81,1495.17,43.56
+P1032,W Men's Wear Illo,Fashion,Men's Wear,W,925.34,1643.06,43.68
+P1033,Bata Men's Wear Architecto,Fashion,Men's Wear,Bata,2734.68,4333.28,36.89
+P1034,Fabindia Women's Wear Dignissimos,Fashion,Women's Wear,Fabindia,2463.26,3445.82,28.51
+P1035,W Men's Wear Libero,Fashion,Men's Wear,W,2368.57,3107.6,23.78
+P1036,Allen Solly Women's Wear Id,Fashion,Women's Wear,Allen Solly,3300.66,4558.46,27.59
+P1037,Peter England Women's Wear Odit,Fashion,Women's Wear,Peter England,1116.6,1816.37,38.53
+P1038,Biba Women's Wear Doloremque,Fashion,Women's Wear,Biba,2400.64,3530.81,32.01
+P1039,Bata Footwear Sit,Fashion,Footwear,Bata,2323.83,3010.98,22.82
+P1040,Woodland Men's Wear Dolorem,Fashion,Men's Wear,Woodland,2454.65,3344.13,26.6
+P1041,Allen Solly Men's Wear Quidem,Fashion,Men's Wear,Allen Solly,1173.08,1521.85,22.92
+P1042,Bata Footwear Illo,Fashion,Footwear,Bata,1363.61,1907.35,28.51
+P1043,Peter England Men's Wear Ducimus,Fashion,Men's Wear,Peter England,1753.37,2304.37,23.91
+P1044,W Women's Wear Doloribus,Fashion,Women's Wear,W,917.62,1399.41,34.43
+P1045,Levis Men's Wear Voluptatum,Fashion,Men's Wear,Levis,712.41,1149.36,38.02
+P1046,Peter England Men's Wear Voluptate,Fashion,Men's Wear,Peter England,3320.63,4835.09,31.32
+P1047,W Footwear Vel,Fashion,Footwear,W,3183.54,4008.04,20.57
+P1048,Levis Women's Wear Dolor,Fashion,Women's Wear,Levis,437.46,714.29,38.76
+P1049,Allen Solly Women's Wear Dolorem,Fashion,Women's Wear,Allen Solly,2735.27,4665.92,41.38
+P1050,Levis Footwear Ex,Fashion,Footwear,Levis,481.82,802.78,39.98
+P1051,Wakefit Kitchen Cum,Home,Kitchen,Wakefit,2233.31,3086.44,27.64
+P1052,Milton Furniture Animi,Home,Furniture,Milton,1134.33,2039.08,44.37
+P1053,Wakefit Kitchen Ipsum,Home,Kitchen,Wakefit,543.78,922.36,41.04
+P1054,Nilkamal Furniture Repellat,Home,Furniture,Nilkamal,3653.27,5995.19,39.06
+P1055,Prestige Decor Debitis,Home,Decor,Prestige,4043.27,6934.45,41.69
+P1056,Wakefit Decor Nulla,Home,Decor,Wakefit,1192.48,1431.57,16.7
+P1057,Nilkamal Furniture Facilis,Home,Furniture,Nilkamal,3432.05,4847.14,29.19
+P1058,Nilkamal Furniture Maxime,Home,Furniture,Nilkamal,868.45,1139.13,23.76
+P1059,Prestige Decor Ea,Home,Decor,Prestige,1991.45,2473.66,19.49
+P1060,Pigeon Decor Enim,Home,Decor,Pigeon,507.33,887.63,42.84
+P1061,Nilkamal Kitchen Ratione,Home,Kitchen,Nilkamal,1885.35,3373.53,44.11
+P1062,Nilkamal Decor Voluptatum,Home,Decor,Nilkamal,5407.58,6951.68,22.21
+P1063,Godrej Interio Kitchen Aliquid,Home,Kitchen,Godrej Interio,4060.59,6336.48,35.92
+P1064,Milton Decor Vel,Home,Decor,Milton,3929.49,4942.18,20.49
+P1065,Wakefit Furniture Ipsum,Home,Furniture,Wakefit,1218.22,1517.88,19.74
+P1066,Nilkamal Furniture Laborum,Home,Furniture,Nilkamal,3462.32,6204.32,44.2
+P1067,Wakefit Kitchen Dignissimos,Home,Kitchen,Wakefit,3828.72,6227.25,38.52
+P1068,Prestige Decor Minima,Home,Decor,Unknown,5516.76,8864.37,37.76
+P1069,Godrej Interio Furniture Occaecati,Home,Furniture,Godrej Interio,416.98,717.29,41.87
+P1070,Prestige Furniture Quis,Home,Furniture,Prestige,2169.26,2608.79,16.85
+P1071,Milton Furniture Dolorem,Home,Furniture,Milton,2939.06,5179.24,43.25
+P1072,Pigeon Decor Quibusdam,Home,Decor,Pigeon,1589.59,2376.29,33.11
+P1073,Godrej Interio Kitchen Incidunt,Home,Kitchen,Godrej Interio,1138.4,1405.49,19.0
+P1074,Nilkamal Kitchen Cupiditate,Home,Kitchen,Nilkamal,634.94,1038.89,38.88
+P1075,Pigeon Decor Alias,Home,Decor,Pigeon,4866.0,6257.58,22.24
+P1076,Maybelline Haircare Necessitatibus,Beauty,Haircare,Maybelline,474.81,625.33,24.07
+P1077,Nivea Haircare Praesentium,Beauty,Haircare,Nivea,134.91,206.69,34.73
+P1078,Maybelline Makeup Dignissimos,Beauty,Makeup,Maybelline,1009.9,1604.45,37.06
+P1079,Dove Haircare Officia,Beauty,Haircare,Dove,604.47,926.66,34.77
+P1080,Maybelline Skincare Ipsum,Beauty,Skincare,Maybelline,222.33,287.38,22.64
+P1081,Maybelline Haircare Dolor,Beauty,Haircare,Maybelline,1311.33,2172.75,39.65
+P1082,Lakme Skincare Ab,Beauty,Skincare,Lakme,1299.56,2274.24,42.86
+P1083,Lakme Skincare Quisquam,Beauty,Skincare,Lakme,944.21,1658.92,43.08
+P1084,Maybelline Skincare Quae,Beauty,Skincare,Maybelline,641.72,771.46,16.82
+P1085,Lakme Makeup Iure,Beauty,Makeup,Lakme,181.34,229.52,20.99
+P1086,Dove Haircare Tenetur,Beauty,Haircare,Dove,223.96,316.01,29.13
+P1087,Tresemme Skincare Voluptatibus,Beauty,Skincare,Tresemme,1011.65,1693.9,40.28
+P1088,Mamaearth Makeup Impedit,Beauty,Makeup,Mamaearth,867.28,1116.94,22.35
+P1089,Tresemme Haircare Pariatur,Beauty,Haircare,Tresemme,1072.27,1514.99,29.22
+P1090,Nivea Haircare Illum,Beauty,Haircare,Nivea,116.89,159.95,26.92
+P1091,Mamaearth Skincare Rem,Beauty,Skincare,Mamaearth,529.78,722.91,26.72
+P1092,Mamaearth Skincare Vel,Beauty,Skincare,Mamaearth,1155.43,1913.34,39.61
+P1093,Nivea Makeup Dignissimos,Beauty,Makeup,Nivea,1004.22,1288.82,22.08
+P1094,Nivea Haircare Recusandae,Beauty,Haircare,Nivea,1150.18,1847.54,37.75
+P1095,Maybelline Skincare Numquam,Beauty,Skincare,Maybelline,353.29,561.33,37.06
+P1096,Tresemme Makeup Labore,Beauty,Makeup,Tresemme,728.57,1066.34,31.68
+P1097,Maybelline Haircare Voluptas,Beauty,Haircare,Maybelline,245.76,371.34,33.82
+P1098,Lakme Makeup Culpa,Beauty,Makeup,Lakme,229.91,298.55,22.99
+P1099,Tresemme Makeup Perferendis,Beauty,Makeup,Tresemme,272.31,482.66,43.58
+P1100,Nivea Skincare Animi,Beauty,Skincare,Nivea,470.32,664.62,29.23
+P1101,Cosco Fitness Deserunt,Sports,Fitness,Cosco,1556.11,2706.0,42.49
+P1102,Decathlon Outdoor Veritatis,Sports,Outdoor,Decathlon,2495.57,4370.98,42.91
+P1103,Decathlon Outdoor Quod,Sports,Outdoor,Decathlon,1469.71,1864.92,21.19
+P1104,Cosco Fitness Cum,Sports,Fitness,Cosco,2469.25,3475.03,28.94
+P1105,Cosco Fitness Inventore,Sports,Fitness,Cosco,3427.44,5921.43,42.12
+P1106,Wildcraft Fitness Alias,Sports,Fitness,Wildcraft,2143.04,3820.64,43.91
+P1107,Quechua Fitness Natus,Sports,Fitness,Quechua,2456.75,3347.45,26.61
+P1108,Decathlon Fitness Sit,Sports,Fitness,Decathlon,2207.0,2697.81,18.19
+P1109,Decathlon Fitness Est,Sports,Fitness,Decathlon,3435.6,4331.81,20.69
+P1110,Cosco Outdoor Occaecati,Sports,Outdoor,Cosco,1504.12,2315.13,35.03
+P1111,Cosco Fitness Magnam,Sports,Fitness,Cosco,467.6,583.37,19.85
+P1112,Wildcraft Outdoor Consectetur,Sports,Outdoor,Wildcraft,3014.85,3747.66,19.55
+P1113,Wildcraft Outdoor Itaque,Sports,Outdoor,Wildcraft,2160.62,3031.82,28.74
+P1114,Cosco Fitness Aspernatur,Sports,Fitness,Cosco,1189.51,1562.14,23.85
+P1115,Cosco Outdoor Sequi,Sports,Outdoor,Cosco,3277.3,5803.85,43.53
+P1116,Cosco Fitness Temporibus,Sports,Fitness,Cosco,846.7,1503.58,43.69
+P1117,Decathlon Outdoor Earum,Sports,Outdoor,Decathlon,2619.57,4152.01,36.91
+P1118,Wildcraft Fitness Reprehenderit,Sports,Fitness,Wildcraft,3068.71,4978.89,38.37
+P1119,Quechua Fitness Qui,Sports,Fitness,Quechua,3497.26,5211.2,32.89
+P1120,Wildcraft Fitness Est,Sports,Fitness,Wildcraft,2380.1,3318.56,28.28
+P1121,Quechua Fitness Hic,Sports,Fitness,Quechua,710.5,1135.94,37.45
+P1122,Decathlon Fitness Eius,Sports,Fitness,Decathlon,431.08,588.59,26.76
+P1123,Decathlon Fitness Adipisci,Sports,Fitness,Decathlon,667.5,877.39,23.92
+P1124,Cosco Outdoor Blanditiis,Sports,Outdoor,Cosco,2791.05,4401.73,36.59
+P1125,Quechua Fitness Quidem,Sports,Fitness,Quechua,1942.11,2435.61,20.26
+P1126,Funskool Educational Occaecati,Toys,Educational,Funskool,995.08,1404.7,29.16
+P1127,Funskool Educational Veritatis,Toys,Educational,Funskool,1554.9,2406.08,35.38
+P1128,Hot Wheels Educational Velit,Toys,Educational,Hot Wheels,1108.55,1654.17,32.98
+P1129,LEGO Outdoor Toys Commodi,Toys,Outdoor Toys,LEGO,2034.28,3364.24,39.53
+P1130,Hot Wheels Outdoor Toys Quam,Toys,Outdoor Toys,Hot Wheels,1119.11,1664.71,32.77
+P1131,Funskool Educational Mollitia,Toys,Educational,Funskool,201.63,355.98,43.36
+P1132,Hot Wheels Educational Earum,Toys,Educational,Hot Wheels,772.39,1045.48,26.12
+P1133,Hot Wheels Outdoor Toys Porro,Toys,Outdoor Toys,Hot Wheels,2098.85,3423.67,38.7
+P1134,LEGO Outdoor Toys Ipsum,Toys,Outdoor Toys,LEGO,242.36,299.83,19.17
+P1135,Funskool Educational Sed,Toys,Educational,Funskool,199.73,311.53,35.89
+P1136,Hot Wheels Educational Sed,Toys,Educational,Hot Wheels,289.55,509.62,43.18
+P1137,Hot Wheels Educational Quaerat,Toys,Educational,Hot Wheels,1976.97,3020.08,34.54
+P1138,Hot Wheels Outdoor Toys Aspernatur,Toys,Outdoor Toys,Hot Wheels,1352.45,1859.8,27.28
+P1139,Hot Wheels Educational Vel,Toys,Educational,Unknown,274.75,451.27,39.12
+P1140,LEGO Outdoor Toys Magni,Toys,Outdoor Toys,LEGO,348.48,436.07,20.09
+P1141,Funskool Outdoor Toys Nam,Toys,Outdoor Toys,Funskool,756.89,913.93,17.18
+P1142,Funskool Educational Dignissimos,Toys,Educational,Funskool,996.37,1618.71,38.45
+P1143,Hot Wheels Educational Nobis,Toys,Educational,Hot Wheels,1712.63,2676.13,36.0
+P1144,Hot Wheels Educational Maxime,Toys,Educational,Hot Wheels,1801.4,2601.04,30.74
+P1145,Hot Wheels Outdoor Toys Molestiae,Toys,Outdoor Toys,Hot Wheels,1805.11,2714.68,33.51
+P1146,LEGO Educational Minima,Toys,Educational,LEGO,584.92,1033.25,43.39
+P1147,LEGO Educational Accusantium,Toys,Educational,LEGO,686.19,834.22,17.74
+P1148,Funskool Educational Id,Toys,Educational,Funskool,623.21,884.97,29.58
+P1149,Funskool Educational Laborum,Toys,Educational,Funskool,835.13,1265.06,33.98
+P1150,LEGO Outdoor Toys Laudantium,Toys,Outdoor Toys,LEGO,1872.1,2574.89,27.29
