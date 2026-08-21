@@ -66,6 +66,26 @@ Before writing any code, the environment was audited and 8 scoping questions wer
 ## 2026-08-21 — Data cleaning (automated report from `src/clean_data.py`)
 Cleaning CommerceIQ raw data...
 
+## 2026-08-21 — Forecasting module: excluding partial months
+
+While building `src/forecasting.py` (optional module, RFM/churn/SQL do not depend on it), the first Holt
+linear-trend forecast came out oddly high (₹6.9-7.2M vs. a ₹5.5M moving-average baseline). Root cause: the
+1-year history window (`TODAY - 365 days` to `TODAY`) starts and ends mid-month, so both the first bucketed
+month (2025-08, ~11 days of data) and the last (2026-08, ~21 days of data) are partial months with
+artificially low revenue — the trend model was reacting to two fake dips at each end of the series.
+
+**Fix**: `get_monthly_revenue()` now drops both the first and last monthly bucket when they correspond to
+the known partial-month boundaries, before fitting. Re-run result: forecast (₹5.72-5.74M) now sits close to
+the moving-average baseline (₹5.85M), which is the expected sanity-check relationship for a low-trend series
+— confirms the fix, not just a difference.
+
+**Also observed**: `ExponentialSmoothing` raised a `ConvergenceWarning` on this ~11-point series even after
+the fix — expected at this sample size (the optimizer's tolerance isn't reliably reachable with so few
+points) and the resulting parameters were still stable/sane, so the warning is caught and suppressed locally
+in `forecast_holt()` rather than treated as an error or silenced globally.
+
+---
+
 ### customers
 - Raw row count: 2015
 - Removed 15 exact duplicate rows
