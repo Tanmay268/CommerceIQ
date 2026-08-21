@@ -63,6 +63,63 @@ Before writing any code, the environment was audited and 8 scoping questions wer
 
 ---
 
+## 2026-08-21 — `reports/business_insights.md`: two corrections made during generation
+
+`src/generate_insights.py` runs real queries and writes Finding/Recommendation pairs — no numbers are
+hand-written — but the first draft output surfaced two things worth catching before calling it done:
+
+1. **Channel recommendation nonsensical for unpaid traffic.** The first version picked whichever channel
+   had the single highest session-conversion rate and recommended "shift budget toward it" — which broke
+   when that channel was **Organic** (zero marketing spend; there's no budget to shift *toward* free
+   traffic). Fixed by splitting the comparison: the budget-shift recommendation now only considers
+   paid/owned channels, with Organic shown separately for context.
+2. **Data-cleaning artifact leaking into a "finding."** The device-checkout-completion finding was
+   initially won by `device = 'Unknown'` — the placeholder `clean_data.py` fills in for the ~1% of
+   sessions where the raw device value was missing (see the cleaning report below). Reporting a data-
+   quality placeholder as if it were a real device segment would be misleading, so that finding now
+   explicitly excludes `Unknown` and compares only real device values.
+
+Also worth being honest about: the corrected device finding ended up with a very small gap (32.0% vs.
+32.4%) — the synthetic generator has no deliberate device-driven checkout effect built in, so this
+particular finding is closer to noise than signal. It's left in because the pipeline is meant to
+demonstrate the *mechanism* (real query → real number → written finding) on a portfolio-scale synthetic
+dataset, not to claim a discovered business truth — that caveat applies to every finding in this file,
+consistent with the trade-off accepted in the very first decision above.
+
+---
+
+## 2026-08-21 — Project complete: end-to-end verification summary
+
+All 10 build-sequence milestones from the plan are done, each as its own git commit. Final verification
+status:
+
+- **Data generation**: 7 CSVs, seeded/reproducible (seed=42), deliberately messy.
+- **Cleaning**: every injected issue fixed and logged above with before/after row counts.
+- **Database**: Postgres 16 in Docker, schema applied, all 7 tables loaded with row counts verified equal
+  to the cleaned CSVs (`load_to_db.py`'s built-in assertion).
+- **SQL**: all 31 queries across 5 files execute successfully against the live DB (`run_sql_files.py`).
+- **Python analytics**: RFM (1,800 customers scored, 7 segments), rule-based churn/risk (2,000 customers,
+  5 tiers), product profitability, forecasting (Holt linear trend, partial-month bug found and fixed
+  mid-build — see the forecasting entry above) — all 5 notebooks executed headless with zero exceptions.
+- **Dashboard**: Streamlit + Plotly, 4 pages, verified via HTTP smoke test (200 OK on all page routes plus
+  `/_stcore/health`, clean server log) — not a visual browser check, since no browser tool was available in
+  this environment; the user should still open it and look before considering it fully verified end-to-end.
+- **Power BI**: star schema exported + full DAX/build guide written, but **not** independently verified —
+  Power BI Desktop isn't installed and `.pbix` can't be produced or tested by Claude Code at all. This is
+  the one deliverable in the repo that hasn't been run, only authored against the documented schema.
+- **Business insights**: generated from real query results, two issues caught and fixed during generation
+  (see above).
+
+**Known limitations, stated plainly:**
+- All data is synthetic; findings are illustrative of the *mechanism*, not real business discoveries.
+- Marketing ROAS/CAC use a documented proxy attribution model (conversions × overall AOV), because orders
+  carry no channel/campaign_id in this schema.
+- The Power BI deliverable is guide + data only, not a verified `.pbix`.
+- Running the project requires Docker Desktop to be running (Postgres dependency, chosen deliberately over
+  zero-setup alternatives to match the source spec exactly).
+
+---
+
 ## 2026-08-21 — Data cleaning (automated report from `src/clean_data.py`)
 Cleaning CommerceIQ raw data...
 
