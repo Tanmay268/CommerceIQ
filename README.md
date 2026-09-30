@@ -104,6 +104,29 @@ Opens at `http://localhost:8501`. Four pages (sidebar navigation):
 Funnel Analytics** — all sharing one filter panel (date range, state,
 category, product, RFM segment, membership tier, channel, device).
 
+## Deploy the dashboard (Streamlit Community Cloud)
+
+The dashboard is a Streamlit app with a live Postgres connection, so it
+needs a *hosted* database — there's no Docker on Community Cloud.
+
+1. **Provision a free hosted Postgres** — e.g. [Neon](https://neon.tech) or
+   [Supabase](https://supabase.com). Grab the connection string it gives you.
+2. **Point the pipeline at it and load the data** — set `POSTGRES_HOST`
+   (and friends) or a full connection string in your local `.env` to the
+   hosted DB, then run the pipeline once (`cd src; ..\venv\Scripts\python.exe run_all.py`)
+   so the hosted database gets populated. Switch `.env` back to `localhost`
+   afterwards if you still want to use the local Docker Postgres day-to-day.
+3. **Push this repo to GitHub** (already at
+   [github.com/Tanmay268/CommerceIQ](https://github.com/Tanmay268/CommerceIQ)).
+4. **Create the app** at [share.streamlit.io](https://share.streamlit.io) →
+   New app → pick this repo/branch, set the main file path to
+   `dashboard/Home.py`.
+5. **Add secrets** — in the app's Settings → Secrets panel, paste in a
+   filled-out copy of [`.streamlit/secrets.toml.example`](.streamlit/secrets.toml.example)
+   (just `DATABASE_URL = "postgresql+psycopg2://..."` is enough).
+6. Deploy. `src/db.py` reads `DATABASE_URL`/`POSTGRES_*` from `st.secrets`
+   automatically when running on Community Cloud, and from `.env` locally.
+
 ## Power BI (optional, manual assembly)
 
 Power BI Desktop wasn't available in the build environment and `.pbix` is

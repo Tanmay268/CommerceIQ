@@ -191,3 +191,219 @@ in `forecast_holt()` rather than treated as an error or silenced globally.
 - Cleaned row count: 15000
 
 All cleaned tables written to data/cleaned/.
+
+---
+
+## 2026-09-29 — Data cleaning (automated report from `src/clean_data.py`)
+Cleaning CommerceIQ raw data...
+
+### customers
+- Raw row count: 2015
+- Removed 15 exact duplicate rows
+- Normalized inconsistent state casing/spelling (e.g. 'TAMILNADU' -> 'Tamil Nadu')
+- Filled 20 missing city values with 'Unknown'
+- Treated 6 impossible age values as missing; imputed all 46 missing ages (incl. those outliers) with the median age (33)
+- Cleaned row count: 2000
+
+### products
+- Raw row count: 150
+- Removed 0 exact duplicate rows
+- Standardized category text: 15 distinct raw spellings -> 6 canonical categories
+- Filled 4 missing brand values with 'Unknown'
+- Cleaned row count: 150
+
+### orders
+- Raw row count: 5020
+- Removed 20 exact duplicate rows
+- Fixed 8 negative quantity values (took absolute value)
+- Dropped 5 rows with invalid/unparseable order_date
+- Dropped 4 rows with an order customer_id not present in customers
+- Dropped 4 rows with an order product_id not present in products
+- Cleaned row count: 4987
+
+### payments
+- Raw row count: 5020
+- Dropped 13 rows referencing an order_id no longer present after order cleaning
+- Recomputed 50 missing amount values from order price x qty x (1-discount); dropped 0 rows that still couldn't be recomputed
+- Cleaned row count: 5007
+
+### returns
+- Raw row count: 298
+- Dropped 1 rows referencing an order_id no longer present after order cleaning
+- Fixed 3 negative refund_amount values (took absolute value)
+- Cleaned row count: 297
+
+### marketing_campaigns
+- Raw row count: 24
+- No injected issues; parsed dates and passed through unchanged
+- Cleaned row count: 24
+
+### website_sessions
+- Raw row count: 15000
+- Filled 150 missing device values with 'Unknown'
+- Dropped 0 rows with a non-null customer_id not present in customers (null customer_id = anonymous session, kept as valid)
+- Cleaned row count: 15000
+
+All cleaned tables written to data/cleaned/.
+
+---
+
+## 2026-09-29 — Data cleaning (automated report from `src/clean_data.py`)
+Cleaning CommerceIQ raw data...
+
+### customers
+- Raw row count: 2015
+- Removed 15 exact duplicate rows
+- Normalized inconsistent state casing/spelling (e.g. 'TAMILNADU' -> 'Tamil Nadu')
+- Filled 20 missing city values with 'Unknown'
+- Treated 6 impossible age values as missing; imputed all 46 missing ages (incl. those outliers) with the median age (33)
+- Cleaned row count: 2000
+
+### products
+- Raw row count: 150
+- Removed 0 exact duplicate rows
+- Standardized category text: 15 distinct raw spellings -> 6 canonical categories
+- Filled 4 missing brand values with 'Unknown'
+- Cleaned row count: 150
+
+### orders
+- Raw row count: 5020
+- Removed 20 exact duplicate rows
+- Fixed 8 negative quantity values (took absolute value)
+- Dropped 5 rows with invalid/unparseable order_date
+- Dropped 4 rows with an order customer_id not present in customers
+- Dropped 4 rows with an order product_id not present in products
+- Cleaned row count: 4987
+
+### payments
+- Raw row count: 5020
+- Dropped 13 rows referencing an order_id no longer present after order cleaning
+- Recomputed 50 missing amount values from order price x qty x (1-discount); dropped 0 rows that still couldn't be recomputed
+- Cleaned row count: 5007
+
+### returns
+- Raw row count: 298
+- Dropped 1 rows referencing an order_id no longer present after order cleaning
+- Fixed 3 negative refund_amount values (took absolute value)
+- Cleaned row count: 297
+
+### marketing_campaigns
+- Raw row count: 24
+- No injected issues; parsed dates and passed through unchanged
+- Cleaned row count: 24
+
+### website_sessions
+- Raw row count: 15000
+- Filled 150 missing device values with 'Unknown'
+- Dropped 0 rows with a non-null customer_id not present in customers (null customer_id = anonymous session, kept as valid)
+- Cleaned row count: 15000
+
+All cleaned tables written to data/cleaned/.
+
+---
+
+## 2026-09-30 — Data cleaning (automated report from `src/clean_data.py`)
+Cleaning CommerceIQ raw data...
+
+### customers
+- Raw row count: 2015
+- Removed 15 exact duplicate rows
+- Normalized inconsistent state casing/spelling (e.g. 'TAMILNADU' -> 'Tamil Nadu')
+- Filled 20 missing city values with 'Unknown'
+- Treated 6 impossible age values as missing; imputed all 46 missing ages (incl. those outliers) with the median age (33)
+- Cleaned row count: 2000
+
+### products
+- Raw row count: 150
+- Removed 0 exact duplicate rows
+- Standardized category text: 15 distinct raw spellings -> 6 canonical categories
+- Filled 4 missing brand values with 'Unknown'
+- Cleaned row count: 150
+
+### orders
+- Raw row count: 5020
+- Removed 20 exact duplicate rows
+- Fixed 8 negative quantity values (took absolute value)
+- Dropped 5 rows with invalid/unparseable order_date
+- Dropped 4 rows with an order customer_id not present in customers
+- Dropped 4 rows with an order product_id not present in products
+- Cleaned row count: 4987
+
+### payments
+- Raw row count: 5020
+- Dropped 13 rows referencing an order_id no longer present after order cleaning
+- Recomputed 50 missing amount values from order price x qty x (1-discount); dropped 0 rows that still couldn't be recomputed
+- Cleaned row count: 5007
+
+### returns
+- Raw row count: 298
+- Dropped 1 rows referencing an order_id no longer present after order cleaning
+- Fixed 3 negative refund_amount values (took absolute value)
+- Cleaned row count: 297
+
+### marketing_campaigns
+- Raw row count: 24
+- No injected issues; parsed dates and passed through unchanged
+- Cleaned row count: 24
+
+### website_sessions
+- Raw row count: 15000
+- Filled 150 missing device values with 'Unknown'
+- Dropped 0 rows with a non-null customer_id not present in customers (null customer_id = anonymous session, kept as valid)
+- Cleaned row count: 15000
+
+All cleaned tables written to data/cleaned/.
+
+---
+
+## 2026-09-30 — Data cleaning (automated report from `src/clean_data.py`)
+Cleaning CommerceIQ raw data...
+
+### customers
+- Raw row count: 2015
+- Removed 15 exact duplicate rows
+- Normalized inconsistent state casing/spelling (e.g. 'TAMILNADU' -> 'Tamil Nadu')
+- Filled 20 missing city values with 'Unknown'
+- Treated 6 impossible age values as missing; imputed all 46 missing ages (incl. those outliers) with the median age (33)
+- Cleaned row count: 2000
+
+### products
+- Raw row count: 150
+- Removed 0 exact duplicate rows
+- Standardized category text: 15 distinct raw spellings -> 6 canonical categories
+- Filled 4 missing brand values with 'Unknown'
+- Cleaned row count: 150
+
+### orders
+- Raw row count: 5020
+- Removed 20 exact duplicate rows
+- Fixed 8 negative quantity values (took absolute value)
+- Dropped 5 rows with invalid/unparseable order_date
+- Dropped 4 rows with an order customer_id not present in customers
+- Dropped 4 rows with an order product_id not present in products
+- Cleaned row count: 4987
+
+### payments
+- Raw row count: 5020
+- Dropped 13 rows referencing an order_id no longer present after order cleaning
+- Recomputed 50 missing amount values from order price x qty x (1-discount); dropped 0 rows that still couldn't be recomputed
+- Cleaned row count: 5007
+
+### returns
+- Raw row count: 298
+- Dropped 1 rows referencing an order_id no longer present after order cleaning
+- Fixed 3 negative refund_amount values (took absolute value)
+- Cleaned row count: 297
+
+### marketing_campaigns
+- Raw row count: 24
+- No injected issues; parsed dates and passed through unchanged
+- Cleaned row count: 24
+
+### website_sessions
+- Raw row count: 15000
+- Filled 150 missing device values with 'Unknown'
+- Dropped 0 rows with a non-null customer_id not present in customers (null customer_id = anonymous session, kept as valid)
+- Cleaned row count: 15000
+
+All cleaned tables written to data/cleaned/.

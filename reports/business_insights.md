@@ -1,6 +1,6 @@
 # CommerceIQ — Business Insights & Recommendations
 
-_Generated 2026-08-21 by `src/generate_insights.py` directly from the loaded database — every figure below is computed from the actual dataset, not written by hand._
+_Generated 2026-09-30 by `src/generate_insights.py` directly from the loaded database — every figure below is computed from the actual dataset, not written by hand._
 
 ---
 
