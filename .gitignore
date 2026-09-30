@@ -13,3 +13,4 @@ Thumbs.db
 
 # Streamlit
 .streamlit/secrets.toml
+./docs/.interview_prep.md
